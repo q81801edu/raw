@@ -72,7 +72,6 @@ ANTV,http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9e
 NET.HD,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11#http://tigerfights.xyz:2052/billy/billy/1109832#http://tigerfights.xyz:2052/billy/billy/1109800
 TVN Movies,http://tigerfights.xyz:2052/billy/billy/1109802
 TVN,http://tigerfights.xyz:2052/billy/billy/1109803
-Al Quran Al Karem,http://tigerfights.xyz:2052/billy/billy/1109805
 HITS_Movies,http://tigerfights.xyz:2052/billy/billy/1109806
 Mythbusters Junior,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4324e8d0d37b110ee1a4f1633ac52df5e0cf1f47118daebc5b16269099ad7347
 TV One,http://210.210.155.35/qwr9ew/s/s105/02.m3u8#http://tigerfights.xyz:2052/billy/billy/1109808
