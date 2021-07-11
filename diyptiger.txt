@@ -32,7 +32,7 @@ Crime Investigation,http://tigerfights.xyz:2052/billy/billy/1109734
 Warner TV,http://tigerfights.xyz:2052/billy/billy/1109735#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 Fox Sports 1,http://tigerfights.xyz:2052/billy/billy/1109737
 Nat Geo People,http://tigerfights.xyz:2052/billy/billy/1109739
-CNBC,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8#http://tigerfights.xyz:2052/billy/billy/1109740
+CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8#http://tigerfights.xyz:2052/billy/billy/1109740
 Nat Geo,http://tigerfights.xyz:2052/billy/billy/1109741
 Disney Channel,http://tigerfights.xyz:2052/billy/billy/1109742
 Nick,http://tigerfights.xyz:2052/billy/billy/1109744
