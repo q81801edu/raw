@@ -1,4 +1,552 @@
 
+CHINA,#genre#
+Blackberry Movies FHD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4301
+Arirang CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4364
+CCTV 1 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4361
+CCTV 2 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4354
+CCTV 3 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4353
+CCTV 4 CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4352
+CCTV 4 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4351
+CCTV 5 CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4268
+Newtv star blockbuster CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4362
+CCTV 6 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4350
+CCTV 7 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4349
+CCTV 8 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4348
+CCTV 9 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4347
+CCTV 10 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4360
+CCTV 11 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4359
+CCTV 12 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4358
+Newtv Suspense CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4357
+CCTV 14 HD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4356
+United States Television CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4303
+Hunan CH
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/89995
+Zhejiang CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/89998
+Shenzhen CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90003
+Shandongjy CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90006
+Hebei CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90015
+Guangxi CH
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90017
+Guangdong CH
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90018
+Gansu CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90019
+CCTV Opera CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90022
+CCTV Entertainment CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90023
+韩国CBS CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90024
+Guangdong Southern TV CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90030
+CCTV 5+ CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90032
+CCTV 13 CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90033
+CGTN Documentary CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90037
+China Movie Channel CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90038
+NewTV Action FHD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90039
+NewTV Fighting Theater FHD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90042
+NewTV Chinese Kung Fu FHD CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90044
+NewTV Family Theater CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90046
+Pacvia TV CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90047
+NewTV Healthy CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90049
+BabyTV Mandarin CN
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/90051
+
+
+
+INDONESIA,#genre#
+&TV HD ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62303
+ABC Australia ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62302
+ANTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62297
+AXN ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62293
+Al Jazeera English ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62301
+Al Quran Al Karem ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62300
+Animal Planet ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62299
+Animax ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62298
+Arirang Korea ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62296
+Asian Food Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62295
+BBC Earth ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62289
+BBC World News ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62288
+Baby TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62292
+Bali TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62291
+Berita Satu ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62284
+Besmart ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62283
+Bloomberg ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62282
+Boomerang 1 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62281
+CCM ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62278
+CCTV4 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62277
+CNBC ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62273
+CNN ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62272
+Cartoon Network ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62279
+Celestial Movies ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62276
+Cinema World ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62274
+MTA TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62271
+Crime Investigation ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62270
+DIVA ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62264
+DW ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62262
+Daai TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62269
+Discovery Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62268
+Disney Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62267
+Disney Junior ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62266
+Drama Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62263
+Padang TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62261
+EWTN ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62259
+Euronews ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62260
+FMN ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62257
+Fight Sports ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62258
+Reformed 21 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62256
+Fox Crime ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62254
+Fox Family Movies ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62253
+Fox ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62255
+Fox Life ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62252
+Fox Movies Action ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62250
+Fox Movies ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62251
+Fox News ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62249
+Fox Sports 1 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62248
+Fox Sports 2 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62247
+Fox Sports 3 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62246
+France24 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62245
+GTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62243
+HGTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62242
+Hidayah ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62241
+History ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62240
+Hits ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62239
+Hits Movies ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62238
+IDX ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62237
+Indosiar ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62236
+Infotainment ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62234
+JTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62232
+Jak TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62233
+KIX ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62230
+Kids Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62231
+Kompas TV 1 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62229
+Life ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62227
+Life Style Fashion ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62226
+MNC Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62222
+MNC Entertainment ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62221
+MNC News ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62220
+MNC Shop Smart ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62219
+MNC Shop Trendy ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62218
+MNC Sports ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62216
+MNCTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62214
+MYTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62211
+Metro TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62224
+MiaoMI ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62223
+Music Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62212
+NET.1 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62207
+NHK World Japan ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62204
+Nat Geo ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62210
+News Asia Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62205
+Nick ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62202
+Nick JR ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62201
+RCTI ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62199
+RT English ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62198
+RTV5 Makin Cakep 1 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62197
+tvOne ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62195
+SCM Legend ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62194
+SCTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62193
+S News ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62192
+RBTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62191
+Sony One ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62190
+TLC ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62188
+TRT World ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62183
+TV One ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62181
+TV9 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62180
+TVN Movies ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62178
+Lifetime ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62175
+HBO HITS ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62173
+HBO FAMILY ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62172
+HBO RED ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62171
+TVRI ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62177
+CNN Indonesia ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62163
+Fashion TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62162
+RCTV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62159
+ANIPlus ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62158
+Asian Food Channel HD ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62156
+Dreamworks ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62150
+Thrill ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62189
+Trans TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62186
+Trans7 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62187
+Wesal TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62185
+V Channel ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62144
+Waku Waku Japan ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62143
+Warner TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62142
+Zee Bioskop ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62141
+Zee Cinema ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62140
+Zee News ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62139
+Zee TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62138
+Zing ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62137
+beIN Sports 1 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62286
+beIN Sports 2 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62287
+MTA 3 ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6188
+iNews ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62235
+RRI NET ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/78282
+TV5Monde ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/78288
+TEGAR TV ID
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/78290
+
+
+
+MALAYSIA,#genre#
+ANI PLUS HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18637
+ANIMAL PLANET MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18636
+ANIMAX HD KD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18635
+ASIAN FOOD CHANNEL MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18634
+bEIN MAX MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18633
+ASTRO ARENA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18632
+ASTRO CERIA MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18630
+ASTRO CRICKET HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18629
+ASTRO OASIS HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18628
+ASTRO PRIMA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18627
+ASTRO QUAN JIA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18626
+ASTRO RIA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18625
+ASTRO SHUANG XING HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18624
+ASTRO SUPERSPORTS 1 FHD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18623
+ASTRO SUPERSPORTS 2 FHD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18622
+ASTRO SUPERSPORTS 3 FHD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18621
+ASTRO SUPERSPORTS 4 FHD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18620
+CHUTTI TV MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18619
+ASTRO VAANAVIL HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18618
+ASTRO VINMEEN HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18617
+ASTRO WARNA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18616
+COLORS HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18615
+ASTRO XIAO TAI YANG MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18614
+AXN HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18613
+Astro Awani MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1373
+Astro SuperSport 1 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1366
+Astro SuperSport 2 HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1365
+Astro SuperSport 3 HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1364
+Astro SuperSport 4 HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1161
+BABY FIRST MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18612
+BBC EARTH HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18610
+BBC LIFESTYLE MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18609
+BEIN SPORTS MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18608
+BLUE ANT EXTREME MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18607
+BOLLY ONE HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18606
+BOOMERANG HD KD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18605
+CARTOON NETWORK MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18604
+CELESTIAL MOVIES MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18603
+CINEMA WORLD HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18601
+DISCOVERY CHANNEL MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18600
+DISNEY CH MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18599
+DISNEY JR MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18598
+DISNEY XD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18597
+DUNIA SINEMA MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18595
+ASTRO RUGBY PASS TV MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18593
+FOX FAMILY MOVIES HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18592
+FOX LIFE HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18591
+FOX MOVIES HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18590
+FOX SPORTS 1 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18589
+FOX SPORTS 2 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18588
+FOX SPORTS 3 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18587
+FOX TV HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18586
+FX CINEMA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18585
+Fox Movies Action HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1362
+Fox Movies Premium MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1361
+GNIX SPORTS HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18584
+HGTV MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18583
+GO SHOP GAAYA MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18582
+HITS HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18581
+HYPP SENSASI MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18580
+JAYA MAX APAC Plus MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18548
+KIX MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18575
+MTV ASIA MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18573
+MUTV HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18572
+NAT GEO ASIA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18571
+NAT GEO PEOPLE HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18570
+NAT GEO WILD HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18569
+NICK JR KD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18568
+NICK KD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18567
+NTV7 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1360
+GO SHOP RUUMA MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18565
+PARAMAUNT CHANNEL MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18563
+PESONA HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18562
+SETANTA SPORTS HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18560
+SONY SAB APAC Plus MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18545
+SONY SETMAX APAC Plus MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18544
+SONY TV APAC Plus MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18543
+STAR VIJAY APAC Plus MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18546
+SkyNet Baby TV MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9131
+SkyNet Dmax MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9126
+SkyNet Golf HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9123
+SkyNet MTV China MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9122
+SkyNet Movies HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9114
+SkyNet ZEE TV MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9135
+SkyNet Zing MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/9117
+TLC MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18556
+TRAVEL CHANNEL HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18555
+TV ALHIJRA MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18554
+TV1 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1359
+TV2 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1358
+TV3 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1357
+TV8 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18553
+TV9 MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/1356
+TVN HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18552
+TVN MOVIES MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18551
+WARNER TV HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18550
+WWE NETWORK HD MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18549
+ZEE TAMIL APAC Plus MY
+,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/18547
+
+
+
 INDONESIA,#genre#
 NHK_World_Japan,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a#http://tigerfights.xyz:2052/billy/billy/1109690
 Fox Movies Action,http://tigerfights.xyz:2052/billy/billy/1109692
