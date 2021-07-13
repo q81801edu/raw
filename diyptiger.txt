@@ -1,5 +1,7 @@
+
+
 REV20201030LB11
-央视高清 IVI测试#genre#
+央视高清IVI测试,#genre#
 CCTV-1高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2高清,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV-3高清,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
@@ -18,7 +20,7 @@ CGTN高清,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 CGTN DOC高清,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
-卫视高清 IVI测试,#genre#
+卫视高清IVI测试,#genre#
 北京卫视高清,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京文艺高清,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 北京影视高清,http://ivi.bupt.edu.cn/hls/btv4hd.m3u8
@@ -50,7 +52,7 @@ CETV-1高清,http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 海南卫视高清,http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 贵州卫视高清,http://ivi.bupt.edu.cn/hls/gzhd.m3u8
 
-央视 IVI测试#genre#
+央视IVI测试,#genre#
 CCTV-1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 CCTV-2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV-3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
@@ -68,7 +70,7 @@ CCTV-15音乐,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 CGTN,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
 CCTV-17农业农村,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 
-卫视 IVI测试,#genre#
+卫视IVI测试,#genre#
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2.m3u8
 北京科教,http://ivi.bupt.edu.cn/hls/btv3.m3u8
