@@ -189,28 +189,43 @@ Vision Prime,http://tigerfights.xyz:2052/billy/billy/1109792
 MNC News,http://tigerfights.xyz:2052/billy/billy/1109794
 MNC Shop Smart,http://tigerfights.xyz:2052/billy/billy/1109795
 Thrill,http://tigerfights.xyz:2052/billy/billy/1109797
-ANTV,http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8#http://tigerfights.xyz:2052/billy/billy/1109798
-NET.HD,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11#http://tigerfights.xyz:2052/billy/billy/1109832#http://tigerfights.xyz:2052/billy/billy/1109800
+ANTV,http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8#http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62297#http://tigerfights.xyz:2052/billy/billy/1109798
+NET.HD,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
+NET.HD,http://210.210.155.35:80/session/6708ecb4-d79d-11eb-87e1-c81f66f89318/qwr9ew/s/s08/01.m3u8
+NET.HD,http://tigerfights.xyz:2052/billy/billy/1109832#http://tigerfights.xyz:2052/billy/billy/1109800
 TVN Movies,http://tigerfights.xyz:2052/billy/billy/1109802
 TVN,http://tigerfights.xyz:2052/billy/billy/1109803
 HITS_Movies,http://tigerfights.xyz:2052/billy/billy/1109806
 MOLA TV FREE,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4324e8d0d37b110ee1a4f1633ac52df5e0cf1f47118daebc5b16269099ad7347
 TV One,http://210.210.155.35/qwr9ew/s/s105/02.m3u8#http://tigerfights.xyz:2052/billy/billy/1109808
-TransTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11#http://tigerfights.xyz:2052/billy/billy/1109810
-RCTI,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347#http://tigerfights.xyz:2052/billy/billy/1109811
+TransTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
+TransTV,http://210.210.155.35/session/1a48c52a-d79d-11eb-9219-c81f66f89318/x6bnqe/s/s252/01.m3u8
+TransTV,http://tigerfights.xyz:2052/billy/billy/1109810
+RCTI,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
+RCTI,https://etslive-2-vidio-com.akamaized.net/exp=1626103570~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=3d114d0f9f6fdb5d38f116d308136e25dc86cffcb7aeb562fffea1014b0106ff/vp9/665_stream.mpd
+RCTI,http://tigerfights.xyz:2052/billy/billy/1109811
 MNC TV,http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#http://tigerfights.xyz:2052/billy/billy/1109813
-Metro TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f#http://tigerfights.xyz:2052/billy/billy/1109814
+Metro TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+Metro TV,http://210.210.155.35:80/session/c1d691ec-d819-11eb-9242-b82a72d63267/x6bnqe/h/h12/01.m3u8
+Metro TV,http://tigerfights.xyz:2052/billy/billy/1109814
 iNews,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347#http://tigerfights.xyz:2052/billy/billy/1109816
-GTV,http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#http://tigerfights.xyz:2052/billy/billy/1109817
+GTV,http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+GTV,https://etslive-2-vidio-com.akamaized.net/exp=1626103592~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=2a331fb52362c0a8e63f869c8420cbf138952b0506f4eb201f5211d852b957df/vp9/778_stream.mpd
+GTV,http://tigerfights.xyz:2052/billy/billy/1109817
 Indosiar,http://tigerfights.xyz:2052/billy/billy/1109818
 Nusantara TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 SCTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347#http://tigerfights.xyz:2052/billy/billy/1109820
 MNC Shop Trendy,http://tigerfights.xyz:2052/billy/billy/1109822
 OShop,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089e0cf1f47118daebc5b16269099ad7347
-Trans7,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11#http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1e0cf1f47118daebc5b16269099ad7347#http://tigerfights.xyz:2052/billy/billy/1109823
+Trans7,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
+Trans7,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1e0cf1f47118daebc5b16269099ad7347
+Trans7,http://210.210.155.35/session/218039f4-d79d-11eb-a56a-c81f66f89318/qwr9ew/s/s101/01.m3u8
+Trans7,http://tigerfights.xyz:2052/billy/billy/1109823
 MNC Sports,http://tigerfights.xyz:2052/billy/billy/1109825
 JTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b0fb3069a97a8fb9df1d75e6456ecef11#http://tigerfights.xyz:2052/billy/billy/1109827
-Kompas TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11#http://tigerfights.xyz:2052/billy/billy/1109828
+Kompas TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
+Kompas TV,http://rr2.dens.tv/s/s104/01.m3u8
+Kompas TV,http://tigerfights.xyz:2052/billy/billy/1109828
 BaliTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11#http://tigerfights.xyz:2052/billy/billy/1109830
 Ruang Trampil,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b50fb3069a97a8fb9df1d75e6456ecef11
 Usee Photo,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=ca46c1b9512a7a8315fa3c5a946e82650fb3069a97a8fb9df1d75e6456ecef11
@@ -271,6 +286,7 @@ Zee Cinema,http://tigerfights.xyz:2052/billy/billy/1113322#https://y5w8j4a9.ssl.
 ZEE CLASSIC HD,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 ZEE CAFE,https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 ZING,http://tigerfights.xyz:2052/billy/billy/1113324
+
 
 
 SG&MY,#genre#
