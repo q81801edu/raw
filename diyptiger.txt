@@ -171,6 +171,11 @@ Nat Geo,http://tigerfights.xyz:2052/billy/billy/1109741
 SpaceToon,https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 Disney Channel,http://tigerfights.xyz:2052/billy/billy/1109742
 Nick,http://tigerfights.xyz:2052/billy/billy/1109744
+Asian Food Channel,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+Asian Food Channel,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+Asian Food Channel,http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
+Asian Food Channel,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+Asian Food Channel,http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 Asian Food Channel,http://tigerfights.xyz:2052/billy/billy/1109745
 TV5 Monde Asia,http://tigerfights.xyz:2052/billy/billy/1109747
 TV5 Monde Asia,http://210.210.155.35:80/session/e4806e30-d81d-11eb-a245-b82a72d63267/dr9445/s/s24/01.m3u8
@@ -224,6 +229,7 @@ NET.HD,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda
 NET.HD,http://tigerfights.xyz:2052/billy/billy/1109832
 NET.HD,http://tigerfights.xyz:2052/billy/billy/1109800
 K+,http://210.210.155.35:80/session/84d7ac94-d4af-11eb-a75d-c81f66f89318/uq2663/h/h08/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=K-PLUS
+K+,http://rr.dens.tv/h/h08/index2.m3u8
 tvN Movies,http://210.210.155.35:80/session/bf135918-d4ae-11eb-9219-c81f66f89318/dr9445/h/h21/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=tvN_Movies
 tvN Movies,http://tigerfights.xyz:2052/billy/billy/1109802
 tvN,http://210.210.155.35:80/session/b1d244c8-d4ac-11eb-a75d-c81f66f89318/dr9445/h/h20/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=tvN
