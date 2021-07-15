@@ -120,7 +120,11 @@ CETV-4,http://ivi.bupt.edu.cn/hls/cetv4.m3u8
 
 
 INDONESIA,#genre#
-NHK_World_Japan,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a#http://tigerfights.xyz:2052/billy/billy/1109690
+NHK World Japan,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c9e1074f5b3f9fc8ea15d152add07294f93fb3c9879684db94f7af38b446022a
+NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+NHK World Japan,http://tigerfights.xyz:2052/billy/billy/1109690
+Plus,https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+CMC 2,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/eroz_brebes.m3u8
 Fox Movies Action,http://tigerfights.xyz:2052/billy/billy/1109692
 Cinemax,http://tigerfights.xyz:2052/billy/billy/1109693
 Arirang_Korea,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
@@ -134,6 +138,7 @@ Fox News,http://tigerfights.xyz:2052/billy/billy/1109701
 CNN,http://tigerfights.xyz:2052/billy/billy/1109703
 CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1653751824_b384000_sleng.m3u8
+CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.m3u8
 Fox Crime,http://tigerfights.xyz:2052/billy/billy/1109706
 History,http://tigerfights.xyz:2052/billy/billy/1109708
 Fox Family Movies,http://tigerfights.xyz:2052/billy/billy/1109710#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
@@ -159,7 +164,9 @@ Crime Investigation,http://tigerfights.xyz:2052/billy/billy/1109734
 Warner TV,http://tigerfights.xyz:2052/billy/billy/1109735#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 Fox Sports 1,http://tigerfights.xyz:2052/billy/billy/1109737
 Nat Geo People,http://tigerfights.xyz:2052/billy/billy/1109739
-CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8#http://tigerfights.xyz:2052/billy/billy/1109740
+CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
+CNBC Indonesia,http://tigerfights.xyz:2052/billy/billy/1109740
 Nat Geo,http://tigerfights.xyz:2052/billy/billy/1109741
 SpaceToon,https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 Disney Channel,http://tigerfights.xyz:2052/billy/billy/1109742
@@ -191,6 +198,7 @@ DW,http://210.210.155.35:80/session/6d319ea2-d81e-11eb-a7c0-c81f66f89318/qwr9ew/
 DW,http://tigerfights.xyz:2052/billy/billy/1109774
 France24,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=e4a6222cdb5b34375400904f03d8e6a5dfdded94c48ea6229c48edefa9ec1c9f
 France24,http://210.210.155.35:80/session/bc605a3c-d81d-11eb-8981-c81f66f89318/qwr9ew/s/s22/01.m3u8
+France24,http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 France24,http://tigerfights.xyz:2052/billy/billy/1109776
 Al Jazeera English,http://210.210.155.35:80/session/a18ddc1c-d81c-11eb-ae09-c81f66f89318/qwr9ew/s/s17/01.m3u8
 Al Jazeera English,http://tigerfights.xyz:2052/billy/billy/1109778
@@ -224,6 +232,7 @@ HITS_Movies,http://tigerfights.xyz:2052/billy/billy/1109806
 MOLA TV FREE,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4324e8d0d37b110ee1a4f1633ac52df5e0cf1f47118daebc5b16269099ad7347
 TV One,http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 TV One,http://tigerfights.xyz:2052/billy/billy/1109808
+TransTV,https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?u=eroz_brebes.m3u8
 TransTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
 TransTV,http://210.210.155.35/session/1a48c52a-d79d-11eb-9219-c81f66f89318/x6bnqe/s/s252/01.m3u8
 TransTV,http://tigerfights.xyz:2052/billy/billy/1109810
@@ -233,9 +242,11 @@ RCTI,http://tigerfights.xyz:2052/billy/billy/1109811
 MNC TV,http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#http://tigerfights.xyz:2052/billy/billy/1109813
 Metro TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 Metro TV,http://210.210.155.35:80/session/c1d691ec-d819-11eb-9242-b82a72d63267/x6bnqe/h/h12/01.m3u8
+Metro TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/eroz_brebes.m3u8
 Metro TV,http://tigerfights.xyz:2052/billy/billy/1109814
 iNews TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
 iNews TV,https://etslive-2-vidio-com.akamaized.net/exp=1626103606~acl=/hls-p/ingest_5409_*/*~hmac=6683a94acda4cdf337e045023055342a6aa9ae7df6e051e54a6269f5898b5bd8/hls-p/ingest_5409_720p/index.m3u8
+iNews TV,https://vcdn.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 iNews TV,http://tigerfights.xyz:2052/billy/billy/1109816
 GTV,http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 GTV,https://etslive-2-vidio-com.akamaized.net/exp=1626103592~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=2a331fb52362c0a8e63f869c8420cbf138952b0506f4eb201f5211d852b957df/vp9/778_stream.mpd
@@ -257,21 +268,36 @@ Trans7,http://tigerfights.xyz:2052/billy/billy/1109823
 MNC Sports,http://tigerfights.xyz:2052/billy/billy/1109825
 JTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b0fb3069a97a8fb9df1d75e6456ecef11
 JTV,http://122.248.43.138:1935/ch2/myStream/chunklist_w1817526632.m3u8
+JTV,https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 JTV,http://tigerfights.xyz:2052/billy/billy/1109827
 Kompas TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 Kompas TV,http://rr2.dens.tv/s/s104/01.m3u8
+Kompas TV,https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 Kompas TV,http://tigerfights.xyz:2052/billy/billy/1109828
 Elshinta TV,http://210.210.155.35:80/session/c403ce8a-e313-11eb-babd-c81f66f89318/qwr9ew/s/s10/01.m3u8
 Maleo TV,https://stream.ninmedia.tv:443/maleo/udp.stream/chunklist_w1559603028.m3u8
+Digione,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
+Bandung TV,http://202.150.153.254/bandungtv720p.m3u8
+Jek TV,http://122.248.43.138:1935/ch14/myStream/index.m3u8
+Channel 4U,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/index.m3u8
+Digdaya TV,https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+BmsTV,http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
+ATV Malang,http://stream1.ninmedia.tv:1935/atv/udp.stream_360p/playlist.m3u8
+Riau TV,http://122.248.43.138:1935/ch11/myStream/index.m3u8
+RCTV Cirebon,http://122.248.43.138:1935/ch23/myStream/index.m3u8
+I AM CHANNEL,http://iamchannel.org:1935/tes/1/eroz_brebes.m3u8?op=eroz_brebes.m3u8
 BBS TV,http://103.119.54.246:8080/hls/bbstv.m3u8
 Jawapos TV,http://122.248.43.138:1935/jpm/myStream/chunklist_w2100452136.m3u8
 CTV Banten,http://103.23.201.170:1935/live/livestream/chunklist_w1735148834.m3u8
-AdiTV,https://v2.siar.us:443/aditv/livestream/chunks.m3u8?nimblesessionid=5241127
+ADiTV,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+ADiTV,https://v2.siar.us:443/aditv/livestream/chunks.m3u8?nimblesessionid=5241127
 JITV,https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w879117025.m3u8
-TATV,https://v2.siar.us:443/tatv/live.sdp/chunks.m3u8?nimblesessionid=5243899
+TATV SOLO,http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8?inn=eroz_brebes.m3u8
+TATV SOLO,https://v2.siar.us:443/tatv/live.sdp/chunks.m3u8?nimblesessionid=5243899
 Inspira TV,https://v2.siar.us:443/inspiratv/live/chunks.m3u8?nimblesessionid=5244004
 Duta TV,https://v2.siar.us:443/dutatv/live/chunks.m3u8?nimblesessionid=5244325
 The indonesia Channel,https://5effe161e0fba.streamlock.net:30443/live/ngrp:TIC.stream_all/chunklist_w620615127_b1490252.m3u8
+The Indonesia Channel,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 Bali TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 Bali TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/05.m3u8
 Bali TV,http://tigerfights.xyz:2052/billy/billy/1109830
@@ -328,6 +354,7 @@ Boomerang,http://tigerfights.xyz:2052/billy/billy/1109847
 Jak TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b180fb3069a97a8fb9df1d75e6456ecef11
 Jak TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/05.m3u8
 Jak TV,http://tigerfights.xyz:2052/billy/billy/1109848
+Jakarta Globe NEWS,https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8?ssrcb=eroz_brebes.m3u8
 Waku Waku Japan,http://tigerfights.xyz:2052/billy/billy/1109850
 HGTV,http://tigerfights.xyz:2052/billy/billy/1109852
 SCM Legend,http://tigerfights.xyz:2052/billy/billy/1109853
@@ -340,7 +367,9 @@ NHK World,http://210.210.155.35:80/session/5f391c14-d81c-11eb-900b-c81f66f89318/
 NHK World Premium,http://tigerfights.xyz:2052/billy/billy/1109859
 Berita Satu,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 Berita Satu,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
+Berita Satu,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 Berita Satu,http://tigerfights.xyz:2052/billy/billy/1109860
+Berita Satu WORLD,https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
 BBC World News,http://tigerfights.xyz:2052/billy/billy/1109862
 Risalal TV,http://tigerfights.xyz:2052/billy/billy/1109864
 BBC Earth,http://tigerfights.xyz:2052/billy/billy/1109865
@@ -364,6 +393,7 @@ HBO RED,http://tigerfights.xyz:2052/billy/billy/1109888
 HBO CINEMAX,http://tigerfights.xyz:2052/billy/billy/1109889
 TVRI,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf0fb3069a97a8fb9df1d75e6456ecef11
 TVRI,http://210.210.155.35:80/session/1a47f7a8-d81a-11eb-b7f4-b82a72d63267/qwr9ew/s/s11/01.m3u8
+TVRI,http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 TVRI,http://tigerfights.xyz:2052/billy/billy/1109891
 TVRI Sports,http://210.210.155.35:80/session/3c957038-e314-11eb-a769-b82a72d63267/qwr9ew/s/s107/02.m3u8
 Zee Bioskop,http://210.210.155.35:80/session/53da879e-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s32/02.m3u8
@@ -375,6 +405,7 @@ Zee Cinema,http://tigerfights.xyz:2052/billy/billy/1113322#https://y5w8j4a9.ssl.
 ZEE CLASSIC HD,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 ZEE CAFE,https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 ZING,http://tigerfights.xyz:2052/billy/billy/1113324
+
 
 
 
