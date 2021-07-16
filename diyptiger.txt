@@ -171,12 +171,13 @@ Nat Geo,http://tigerfights.xyz:2052/billy/billy/1109741
 SpaceToon,https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 Disney Channel,http://tigerfights.xyz:2052/billy/billy/1109742
 Nick,http://tigerfights.xyz:2052/billy/billy/1109744
-Asian Food Channel,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-Asian Food Channel,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
-Asian Food Channel,http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
-Asian Food Channel,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-Asian Food Channel,http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-Asian Food Channel,http://tigerfights.xyz:2052/billy/billy/1109745
+Asian Food Network,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+Asian Food Network,https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+Asian Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
+Asian Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
+Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+Asian Food Network,http://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+Asian Food Network,http://tigerfights.xyz:2052/billy/billy/1109745
 TV5 Monde Asia,http://tigerfights.xyz:2052/billy/billy/1109747
 TV5 Monde Asia,http://210.210.155.35:80/session/e4806e30-d81d-11eb-a245-b82a72d63267/dr9445/s/s24/01.m3u8
 Animal Planet,http://tigerfights.xyz:2052/billy/billy/1109748
@@ -411,7 +412,6 @@ Zee Cinema,http://tigerfights.xyz:2052/billy/billy/1113322#https://y5w8j4a9.ssl.
 ZEE CLASSIC HD,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 ZEE CAFE,https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 ZING,http://tigerfights.xyz:2052/billy/billy/1113324
-
 
 
 
