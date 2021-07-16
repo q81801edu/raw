@@ -172,7 +172,7 @@ SpaceToon,https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playli
 Disney Channel,http://tigerfights.xyz:2052/billy/billy/1109742
 Nick,http://tigerfights.xyz:2052/billy/billy/1109744
 Asian Food Network,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-Asian Food Network,https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
+Asian Food Network,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62295
 Asian Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
 Asian Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/8857
 Asian Food Network,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
