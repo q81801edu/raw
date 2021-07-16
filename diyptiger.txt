@@ -302,7 +302,7 @@ TATV SOLO,http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8?inn=eroz
 TATV SOLO,https://v2.siar.us:443/tatv/live.sdp/chunks.m3u8?nimblesessionid=5243899
 Inspira TV,https://v2.siar.us:443/inspiratv/live/chunks.m3u8?nimblesessionid=5244004
 Duta TV,https://v2.siar.us:443/dutatv/live/chunks.m3u8?nimblesessionid=5244325
-The indonesia Channel,https://5effe161e0fba.streamlock.net:30443/live/ngrp:TIC.stream_all/chunklist_w620615127_b1490252.m3u8
+The Indonesia Channel,https://5effe161e0fba.streamlock.net:30443/live/ngrp:TIC.stream_all/chunklist_w620615127_b1490252.m3u8
 The Indonesia Channel,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 Bali TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 Bali TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/05.m3u8
