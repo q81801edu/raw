@@ -124,7 +124,7 @@ NHK World Japan,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67
 NHK World Japan,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 NHK World Japan,http://tigerfights.xyz:2052/billy/billy/1109690
 Plus,https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
-CMC 2,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/eroz_brebes.m3u8
+CMC,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/eroz_brebes.m3u8
 Fox Movies Action,http://tigerfights.xyz:2052/billy/billy/1109692
 Cinemax,http://tigerfights.xyz:2052/billy/billy/1109693
 Arirang_Korea,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=07cdfd23373b17c6b337251c22b7ea57f93fb3c9879684db94f7af38b446022a
@@ -237,6 +237,8 @@ tvN,http://210.210.155.35:80/session/b1d244c8-d4ac-11eb-a75d-c81f66f89318/dr9445
 tvN,http://tigerfights.xyz:2052/billy/billy/1109803
 HITS_Movies,http://tigerfights.xyz:2052/billy/billy/1109806
 MOLA TV FREE,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4324e8d0d37b110ee1a4f1633ac52df5e0cf1f47118daebc5b16269099ad7347
+Citra Bioskop,http://gpc.my.id/vidio/citra-bioskop.m3u8
+Citra Drama,http://gpc.my.id/vidio/citra-drama.m3u8
 TV One,http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 TV One,http://tigerfights.xyz:2052/billy/billy/1109808
 TransTV,https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?u=eroz_brebes.m3u8
@@ -412,6 +414,7 @@ Zee Cinema,http://tigerfights.xyz:2052/billy/billy/1113322#https://y5w8j4a9.ssl.
 ZEE CLASSIC HD,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 ZEE CAFE,https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 ZING,http://tigerfights.xyz:2052/billy/billy/1113324
+
 
 
 
