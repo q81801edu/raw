@@ -284,6 +284,8 @@ Kompas TV,http://rr2.dens.tv/s/s104/01.m3u8
 Kompas TV,https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 Kompas TV,http://tigerfights.xyz:2052/billy/billy/1109828
 Elshinta TV,http://210.210.155.35:80/session/c403ce8a-e313-11eb-babd-c81f66f89318/qwr9ew/s/s10/01.m3u8
+AMOY House Relax,http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+AMOY MUZIC HOUSE,http://111.73.46.108/video/m3u8/2019/12/09/f05ec51f/playlist.m3u8
 Maleo TV,https://stream.ninmedia.tv:443/maleo/udp.stream/chunklist_w1559603028.m3u8
 Digione,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 Bandung TV,http://202.150.153.254/bandungtv720p.m3u8
@@ -414,6 +416,7 @@ Zee Cinema,http://tigerfights.xyz:2052/billy/billy/1113322#https://y5w8j4a9.ssl.
 ZEE CLASSIC HD,https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 ZEE CAFE,https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 ZING,http://tigerfights.xyz:2052/billy/billy/1113324
+
 
 
 
