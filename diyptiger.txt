@@ -124,7 +124,6 @@ Bali TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fd
 Bali TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/05.m3u8
 Bali TV,http://tigerfights.xyz:2052/billy/billy/1109830
 ANTV,http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
-ANTV,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62297
 ANTV,http://tigerfights.xyz:2052/billy/billy/1109798
 CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1653751824_b384000_sleng.m3u8
@@ -205,7 +204,7 @@ SLC,http://tigerfights.xyz:2052/billy/billy/1109766
 Clubbing TV,http://tigerfights.xyz:2052/billy/billy/1109767
 LifeStyle_Fashion,http://tigerfights.xyz:2052/billy/billy/1109769
 OKTV,http://tigerfights.xyz:2052/billy/billy/1109771
-BBC Cbeebies,http://tigerfights.xyz:2052/billy/billy/1109783
+
 IDX,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f#http://tigerfights.xyz:2052/billy/billy/1109784
 Infotainment,http://tigerfights.xyz:2052/billy/billy/1109786
 Life,http://tigerfights.xyz:2052/billy/billy/1109788
@@ -248,7 +247,7 @@ Antara,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda
 TV Edukasi,http://gpc.my.id/vidio/tv-edukasi.m3u8
 TV Edukasi,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=6f4922f45568161a8cdf4ad2299f6d230fb3069a97a8fb9df1d75e6456ecef11
 TV Edukasi,http://202.169.224.76:1935/live/tve.stream/chunklist_w2119006935.m3u8
-RT English,http://tigerfights.xyz:2052/billy/billy/1109835
+
 RTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=aab3238922bcc25a6f606eb525ffdc560fb3069a97a8fb9df1d75e6456ecef11
 RTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ae0cf1f47118daebc5b16269099ad7347
 RTV,http://rr2.dens.tv/s/s12/01.m3u8
@@ -256,10 +255,10 @@ RTV,http://tigerfights.xyz:2052/billy/billy/1109837
 EWTN,http://tigerfights.xyz:2052/billy/billy/1109839
 DIVA,http://tigerfights.xyz:2052/billy/billy/1109842
 Zoom TV,https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/ae49798a-c763-4ab0-92df-6bb8bdc268ac:SIN/variant/a8a69597a59b8d420a2c0986846112a3/bandwidth/1028000.m3u8
-Besmart,http://tigerfights.xyz:2052/billy/billy/1109858
+
 Risalal TV,http://tigerfights.xyz:2052/billy/billy/1109864
 TLC,http://tigerfights.xyz:2052/billy/billy/1109868
-Egg Network,http://210.210.155.35:80/session/4ba09058-e2dd-11eb-9063-b82a72d63267/uq2663/h/h22/01.m3u8
+
 
 
 
@@ -270,6 +269,7 @@ AnhuiTV,http://tigerfights.xyz:2052/billy/billy/1109873
 Xing Kong TV,http://tigerfights.xyz:2052/billy/billy/1109875
 Shanghai Dragon TV,http://tigerfights.xyz:2052/billy/billy/1109876
 Jiangsu TV,http://tigerfights.xyz:2052/billy/billy/1109878
+Hunan TV,https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 Hunan TV,http://tigerfights.xyz:2052/billy/billy/1109879
 
 
@@ -355,6 +355,7 @@ Animax,http://tigerfights.xyz:2052/billy/billy/1109722
 AniPlus,http://210.210.155.35:80/session/c82f3656-d4af-11eb-b0a7-c81f66f89318/dr9445/h/h02/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=ANIPLUS
 Disney XD,http://tigerfights.xyz:2052/billy/billy/1109757
 Disney Junior,http://tigerfights.xyz:2052/billy/billy/1109759
+MiaoMI,https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 MiaoMI,http://tigerfights.xyz:2052/billy/billy/1109760
 Nick JR,http://tigerfights.xyz:2052/billy/billy/1109762
 Cartoon Network,http://tigerfights.xyz:2052/billy/billy/1109750
@@ -364,9 +365,13 @@ SpaceToon,https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playli
 Disney Channel,http://tigerfights.xyz:2052/billy/billy/1109742
 Nick,http://tigerfights.xyz:2052/billy/billy/1109744
 Kids TV,http://tigerfights.xyz:2052/billy/billy/1109772
+BBC Cbeebies,http://tigerfights.xyz:2052/billy/billy/1109783
+Besmart,http://tigerfights.xyz:2052/billy/billy/1109858
+Egg Network,http://210.210.155.35:80/session/4ba09058-e2dd-11eb-9063-b82a72d63267/uq2663/h/h22/01.m3u8
 
 
 KNOWLEDGE,#genre#
+Asian Food Network,https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd
 Asian Food Network,http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 Asian Food Network,http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62295
 Asian Food Network,http://iptv.tvmalaysia.cc:80/penang172/penang172/6693
@@ -430,6 +435,7 @@ UA,http://210.210.155.35:80/session/338d6d26-d81d-11eb-b7f4-b82a72d63267/uq2663/
 TRT World,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=a666587afda6e89aec274a3657558a27dfdded94c48ea6229c48edefa9ec1c9f
 TRT World,http://210.210.155.35:80/session/d5b9d86a-d81c-11eb-8291-b82a72d63267/uq2663/h/h156/S4/mnf.m3u8
 TRT World,http://tigerfights.xyz:2052/billy/billy/1109834
+RT English,http://tigerfights.xyz:2052/billy/billy/1109835
 
 SPORTS,#genre#
 Champions Tv1,http://gpc.my.id/vidio/champion-tv-1.m3u8
