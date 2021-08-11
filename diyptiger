@@ -464,6 +464,15 @@ RRI NET,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fd
 V Channel,http://tigerfights.xyz:2052/billy/billy/1109754
 
 
+新加坡,#genre#
+Suria,http://185.180.221.194:8278/streams/d/Suria/playlist.m3u8
+Vasantham,http://185.180.221.194:8278/streams/d/Vasantham/playlist.m3u8
+Channel U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
+Channel 5,http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
+Channel 8,http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
+CNA,http://185.180.221.194:8278/streams/d/cna/playlist.m3u8
+
+
 X直播电视台 油管频道
 测试,#genre#
 三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
