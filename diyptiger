@@ -228,6 +228,8 @@ Horee,http://gpc.my.id/vidio/horee.m3u8
 Biznet Kids,http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 MKidz,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=5737c6ec2e0716f3d8a7a5c4e0de0d9af93fb3c9879684db94f7af38b446022a
 MKidz,http://rr.dens.tv/h/h98/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
+MKidz,https://gpc.my.id/usee/mykids.m3u8
+Indikids,https://gpc.my.id/usee/indikids.m3u8
 Animax,http://210.210.155.35:80/session/25c022fe-d4af-11eb-ae09-c81f66f89318/dr9445/h/h144/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=Animax_HD
 Animax,http://gcs2.xyz:2052/anh/123/1109722
 AniPlus,http://210.210.155.35:80/session/c82f3656-d4af-11eb-b0a7-c81f66f89318/dr9445/h/h02/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=ANIPLUS
@@ -239,6 +241,7 @@ Cartoon Network,http://gcs2.xyz:2052/anh/123/1109750
 Baby TV,http://gcs2.xyz:2052/anh/123/1109751
 Boomerang,http://gcs2.xyz:2052/anh/123/1109847
 SpaceToon,https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+SpaceToon,http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
 Disney Channel,http://gcs2.xyz:2052/anh/123/1109742
 Nick,http://gcs2.xyz:2052/anh/123/1109744
 Kids TV,http://gcs2.xyz:2052/anh/123/1109772
@@ -259,6 +262,7 @@ Asian Food Network,http://gcs2.xyz:2052/anh/123/1109745
 Biznet Lifestyle,http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 Biznet Adventure 4K,http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 BBC Earth,http://gcs2.xyz:2052/anh/123/1109865
+Smithsonian,https://gpc.my.id/vidio/smithsonian.m3u8
 Love Nature,http://gpc.my.id/vidio/love-nature.m3u8
 Discovery Channel,http://gcs2.xyz:2052/anh/123/1109713
 Nat Geo,http://gcs2.xyz:2052/anh/123/1109741
@@ -269,6 +273,7 @@ HGTV,http://gcs2.xyz:2052/anh/123/1109852
 History,http://gcs2.xyz:2052/anh/123/1109708
 CGTN Documentary,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9f61408e3afb633e50cdf1b20de6f466f93fb3c9879684db94f7af38b446022a
 CGTN Documentary,http://210.210.155.35:80/session/ed00144c-d81e-11eb-8291-b82a72d63267/qwr9ew/s/s20/01.m3u8
+CGTN Documentary,https://gpc.my.id/usee/cgtndocumentary.m3u8
 Crime Investigation,http://gcs2.xyz:2052/anh/123/1109734
 Style TV5Monde,http://210.210.155.35:80/session/037e1210-e2fa-11eb-a83f-b82a72d63267/dr9445/h/h01/01.m3u8
 TBN,http://210.210.155.35:80/session/c1193084-d81e-11eb-aa6b-b82a72d63267/qwr9ew/s/s39/01.m3u8
@@ -354,8 +359,6 @@ CNA,http://185.180.221.194:8278/streams/d/cna/playlist.m3u8
 
 
 X直播电视台 油管频道
-
-中文©新闻,#genre#
 
 测试1,#genre#
 
