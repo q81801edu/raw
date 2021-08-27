@@ -987,6 +987,7 @@ Wesal TV,http://protv-nordic.club:8080/julia/julia123/28709
 TV5 Monde,http://protv-nordic.club:8080/julia/julia123/28719
 
 
+
 INDONESIA,#genre#
 Bali TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 Bali TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/05.m3u8
@@ -1134,6 +1135,7 @@ CHINA,#genre#
 CCTV1,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 CCTV2,http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
 CCTV3,http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+CCTV4,http://rr2.dens.tv/s/s19/01.m3u8
 CCTV4,http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
 CCTV4,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=b53b3a3d6ab90ce0268229151c9bde11f93fb3c9879684db94f7af38b446022a
 CCTV4,http://210.210.155.35:80/session/9612b73a-d81d-11eb-8981-c81f66f89318/qwr9ew/s/s19/01.m3u8
@@ -1149,7 +1151,10 @@ CCTV13,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV14,http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
 CCTV15,http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 AnhuiTV,http://gcs2.xyz:2052/anh/123/1109873
+Xing Kong TV,http://rr2.dens.tv/s/s21/01.m3u8
 Xing Kong TV,http://gcs2.xyz:2052/anh/123/1109875
+PHOENIX CHINESE,http://rr.dens.tv/h/h157/index2.m3u8
+Shanghai Dragon TV,http://rr2.dens.tv/s/s29/01.m3u8
 Shanghai Dragon TV,http://gcs2.xyz:2052/anh/123/1109876
 Jiangsu TV,http://gcs2.xyz:2052/anh/123/1109878
 Hunan TV,http://gcs2.xyz:2052/anh/123/1109879
@@ -1157,13 +1162,16 @@ Hunan TV,http://gcs2.xyz:2052/anh/123/1109879
 
 
 MOVIES,#genre#
+Celestial Movies,http://rr2.dens.tv/s/s33/01.m3u8
 Celestial Movies,http://210.210.155.35:80/session/28969b54-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s33/01.m3u8
 Celestial Movies,http://gcs2.xyz:2052/anh/123/1109697
 CCM,http://gcs2.xyz:2052/anh/123/1109867
 SCM,http://gcs2.xyz:2052/anh/123/1109700
 SCM Legend,http://gcs2.xyz:2052/anh/123/1109853
+Thrill,http://rr2.dens.tv/s/s34/01.m3u8
 Thrill,http://210.210.155.35:80/session/7bedcd18-e2f9-11eb-ba48-c81f66f89318/qwr9ew/s/s34/01.m3u8
 Thrill,http://gcs2.xyz:2052/anh/123/1109797
+SINEMA INDONESIA,http://rr.dens.tv/h/h155/index2.m3u8
 Chinese Drama,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 Fox Movies Action,http://gcs2.xyz:2052/anh/123/1109692
 Fox Family Movies,http://gcs2.xyz:2052/anh/123/1109710#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
@@ -1174,15 +1182,21 @@ Fox Crime,http://gcs2.xyz:2052/anh/123/1109706
 FX,http://gcs2.xyz:2052/anh/123/1109718
 Fox Life,http://gcs2.xyz:2052/anh/123/1109719#https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
 HITS_Movies,http://gcs2.xyz:2052/anh/123/1109806
+Sony ONE,http://rr.dens.tv/h/h143/01.m3u8
 Sony ONE,http://gcs2.xyz:2052/anh/123/1109721
+SONY GEM,http://rr.dens.tv/h/h19/01.m3u8
+KIX,http://rr1.dens.tv/h/h07/01.m3u8
 KIX,http://210.210.155.35:80/session/0d11b596-e2de-11eb-9c1c-c81f66f89318/dr9445/h/h07/01.m3u8
 KIX,http://gcs2.xyz:2052/anh/123/1109843
+AXN,http://rr1.dens.tv/h/h141/01.m3u8
 AXN,http://210.210.155.35:80/session/fb5d73bc-d4af-11eb-bca3-c81f66f89318/dr9445/h/h141/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=AXN_HD
 AXN,http://gcs2.xyz:2052/anh/123/1109724
 K+,http://210.210.155.35:80/session/84d7ac94-d4af-11eb-a75d-c81f66f89318/uq2663/h/h08/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=K-PLUS
 K+,http://rr.dens.tv/h/h08/index2.m3u8
+tvN Movies,http://rr1.dens.tv/h/h21/01.m3u8
 tvN Movies,http://210.210.155.35:80/session/bf135918-d4ae-11eb-9219-c81f66f89318/dr9445/h/h21/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=tvN_Movies
 tvN Movies,http://gcs2.xyz:2052/anh/123/1109802
+tvN,http://rr1.dens.tv/h/h20/01.m3u8
 tvN,http://gpc.my.id/vidio/tvn.m3u8
 tvN,http://210.210.155.35:80/session/b1d244c8-d4ac-11eb-a75d-c81f66f89318/dr9445/h/h20/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=tvN
 tvN,http://gcs2.xyz:2052/anh/123/1109803
@@ -1208,6 +1222,8 @@ Plus,https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 Cinema Europe,http://210.210.155.35:80/session/0b4eb1e0-e2df-11eb-bc1c-c81f66f89318/uq2663/h/h18/01.m3u8
 Cinema World,http://210.210.155.35:80/session/d45a9522-e2f8-11eb-8016-b82a72d63267/dr9445/h/h04/01.m3u8
 Cinema World,http://gcs2.xyz:2052/anh/123/1109845
+MyCINEMA,http://rr.dens.tv/h/h90/index.m3u8
+MyCINEMA ASIA,http://rr.dens.tv/h/h93/index.m3u8
 &TVHD,http://gcs2.xyz:2052/anh/123/1113317
 MOVIE GROUP,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 ZQ DRAMA,http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
@@ -1234,8 +1250,10 @@ MKidz,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda6
 MKidz,http://rr.dens.tv/h/h98/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 MKidz,https://gpc.my.id/usee/mykids.m3u8
 Indikids,https://gpc.my.id/usee/indikids.m3u8
+Animax,http://rr1.dens.tv/h/h144/01.m3u8
 Animax,http://210.210.155.35:80/session/25c022fe-d4af-11eb-ae09-c81f66f89318/dr9445/h/h144/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=Animax_HD
 Animax,http://gcs2.xyz:2052/anh/123/1109722
+AniPlus,http://rr1.dens.tv/h/h02/01.m3u8
 AniPlus,http://210.210.155.35:80/session/c82f3656-d4af-11eb-b0a7-c81f66f89318/dr9445/h/h02/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=ANIPLUS
 Disney XD,http://gcs2.xyz:2052/anh/123/1109757
 Disney Junior,http://gcs2.xyz:2052/anh/123/1109759
@@ -1256,7 +1274,8 @@ Egg Network,http://210.210.155.35:80/session/4ba09058-e2dd-11eb-9063-b82a72d6326
 EBS Kids,http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
 XIAO TAI YANG,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 CERIA,http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
+TOONMAX,http://rr2.dens.tv/s/s50/01.m3u8
+LEGEND OF RABBIT,http://rr2.dens.tv/s/s30/index2.m3u8
 
 
 KNOWLEDGE,#genre#
@@ -1363,6 +1382,8 @@ Channel U,http://185.180.221.194:8278/streams/d/ChannelU/playlist.m3u8
 Channel 5,http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 Channel 8,http://185.180.221.194:8278/streams/d/Channel8/playlist.m3u8
 CNA,http://185.180.221.194:8278/streams/d/cna/playlist.m3u8
+
+
 
 
 X直播电视台 youtube油管频道
@@ -3638,3 +3659,4 @@ XY Plus TV,http://gcs2.xyz:2052/anh/123/2491840
 219:Free X TV HQ,http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/60752
 220:Candyman,http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/60753
 221:Fashion TV,http://meu02.cularu.com:8880/yw12m2n466/UYWyCspA67/60754
+
