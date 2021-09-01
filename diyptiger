@@ -160,17 +160,23 @@ CCTV13,http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV14,http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
 CCTV15,http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 AnhuiTV,http://gcs2.xyz:2052/anh/123/1109873
-Xing Kong TV,http://rr2.dens.tv/s/s21/01.m3u8
+PHOENIX CHINESE NEWS,http://rr2.dens.tv/s/s21/01.m3u8
+Xing Kong TV,http://rr.dens.tv/h/h157/index2.m3u8
 Xing Kong TV,http://gcs2.xyz:2052/anh/123/1109875
-PHOENIX CHINESE,http://rr.dens.tv/h/h157/index2.m3u8
 Shanghai Dragon TV,http://rr2.dens.tv/s/s29/01.m3u8
 Shanghai Dragon TV,http://gcs2.xyz:2052/anh/123/1109876
+Jiangsu TV,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/jswshd/2300000/mnf.m3u8
 Jiangsu TV,http://gcs2.xyz:2052/anh/123/1109878
+Hunan TV,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hnwshd/2300000/mnf.m3u8
 Hunan TV,http://39.135.34.150:8080/000000001000/1000000001000009115/1.m3u8???????????/tyzb00.php?id=21
 Hunan TV,http://gcs2.xyz:2052/anh/123/1109879
 Zhejiang,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/29595
+浙江卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/zjwshd/2300000/mnf.m3u8
+东方卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/hddfws/2300000/mnf.m3u8
+北京卫视,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/bjwshd/2300000/mnf.m3u8
 Formosa TV,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/29601
 CTI ASIA,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37358
+
 
 
 
@@ -602,7 +608,7 @@ ZEE TAMIL,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37343
 
 
 
-X直播电视台 youtube油管频道
+
 
 测试,#genre#
 
@@ -1221,6 +1227,7 @@ CCTV5+[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.
 超级体育ᴴᴰ[1920*1080],http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
 超级体育[1920*1080],http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
 咪咕视频·PP体育1[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+博斯网球,http://114.25.108.216:8168/unknown/L09.php
 博斯魅力[1280*720],rtmp://59.124.75.153/sat/md021
 博斯运动[1280*720],rtmp://59.124.75.153/sat/md011
 博斯网球[1280*720],rtmp://59.124.75.153/sat/md051
@@ -1722,6 +1729,7 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 黑龙江卫视 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
 CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 体育赛事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
+
 
 
 
