@@ -19,6 +19,7 @@ Daai TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fd
 Daai TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3e0cf1f47118daebc5b16269099ad7347
 Daai TV,http://210.210.155.35:80/session/0577fa12-e314-11eb-a769-b82a72d63267/qwr9ew/s/s13/01.m3u8
 Daai TV,http://gcs2.xyz:2052/anh/123/1109840
+Kompas TV,https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3X_zaxvEJoU_lsmrrxfe4Y)/dm/3/x6pz4sa/d/live-0.m3u8
 Kompas TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 Kompas TV,http://rr2.dens.tv/s/s104/01.m3u8
 Kompas TV,https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
@@ -37,6 +38,7 @@ RCTI,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f
 RCTI,https://etslive-2-vidio-com.akamaized.net/exp=1626103570~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=3d114d0f9f6fdb5d38f116d308136e25dc86cffcb7aeb562fffea1014b0106ff/vp9/665_stream.mpd
 RCTI,http://gcs2.xyz:2052/anh/123/1109811
 MNC TV,http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#http://gcs2.xyz:2052/anh/123/1109813
+Metro TV,https://stream-03.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS-PBs_VkbrBfKAJvCbNnLHE)/dm/3/x75p70w/d/live-0.m3u8
 Metro TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 Metro TV,http://210.210.155.35:80/session/c1d691ec-d819-11eb-9242-b82a72d63267/x6bnqe/h/h12/01.m3u8
 Metro TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/eroz_brebes.m3u8
@@ -609,41 +611,7 @@ ZEE TAMIL,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37343
 
 
 
-
-
 测试,#genre#
-无线新闻台,p2p://ns2.hellotvvod.com:9906/b0ab5834fb1c419ba29ee853a33f8d7e.ts
-无线财经·资讯台,p2p://ns2.hellotvvod.com:9906/ab6035d5d7e24864a29eb7a5ac1555bd.ts
-ViuTVsix,p2p://ns2.hellotvvod.com:9906/d817605f636748309d0f28d872f8a1d3.ts
-ViuTV,p2p://ns2.hellotvvod.com:9906/fb90dd620fd14044ad15118bbc0b3e58.ts
-凤凰中文台,p2p://ns2.hellotvvod.com:9906/e9e6bc64a3fa46aab067137fb4b4d2e7.ts
-凤凰资讯台,p2p://ns2.hellotvvod.com:9906/7cba1736deb3429e830998dee0be509c.ts
-凤凰香港台,p2p://ns2.hellotvvod.com:9906/fb38ff0bdbd040eb9257d31cb1a5a47d.ts
-TVB 星河,p2p://ns2.hellotvvod.com:9906/16f1ef51441d40d8ae4f6a55e651cd0c.ts
-阳光卫视,p2p://ns2.hellotvvod.com:9906/927ef69466784ccd87b9aaf2225732d4.ts
-澳门-MACAU,p2p://ns2.hellotvvod.com:9906/b6c435139f4146faae9d2e790543ec90.ts
-澳门莲花,p2p://ns2.hellotvvod.com:9906/05a20adb7cff4ae38c3bb5eaae5c092d.ts
-now新闻台,p2p://ns2.hellotvvod.com:9906/e00580b5247e47ac9402475e9b0d776d.ts
-now直播台,p2p://ns2.hellotvvod.com:9906/50edcd8b030849029d6cc8449059c107.ts
-HKC电影台,p2p://ns2.hellotvvod.com:9906/f7ef013ba3a64f039e80cdbdfac7c5a1.ts
-凤凰电影台,p2p://ns2.hellotvvod.com:9906/d122d4e685274dadbd1edba77e0c3712.ts
-卫视卡式台,p2p://ns2.hellotvvod.com:9906/6290106aabf84f48ae21fe8c2de0368e.ts
-HKC beIN Sports 1,p2p://ns2.hellotvvod.com:9906/a4e15610309f4f5c91dbca42a0f2c56a.ts
-HKC beIN Sports 2,p2p://ns2.hellotvvod.com:9906/8fad928ea037406ca06bfcfc1989f0dc.ts
-HKC新闻台,p2p://ns2.hellotvvod.com:9906/f9da396197294117ba5fb55216597d77.ts
-HKC直播新闻台,p2p://ns2.hellotvvod.com:9906/13e9739533564ac3992982d41fe8b3f8.ts
-HKC财经资讯台,p2p://ns2.hellotvvod.com:9906/2966c63f0d664e3bbea70120f994b3e2.ts
-HKC 18,p2p://ns2.hellotvvod.com:9906/f87e4fd0e95b4fd1940ed520a6c35bb8.ts
-HKC 603,p2p://ns2.hellotvvod.com:9906/32efd3f4f0614fbd873ac0a7a4c0a8c4.ts
-HKC体育,p2p://ns2.hellotvvod.com:9906/ea0086439d424c99a8f639b9c258de6b.ts
-HKC Sports Plus 1,p2p://ns2.hellotvvod.com:9906/3f40e25fa3d644a0aa7e607a6b479282.ts
-HKC Sports Plus 2,p2p://ns2.hellotvvod.com:9906/d6f059dcde824e37a96f9a5fcc5e905c.ts
-HKC综合娱乐台,p2p://ns2.hellotvvod.com:9906/ce3622386b334a9591e39834af3a7e55.ts
-翡翠台,p2p://ns2.hellotvvod.com:9906/1fd8aa43e6e44bc58cccf01b1527c0a2.ts
-福斯动作电影,p2p://ns2.hellotvvod.com:9906/978b82e040f449d68e6837592581c06c.ts
-Thrill,p2p://ns2.hellotvvod.com:9906/c5902e42d3714487ba975108c12fcde1.ts
-明珠台,p2p://ns2.hellotvvod.com:9906/643917ecd05a4e0fb7132d0a65ab5018.ts
-HKC新闻台(备),p2p://ns2.hellotvvod.com:9906/c7f0160a8bbc43c3b9ea133e32469b31.ts
 
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -662,15 +630,11 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 天映电影,http://45.126.83.51/qwr9ew/s/s33/01.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-HBO台1,http://107.167.5.66:80/mylive/102/2065/index.m3u8
-HBO台2,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-HBO台3,http://125.227.210.37:16027/VideoInput/play.ts
-纬来电影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-FOX电影,rtmp://202.39.64.233/channel/60c2d575961593122ebaf8bf?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
+HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-
 
 4K©高清,#genre#
 凤凰中文 10M1080,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
@@ -708,13 +672,13 @@ FashionTV,https://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_7
 广东珠江4K,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
 
-
 香港☒頻道,#genre#
 翡翠台,http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 翡翠华丽台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
 明珠台,https://cdn.hkdtmb.com/hls/84/index.m3u8
+h明珠台粤语,ttps://cdn.hkdtmb.com/hls/84b/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线新闻台,rtmp://202.39.64.233/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -762,7 +726,6 @@ Now Sports Prime,http://livetv.dnsfor.me/channel.12.m3u8
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影HD,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 星空卫视,rtmp://118.163.221.79/channel/6100349af0618408855f372f?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-爆谷台,rtmp://v3948069e.live.126.net/live/ddpmraud42391285/1
 
 台湾☒頻道,#genre#
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051
@@ -1240,6 +1203,164 @@ NHK,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 BBCWorldNews,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 SKYnews,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/05.m3u8
 
+= 未分组 =
+beIN Sport 1 Premium (yaciapp)[1280*720],http://11.yaciaptk.xyz/live/6161655/index.m3u8
+TVRI Yogyakarta[1280*720],http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+Surau TV[1280*720],http://119.235.249.58:1935/surautv/live/playlist.m3u8
+Bein 2 direct[1280*720],http://15.yaciaptk.xyz/live/652177700/index.m3u8
+????? Disney (576p)[1047*576],http://188.40.68.167/russia/disney/playlist.m3u8
+??????? ??? (576p)[1047*576],http://188.40.68.167/russia/radost_moya/playlist.m3u8
+Tiji Russia (576p)[1047*576],http://188.40.68.167/russia/tiji/playlist.m3u8
+SCTV[655*360],http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+ANTV[640*360],http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+NET.[640*360],http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8?app_type=mobile&amp;userid=2m4n6yjvyen-&amp;tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&amp;chname=NET.
+KOMPAS TV[640*360],http://210.210.155.35:80/qwr9ew/s/s104/02.m3u8
+RTV[640*360],http://210.210.155.35:80/qwr9ew/s/s12/02.m3u8?app_type=mobile&amp;userid=2m4n6yjvyen-&amp;tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&amp;chname=RTV
+METRO TV[640*360],http://210.210.155.35:80/uq2663/h/h12/02.m3u8?app_type=mobile&amp;userid=2m4n6yjvyen-&amp;tkn=1U7A426J3DXLYES3U4V7KSIJCJXYR1YF&amp;chname=Metro_TV
+Bein 1[540*313],http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8
+Bein 2[540*313],http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8
+Bein 3[540*313],http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8
+Bein 5[540*313],http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8
+Bein 6[540*313],http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8
+Bein 7[540*313],http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8
+Bein 8[540*313],http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8
+Bein Sports[640*360],http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8?token=null
+ESPN 2[640*360],http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null
+ESPN[640*360],http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8?token=null
+HOL | ESPN 1[540*313],http://31.220.41.88:8081/live/nl-foxsports1.stream/chunks.m3u8
+HOL | ESPN 2[540*313],http://31.220.41.88:8081/live/nl-foxsports2.stream/chunks.m3u8
+HOL | ESPN 3[540*313],http://31.220.41.88:8081/live/nl-foxsports3.stream/chunks.m3u8
+HOL | ESPN 4[540*313],http://31.220.41.88:8081/live/nl-foxsports4.stream/chunks.m3u8
+HOL | ESPN 5[540*313],http://31.220.41.88:8081/live/nl-foxsports5.stream/chunks.m3u8
+ABC NEWS[640*360],http://31.220.41.88:8081/live/us-abcnews.stream/playlist.m3u8?token=null
+AMC[640*360],http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
+Animal Planet[1920*1080],http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
+BOOMERANG[640*360],http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
+CARTOON NETWORK[640*360],http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
+CBS[640*360],http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8?token=null
+COMEDY CENTRAL[640*360],http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8?token=null
+DISCOVERY CHANNEL[640*360],http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
+DISNEY[640*360],http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
+DISNEY XD[640*360],http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
+FOX[640*360],http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8?token=null
+FREEFORM[640*360],http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8?token=null
+FX[640*360],http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8?token=null
+FXX[640*360],http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8?token=null
+HALLMARK[640*360],http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
+HBO[640*360],http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
+LIFETIME[640*360],http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
+Nick[640*360],http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
+SHOWTIME[640*360],http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
+SYFY[640*360],http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8?token=null
+TBS[640*360],http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8?token=null
+TNT[640*360],http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8?token=null
+USA NETWORK[640*360],http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
+beIN Sport 1 FR[540*302],http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+beIN Sport 3 FR[540*313],http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+Al-Hijrah[640*480],http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+ASTRO ARENA[1280*720],http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+Awani (Backup)[1280*720],http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+Bernama[640*480],http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+CCM[960*540],http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+Astro Ceria[1280*720],http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+Astro Citra[1280*720],http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Astro Citra CH108[1280*720],http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+Drama Sangat[1280*720],http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+Naura HD[1280*720],http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Naura HD CH109[1280*720],http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+Astro Oasis[1280*720],http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Astro Oasis CH106[1280*720],http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+Astro Prima[1280*720],http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Astro Prima CH105[1280*720],http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+Astro Quan Jia ??[1280*720],http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+One[1280*720],http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+Astro Shuang Xing ???[1280*720],http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Astro Xuang Xing[1280*720],http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+Suria CH110[1280*720],http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8
+TV1[1280*720],http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
+TV2[1280*720],http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
+TV3[1280*720],http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+8TV (Backup)[1280*720],http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV9 (Backup)[1280*720],http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+tvN[1280*720],http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+Astro Xiao Tai Yang HD[1280*720],http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Astro Xiao Tai Yang[1280*720],http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+Toonix[1280*720],http://51.210.227.134/hls/stream.m3u8
+??????? ?? (720p)[1280*720],http://62.32.67.187:1935/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+Skynetsport 3[1920*1080],http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist_w1549922984.m3u8
+Skynetsport 1[1920*1080],http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist_w2098499287.m3u8
+Skynetsport 2[1920*1080],http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports2/chunklist_w1834747878.m3u8
+Natural TV[1920*1080],http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+IDX CHANNEL[854*10503],http://cdn-livetv-studio.metube.id/idxchannel_480/index.m3u8
+INEWS[853*480],http://cdn-livetv-studio.metube.id/inewstv_480/index.m3u8
+MNC SPORT[854*10503],http://cdn-livetv-studio.metube.id/mncsport_480/index.m3u8
+MNC[853*480],http://cdn-livetv-studio.metube.id/mnctv_480/index.m3u8
+beIN Sport 1 Premium (backup 2)[1280*720],http://ctn.bounbrzouw.xyz/live/6161655/index.m3u8
+BeritaSatu[960*540],http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+Tv Ikim[854*480],http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+TV IKIM[1280*720],http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+I AM CHANNEL[768*576],http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
+????[1920*1080],http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+Bisnet Lifestyle[864*486],http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
+beIN Sport 1 Premium (backup 1)[1280*720],http://sos.moukrasa.xyz/live/6161655/index.m3u8
+BTSPORT 1[768*432],http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+BTSPORT 1[768*432],http://stream.tvtap.live:8081/live/bt1.stream/chunks.m3u8
+BTSPORT 2[540*313],http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+BTSPORT 2[540*313],http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
+BTSPORT 3[540*313],http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
+CANAL+ SPORT[540*484],http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
+Sky Sports Premier League SD[540*313],http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+AL-IMAN TV[1920*1080],http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+Wesaltv[1280*720],http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+muadzTV[1280*720],http://wowza60.indostreamserver.com:1935/muadztv/live/playlist.m3u8
+TVRI BUDAYA[720*540],http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+TVRI SPORT[720*540],http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+TVRI DKI JAKARTA[720*540],http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+TVRI NASIONAL[853*480],http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+Tankee[1280*720],https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
+Iqraa TV[1024*576],https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
+tvo KIDS (360p)[640*360],https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+????? (576p)[1024*576],https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+Cloudflare TV[1280*720],https://cloudflare.tv/hls/live.m3u8
+Yo Gabba Gabba![256*144],https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
+Teletubbies (720p)[640*360],https://dhx-teletubbies-3-de.samsung.wurl.com/manifest/playlist.m3u8
+AL-BAHJAH TV[1280*720],https://e1.siar.us/albahjahtv/live/playlist.m3u8
+ST-TV | IGN TV (720p)[426*240],https://ign-sportstribal.amagi.tv/playlist.m3u8
+??????? ??[1920*798],https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
+Supertoons TV (720p)[640*360],https://kedoo-supertoonstv-3-fr.samsung.wurl.com/manifest/playlist.m3u8
+Supertoons TV (720p)[640*360],https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
+The Official LEGO Channel[426*240],https://legochannel-vizio.amagi.tv/playlist.m3u8
+CNBC INDONESIA[1280*720],https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+CNN INDONESIA[1280*720],https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+National Geographic Channel[1280*720],https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+Asian Food Channel[1280*720],https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+Outdoor Channel[1280*720],https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+Outdoor[640*360],https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/eroz_brebes.m3u8
+Shemaroo Kids[1280*720],https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+Shemaroo Kids[640*360],https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+CGTN Documentary[1024*576],https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+MOTO GP[853*480],https://qlobbidev.s.llnwi.net/bpk-tv/ESPN3/hls/index.m3u8?motogp
+Zoo Moo (720p)[640*360],https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
+?![1047*576],https://sc.id-tv.kz/o_34_35.m3u8
+Spacetoon (1080p)[1920*1080],https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+beIN Sport Xtra[1280*720],https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
+UFC 2[512*288],https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+AutoMoto (Bumblebee) (720p)[1280*720],https://stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8
+Toy Zone (Bumblebee)[1280*720],https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8
+MADANI TV[1280*720],https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+LookSport[720*407],https://stream1.1616.ro:1945/lookplus/livestream/chunklist.m3u8?tla
+LookSport Plus[720*407],https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+LookSport 2[720*407],https://stream1.1616.ro:1945/looksport2/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
+IZZAH TV 2[854*480],https://streaming.radiosalamjambi.com/izzahtv.m3u8
+Spacetoon (576p)[428*240],https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+Toon Goggles (720p)[640*360],https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+SKWAD (720p)[1280*720],https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+SAT-7 KIDS (720p)[1280*720],https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+The Design Network[640*360],https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+Toon Goggles (720p)[640*360],https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
+TRT 莖cuk (720p)[1280*720],https://tv-trtcocuk.live.trt.com.tr/master.m3u8
+Planet Knowledge[640*360],https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Zoo Moo (Australia)[640*360],https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 
 體育©頻道,#genre#
@@ -1761,8 +1882,6 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 黑龙江卫视 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
 CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 体育赛事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
-
-
 
 
 
