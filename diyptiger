@@ -2,7 +2,6 @@ INDONESIA,#genre#
 Bali TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 Bali TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/05.m3u8
 Bali TV,http://gcs2.xyz:2052/anh/123/1109830
-ANTV,https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 ANTV,http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 ANTV,http://gcs2.xyz:2052/anh/123/1109798
 CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -31,14 +30,19 @@ NET.HD,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda
 NET.HD,http://gcs2.xyz:2052/anh/123/1109832
 NET.HD,http://gcs2.xyz:2052/anh/123/1109800TV One,http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 TV One,http://gcs2.xyz:2052/anh/123/1109808
+TransTV,https://gpc.my.id/vidio/trans-tv.m3u8
 TransTV,https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?u=eroz_brebes.m3u8
 TransTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
 TransTV,http://210.210.155.35/session/1a48c52a-d79d-11eb-9219-c81f66f89318/x6bnqe/s/s252/01.m3u8
 TransTV,http://gcs2.xyz:2052/anh/123/1109810
+RCTI,https://gpc.my.id/vidio/rcti.m3u8
 RCTI,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96e0cf1f47118daebc5b16269099ad7347
 RCTI,https://etslive-2-vidio-com.akamaized.net/exp=1626103570~acl=/vp9/665_stream.mpd!/vp9/665/*~hmac=3d114d0f9f6fdb5d38f116d308136e25dc86cffcb7aeb562fffea1014b0106ff/vp9/665_stream.mpd
 RCTI,http://gcs2.xyz:2052/anh/123/1109811
-MNC TV,http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8#http://gcs2.xyz:2052/anh/123/1109813
+MNC TV,https://gpc.my.id/vidio/mnc.m3u8
+MNC TV,http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+MNC TV,http://gcs2.xyz:2052/anh/123/1109813
+Metro TV,https://gpc.my.id/vidio/metro-tv.m3u8
 Metro TV,https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS-PBs_VkbrBfKAJvCbNnLHE)/dm/3/x75p70w/d/live-2.m3u8
 Metro TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
 Metro TV,http://210.210.155.35:80/session/c1d691ec-d819-11eb-9242-b82a72d63267/x6bnqe/h/h12/01.m3u8
@@ -48,13 +52,16 @@ iNews TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110
 iNews TV,https://etslive-2-vidio-com.akamaized.net/exp=1626103606~acl=/hls-p/ingest_5409_*/*~hmac=6683a94acda4cdf337e045023055342a6aa9ae7df6e051e54a6269f5898b5bd8/hls-p/ingest_5409_720p/index.m3u8
 iNews TV,https://vcdn.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 iNews TV,http://gcs2.xyz:2052/anh/123/1109816
+GTV,https://gpc.my.id/vidio/gtv.m3u8
 GTV,http://live.unregister.xyz/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
 GTV,https://etslive-2-vidio-com.akamaized.net/exp=1626103592~acl=/vp9/778_stream.mpd!/vp9/778/*~hmac=2a331fb52362c0a8e63f869c8420cbf138952b0506f4eb201f5211d852b957df/vp9/778_stream.mpd
 GTV,http://gcs2.xyz:2052/anh/123/1109817
+Indosiar,https://gpc.my.id/vidio/indosiar.m3u8
 Indosiar,http://210.210.155.35:80/session/a9593cb4-d819-11eb-a7a0-c81f66f89318/qwr9ew/s/s04/01.m3u8
 Indosiar,http://gcs2.xyz:2052/anh/123/1109818
 Nusantara TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 Nusantara TV,https://v6.siar.us:443/nusantaratv/live/chunks.m3u8?nimblesessionid=29261006
+SCTV,https://gpc.my.id/vidio/sctv.m3u8
 SCTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 SCTV,http://210.210.155.35:80/session/9930908a-d819-11eb-a7a0-c81f66f89318/qwr9ew/s/s03/01.m3u8
 SCTV,http://gcs2.xyz:2052/anh/123/1109820
@@ -623,9 +630,15 @@ ZEE TAMIL,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37343
 
 
 
-
 测试,#genre#
-
+1卫视电影台,http://103.47.132.164/PLTV/88888888/224/3221227147/index.m3u8
+2卫视电影台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910c88?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+1卫视洋片台,rtmp://220.130.33.33/channel/60b4e50239e1b02e8b910d20?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+1大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+1大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+1DaAi,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+1龙祥时代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 
 新闻@频道,#genre#
 CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
@@ -647,6 +660,9 @@ CCTV13,http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300
 HBO,http://107.167.5.66:80/mylive/102/2065/index.m3u8
 HBO,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
 HBO,http://125.227.210.37:16027/VideoInput/play.ts
+FOXMOVIES,http://60.251.59.179:8504/xoxo.m3u8
+FOXMOVIES,http://60.251.59.179:8543/xoxo.m3u8
+FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
 東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
 成龙,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
@@ -830,7 +846,7 @@ FOXMOVIES,http://60.251.59.179:8506/xoxo.m3u8
 
 
 
-香港V@185,#genre#
+港台V@185,#genre#
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 J2台,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8
 明珠台,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8
@@ -841,7 +857,18 @@ ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 港台31,http://185.207.176.189:8080/channels/tv-31/playlist.m3u8
 港台32,http://185.207.176.189:8080/channels/tv-32/playlist.m3u8
 港台33,http://185.207.176.189:8080/channels/tv-33/playlist.m3u8
-
+中视,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
+中视经典,http://185.207.176.189:8080/channels/tw-102/playlist.m3u8
+中视菁采台,http://185.207.176.189:8080/channels/tw-103/playlist.m3u8
+华视,http://185.207.176.189:8080/channels/tw-501/playlist.m3u8
+华视教育,http://185.207.176.189:8080/channels/tw-502/playlist.m3u8
+华视新闻,http://185.207.176.189:8080/channels/tw-503/playlist.m3u8
+华视国会1,http://185.207.176.189:8080/channels/tw-504/playlist.m3u8
+华视国会2,http://185.207.176.189:8080/channels/tw-505/playlist.m3u8
+民视,http://185.207.176.189:8080/channels/tw-300/playlist.m3u8
+民视第一台,http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+民视新闻台,http://185.207.176.189:8080/channels/tw-302/playlist.m3u8
+民视台湾台,http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 
 香港@Livetv,#genre#
 RTHK31,http://livetv.dnsfor.me:80/channel.1.m3u8
@@ -1730,7 +1757,6 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 黑龙江卫视 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
 CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 体育赛事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
-
 
 
 
@@ -2700,4 +2726,5 @@ XY Plus TV,http://gcs2.xyz:2052/anh/123/2491840
 219:Free X TV HQ,http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60752
 220:Candyman,http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60753
 221:Fashion TV,http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60754
+
 
