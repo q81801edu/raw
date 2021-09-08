@@ -2,6 +2,7 @@ INDONESIA,#genre#
 Bali TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f3510391521890fb3069a97a8fb9df1d75e6456ecef11
 Bali TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/05.m3u8
 Bali TV,http://gcs2.xyz:2052/anh/123/1109830
+
 ANTV,http://210.210.155.35:80/session/b4c56c5c-7ee3-11ea-aecc-c81f66f89318/qwr9ew/s/s07/01.m3u8
 ANTV,http://gcs2.xyz:2052/anh/123/1109798
 CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -10,15 +11,18 @@ CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/eroz_brebes.
 CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 CNBC Indonesia,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
 CNBC Indonesia,http://gcs2.xyz:2052/anh/123/1109740
+Berita Satu,https://gpc.my.id/vidio/beritasatu.m3u8
 Berita Satu,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1ff1de774005f8da13f42943881c655f0fb3069a97a8fb9df1d75e6456ecef11
 Berita Satu,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=BeritaSatu
 Berita Satu,http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 Berita Satu,http://gcs2.xyz:2052/anh/123/1109860
 Berita Satu WORLD,https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
+Daai TV,https://gpc.my.id/vidio/daai-tv.m3u8
 Daai TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=54229abfcfa5649e7003b83dd47552940fb3069a97a8fb9df1d75e6456ecef11
 Daai TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3e0cf1f47118daebc5b16269099ad7347
 Daai TV,http://210.210.155.35:80/session/0577fa12-e314-11eb-a769-b82a72d63267/qwr9ew/s/s13/01.m3u8
 Daai TV,http://gcs2.xyz:2052/anh/123/1109840
+Kompas TV,https://gpc.my.id/vidio/kompas-tv.m3u8
 Kompas TV,https://stream-02.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3X_zaxvEJoU_lsmrrxfe4Y)/dm/3/x6pz4sa/d/live-2.m3u8
 Kompas TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=9bf31c7ff062936a96d3c8bd1f8f2ff30fb3069a97a8fb9df1d75e6456ecef11
 Kompas TV,http://rr2.dens.tv/s/s104/01.m3u8
@@ -29,6 +33,7 @@ NET.HD,http://210.210.155.35:80/session/6708ecb4-d79d-11eb-87e1-c81f66f89318/qwr
 NET.HD,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d82c8d1619ad8176d665453cfb2e55f00fb3069a97a8fb9df1d75e6456ecef11
 NET.HD,http://gcs2.xyz:2052/anh/123/1109832
 NET.HD,http://gcs2.xyz:2052/anh/123/1109800TV One,http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+TV One,https://gpc.my.id/ytlive/tvone.m3u8
 TV One,http://gcs2.xyz:2052/anh/123/1109808
 TransTV,https://gpc.my.id/vidio/trans-tv.m3u8
 TransTV,https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8?u=eroz_brebes.m3u8
@@ -48,6 +53,7 @@ Metro TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870f
 Metro TV,http://210.210.155.35:80/session/c1d691ec-d819-11eb-9242-b82a72d63267/x6bnqe/h/h12/01.m3u8
 Metro TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/eroz_brebes.m3u8
 Metro TV,http://gcs2.xyz:2052/anh/123/1109814
+iNews TV,https://gpc.my.id/vidio/inews.m3u8
 iNews TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1e0cf1f47118daebc5b16269099ad7347
 iNews TV,https://etslive-2-vidio-com.akamaized.net/exp=1626103606~acl=/hls-p/ingest_5409_*/*~hmac=6683a94acda4cdf337e045023055342a6aa9ae7df6e051e54a6269f5898b5bd8/hls-p/ingest_5409_720p/index.m3u8
 iNews TV,https://vcdn.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
@@ -59,12 +65,14 @@ GTV,http://gcs2.xyz:2052/anh/123/1109817
 Indosiar,https://gpc.my.id/vidio/indosiar.m3u8
 Indosiar,http://210.210.155.35:80/session/a9593cb4-d819-11eb-a7a0-c81f66f89318/qwr9ew/s/s04/01.m3u8
 Indosiar,http://gcs2.xyz:2052/anh/123/1109818
+Nusantara TV,https://gpc.my.id/vidio/nusantara-tv.m3u8
 Nusantara TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=fe73f687e5bc5280214e0486b273a5f90fb3069a97a8fb9df1d75e6456ecef11
 Nusantara TV,https://v6.siar.us:443/nusantaratv/live/chunks.m3u8?nimblesessionid=29261006
 SCTV,https://gpc.my.id/vidio/sctv.m3u8
 SCTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4e0cf1f47118daebc5b16269099ad7347
 SCTV,http://210.210.155.35:80/session/9930908a-d819-11eb-a7a0-c81f66f89318/qwr9ew/s/s03/01.m3u8
 SCTV,http://gcs2.xyz:2052/anh/123/1109820
+Trans7,https://gpc.my.id/vidio/trans7.m3u8
 Trans7,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=3416a75f4cea9109507cacd8e2f2aefc0fb3069a97a8fb9df1d75e6456ecef11
 Trans7,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1e0cf1f47118daebc5b16269099ad7347
 Trans7,http://210.210.155.35/session/218039f4-d79d-11eb-a56a-c81f66f89318/qwr9ew/s/s101/01.m3u8
@@ -73,6 +81,7 @@ JTV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644
 JTV,http://122.248.43.138:1935/ch2/myStream/chunklist_w1817526632.m3u8
 JTV,https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(173d0198-bcba-4a48-ae2b-1b2f5a147824)/manifest.mpd
 JTV,http://gcs2.xyz:2052/anh/123/1109827
+Jak TV,https://gpc.my.id/vidio/jaktv.m3u8
 Jak TV,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=1c383cd30b7c298ab50293adfecb7b180fb3069a97a8fb9df1d75e6456ecef11
 Jak TV,https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/05.m3u8
 Jak TV,http://gcs2.xyz:2052/anh/123/1109848
@@ -80,6 +89,7 @@ Jakarta Globe NEWS,https://b1english.beritasatumedia.com/Beritasatu/B1English_12
 MOLA TV FREE,http://gpc.my.id/vidio/mola-tv-free.m3u8
 MOLA TV FREE,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=4324e8d0d37b110ee1a4f1633ac52df5e0cf1f47118daebc5b16269099ad7347
 UChannel,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=f0935e4cd5920aa6c7c996a5ee53a70fdfdded94c48ea6229c48edefa9ec1c9f
+TVRI,https://gpc.my.id/vidio/tvri.m3u8
 TVRI,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf0fb3069a97a8fb9df1d75e6456ecef11
 TVRI,http://210.210.155.35:80/session/1a47f7a8-d81a-11eb-b7f4-b82a72d63267/qwr9ew/s/s11/01.m3u8
 TVRI,http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
@@ -99,6 +109,7 @@ Infotainment,http://gcs2.xyz:2052/anh/123/1109786
 Life,http://gcs2.xyz:2052/anh/123/1109788
 MNC Entertainment,http://gcs2.xyz:2052/anh/123/1109791
 Vision Prime,http://gcs2.xyz:2052/anh/123/1109792
+MyTV,https://gpc.my.id/vidio/mytv.m3u8
 MyTV,http://210.210.155.35:80/session/1f054ac0-e314-11eb-a769-b82a72d63267/qwr9ew/s/s46/01.m3u8
 MNC News,http://gcs2.xyz:2052/anh/123/1109794
 MNC Shop Smart,http://gcs2.xyz:2052/anh/123/1109795
@@ -251,6 +262,7 @@ tvN Movies,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/927
 tvN Movies,http://210.210.155.35:80/session/bf135918-d4ae-11eb-9219-c81f66f89318/dr9445/h/h21/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=tvN_Movies
 tvN Movies,http://gcs2.xyz:2052/anh/123/1109802
 tvN,http://rr1.dens.tv/h/h20/01.m3u8
+tvN,https://gpc.my.id/vidio/tvn.m3u8
 tvN,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/767
 tvN,http://gpc.my.id/vidio/tvn.m3u8
 tvN,http://210.210.155.35:80/session/b1d244c8-d4ac-11eb-a75d-c81f66f89318/dr9445/h/h20/01.m3u8?app_type=web&userid=j0eynx2jmkj&tkn=CX3D651BL0D8BG6WEI1WY0OYKLTVJ3MO&chname=tvN
@@ -309,12 +321,13 @@ ZING,http://gcs2.xyz:2052/anh/123/1113324
 
 KIDS,#genre#
 Hip Hip Horee,http://gpc.my.id/vidio/hip-hip-horee.m3u8
-Zoo Moo,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/14104
 Zoo Moo,http://gpc.my.id/vidio/zoomoo.m3u8
-Da Vinci Learning,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/36729
+Zoo Moo,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/14104
 Da Vinci Learning,http://gpc.my.id/vidio/da-vinci.m3u8
-Horee,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/14106
+Da Vinci Learning,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/36729
 Horee,http://gpc.my.id/vidio/horee.m3u8
+Horee,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/14106
+
 Dunia Anak,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/907
 Biznet Kids,http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 MKidz,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/1483
@@ -403,10 +416,10 @@ Discovery Asia,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/779
 Biznet Lifestyle,http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 Biznet Adventure 4K,http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 BBC Earth,http://gcs2.xyz:2052/anh/123/1109865
-Smithsonian,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/35998
 Smithsonian,https://gpc.my.id/vidio/smithsonian.m3u8
-Love Nature,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/36767
+Smithsonian,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/35998
 Love Nature,http://gpc.my.id/vidio/love-nature.m3u8
+Love Nature,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/36767
 Discovery Channel,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/165
 Discovery Channel,http://gcs2.xyz:2052/anh/123/1109713
 Nat Geo,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/96
@@ -513,8 +526,9 @@ Music TV,http://gcs2.xyz:2052/anh/123/1109781
 9xMusic,https://d2q8p4pe5spbak.cloudfront.net:443/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 Musica,http://gpc.my.id/vidio/musica.m3u8
 CMC,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/eroz_brebes.m3u8
-AMOY House Relax,http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
+AMOY,http://tx2play1.douyucdn.cn:80/live/dyliveflv3/17732rtara_4000p.xs
 K.POP TV,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+THE K-POP,https://gpc.my.id/ytlive/the-kpop.m3u8
 Maleo TV,https://stream.ninmedia.tv:443/maleo/udp.stream/chunklist_w1559603028.m3u8
 Prambors,http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d2ddea18f00665ce8623e36bd4e3c7c5f93fb3c9879684db94f7af38b446022a
 Prambors,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/1157
