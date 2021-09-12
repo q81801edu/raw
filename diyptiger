@@ -659,8 +659,60 @@ ZEE TAMIL,https://nonton.site:8443/IGRKg9OA4w/svaTvtcATckCGc/37343
 
 
 
-
 测试,#genre#
+1.https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+2.https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+3.https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+6号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/6
+3号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/3
+1号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/1
+5号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/5
+7号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/7
+2号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/2
+4号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/4
+12号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/12
+11号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/11
+8号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/8
+10号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/10
+14号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/14
+13号[1920*1080],http://194.233.73.66:2082/freehitv/freehitv/13
+9号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/9
+16号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/16
+15号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/15
+17号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/17
+18号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/18
+19号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/19
+20号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/20
+24号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/24
+23号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/23
+27号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/27
+28号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/28
+25号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/25
+29号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/29
+31号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/31
+33号[1920*1080],http://194.233.73.66:2082/freehitv/freehitv/33
+34号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/34
+36号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/36
+35号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/35
+39号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/39
+37号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/37
+38号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/38
+40号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/40
+41号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/41
+42号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/42
+43号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/43
+44号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/44
+45号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/45
+46号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/46
+50号[1920*800],http://194.233.73.66:2082/freehitv/freehitv/50
+55号[1280*720],http://194.233.73.66:2082/freehitv/freehitv/55
+56号[1920*1008],http://194.233.73.66:2082/freehitv/freehitv/56
+53号[1728*720],http://194.233.73.66:2082/freehitv/freehitv/53
+51号[1920*848],http://194.233.73.66:2082/freehitv/freehitv/51
+57号[1920*784],http://194.233.73.66:2082/freehitv/freehitv/57
+58号[1920*1080],http://194.233.73.66:2082/freehitv/freehitv/58
 
 
 
@@ -1190,6 +1242,7 @@ RTM Sports,http://50.7.161.82:8278/streams/d/rtm_pye/playlist.m3u8
 
 
 日本©頻道,#genre#
+GEM,http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 NHK WORLD TV[1920*1080],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 NHK Chinese Vision[1280*720],https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 Animax Japan (Vietnamese Subs)[1280*720],https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
@@ -1786,6 +1839,7 @@ IPTV5+ 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240
 黑龙江卫视 2M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240131_1/playlist.m3u8?CONTENTID=00000110240131_1
 CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 体育赛事 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00000110240590_1/playlist.m3u8?CONTENTID=00000110240590_1
+
 
 
 
@@ -4046,6 +4100,7 @@ iHOT爱美食,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888888
 
 
 
+
 捐款一_711211,#genre#
 潘多拉完美,#mitv://fccsovh.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f.ts#mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f.ts
 潘多拉粉红,#mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615.ts#mitv://fccsovh.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615.ts
@@ -5012,5 +5067,7 @@ XY Plus TV,http://gcs2.xyz:2052/anh/123/2491840
 219:Free X TV HQ,http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60752
 220:Candyman,http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60753
 221:Fashion TV,http://mvu03.wanicelife.com:8880/SFL122340/P4N06KNGE/60754
+
+
 
 
