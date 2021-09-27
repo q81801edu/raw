@@ -501,7 +501,7 @@ TV Edukasi,http://202.169.224.76:1935/live/tve.stream/chunklist_w2119006935.m3u8
 
 
 KNOWLEDGE,#genre#
-Asian Food Network,https://bukankaleng.co/live/d43az/1631981527/72.ts
+Asian Food Network,https://bukankaleng.co/live/d43az/1632719157/72.ts
 Asian Food Network,http://protv-nordic.club:8080/julia/julia123/28812
 Asian Food Network,http://protv-nordic.club:8080/julia/julia123/33241
 Asian Food Network,http://protv-nordic.club:8080/julia/julia123/9857
@@ -865,147 +865,125 @@ GTV,https://aputra.xyz/iptv/hls-live.m3u8-id=gtv.m3u8
 INDOSIAR,https://aputra.xyz/iptv/hls-live.m3u8-id=indosiar.m3u8
 SCTV,https://aputra.xyz/iptv/hls-live.m3u8-id=sctv.m3u8
 ANTV,https://aputra.xyz/iptv/hls-live.m3u8-id=antv.m3u8
-NET HD,https://aputra.xyz/iptv/hls-live/m3u-id=netHD
+NET FHD,https://aputra.xyz/iptv/hls-live/m3u-id=netHD
 TRANS TV,https://aputra.xyz/iptv/hls-live/m3u-id=transtv
-TRANS 7,https://aputra.xyz/iptv/hls-live/m3u-id=trans7
-Metro TV,https://aputra.xyz/iptv/hls-live/m3u-id=metrotv
-Kompas TV,https://aputra.xyz/iptv/hls-live/m3u-id=kompastv
-INews,https://aputra.xyz/aptv/hls-live/chunklist/inews.m3u8
+TRANS7,https://aputra.xyz/iptv/hls-live/m3u-id=trans7
+METRO TV,https://aputra.xyz/iptv/hls-live/m3u-id=metrotv
+KOMPAS TV,https://aputra.xyz/iptv/hls-live/m3u-id=kompastv
+Inews,https://aputra.xyz/aptv/hls-live/chunklist/inews.m3u8
 TVONE,https://aputra.xyz/iptv/hls-live.m3u8-id=tvone.m3u8
 TVRI NASIONAL,https://aputra.xyz/iptv/hls-live/m3u-id=tvri
-Rodja TV,https://s.id/aputraXyz_hls-axc-my-fhd-rodjatv11ts
-NOAH Dilema Besar,http://aptvid.online/vod/Music_video/NOAH%20-%20Dilema%20Besar%20(Acoustic%20Version.mkv
-NOAH Wanitaku,http://aptvid.online/vod/Music_video/NOAH%20%e2%80%93%20Wanitaku.mp4
-NOAH Semua Tentang Kita Feat Shakira,http://aptvid.online/vod/Music_video/NOAH%20&%20Shakira%20Jasmine%20-%20%ec%9a%b0%eb%a6%ac%ec%9d%98%20%ec%9d%b4%ec%95%bc%ea%b8%b0%20Urieui%20Iyagi%20(Semua%20Tentang%20Kita.mp4
-NOAH Menunggumu,http://aptvid.online/vod/Music_video/NOAH%20-%20Menunggumu.mp4
-NOAH Mendekati Lugu,https://aputra.000webhostapp.com/vod/Music_video/NOAH%20-%20Mendekati%20Lugu.mp4
-ADiTV,http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-Madu TV Tulungagung,https://v3.siar.us/madutv/live/playlist.m3u8
-TEGAR TV JOGJA,http://wms.klikhost.com/tegartv/live/playlist.m3u8
-Tegar TV Lampung,http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-TVKU,http://www.aptvid.online/aptv/hls-live/chunklist/tvku.m3u8
-BANDUNG TV,http://www.aptvid.online/aptv/hls-live/chunklist/bandung_tv.m3u8
-PADANG TV,https://aputra.rootproject.pw/aptv/hls-live/padangtv
-BADAR TV,https://e1.siar.us/badartv/live/playlist.m3u8
-BNTV Channel,https://andriant.net/andrian.m3u8?channel=bn-tv
-DIGDAYA TV,https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-Sakti TV,http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-TATV Solo,http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-CNN Indonesia,https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
-CNBC Indonesia,https://aputra.rootproject.pw/aptv/hls-live/cnbcindonesia
-IDX,https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8
-BERITA SATU,https://aputra.rootproject.pw/aptv/hls-live/beritasatu
-JAKARTA GLOBE,https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
-Arise News,http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/eroz_brebes.m3u8
-ATN News,https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
-BBC World News,http://92.43.140.200/s24/03.m3u8
-CBN News,http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-CNBC 18,https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 AlQuran,https://aputra.xyz/aptv/usee/m3u8-id=alquran.m3u8
 Arirang,https://aputra.rootproject.pw/aptv/hls-live/arirangtv
 CCTV4,https://aputra.xyz/aptv/usee/m3u8-id=cctv4.m3u8
-CGTN Documentary,https://aputra.xyz/aptv/usee/m3u8-id=cgtndoc.m3u8
+CGTN Documentary,http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
 Chinese Drama,https://aputra.xyz/aptv/usee/m3u8-id=chinesedrama.m3u8
 DW (English),https://aputra.xyz/aptv/usee/m3u8-id=dwtven.m3u8
 Euronews,https://aputra.xyz/aptv/usee/m3u8-id=euronews.m3u8
-France 24,https://aputra.xyz/aptv/usee/m3u8-id=france24.m3u8
+France24,https://aputra.xyz/aptv/usee/m3u8-id=france24.m3u8
 IDX,https://aputra.xyz/aptv/usee/m3u8-id=idx.m3u8
 MQTV,https://aputra.xyz/aptv/usee/m3u8-id=imqtv.m3u8
 MTATV,https://aputra.xyz/aptv/usee/m3u8-id=matv.m3u8
 Muhammadiyah TV,https://aputra.xyz/aptv/usee/m3u8-id=muhtv.m3u8
-Animax,https://aputra.xyz/aptv/hls-live/chunklist/animax.m3u8
-Biznet Kids,https://aputra.xyz/aptv/hls-live/chunklist/biznetkids.m3u8
-Disney Channel,https://aputra.xyz/aptv/hls-live/chunklist/disneychannel
-Disney Junior,https://aputra.xyz/aptv/hls-live/chunklist/disneyjun.m3u8
-Spacetoon,https://aputra.xyz/aptv/hls-live/chunklist/spacetoon.m3u8
-Cocoro,https://aputra.xyz/aptv/hls-live/chunklist/cocoro.m3u8
-Nicklodeon,https://aputra.xyz/aptv/hls-live/chunklist/nick.m3u8
-EBS Kids,https://aputra.xyz/aptv/hls-live/chunklist/ebskids.m3u8
-Cbeebies,http://www.aptvid.online/gamauDonat.ts
-Big Buck Bunny,https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
-Brat TV,https://brat-rakuten.amagi.tv/playlist.m3u8
+Madu TV,https://v3.siar.us/madutv/live/playlist.m3u8
+Tegar TV Jogja,http://wms.klikhost.com/tegartv/live/playlist.m3u8
+Tegar TV Lampung,http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+TVKU,http://www.aptvid.online/aptv/hls-live/chunklist/tvku.m3u8
+Bandung TV,http://www.aptvid.online/aptv/hls-live/chunklist/bandung_tv.m3u8
+PADANG TV,https://aputra.rootproject.pw/aptv/hls-live/padangtv
+Badar TV,https://e1.siar.us/badartv/live/playlist.m3u8
+BNTV Channel,https://andriant.net/andrian.m3u8?channel=bn-tv
+Digdaya TV,https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+Sakti TV,http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
+TATV SOLO,http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+ANIMAX,https://aputra.xyz/aptv/hls-live/chunklist/animax.m3u8
+BIZNET KIDS,https://aputra.xyz/aptv/hls-live/chunklist/biznetkids.m3u8
+DISNEY CHANNEL,https://aputra.xyz/aptv/hls-live/chunklist/disneychannel
+DISNEY JUNIOR,https://aputra.xyz/aptv/hls-live/chunklist/disneyjun.m3u8
+SPACETOON,https://aputra.xyz/aptv/hls-live/chunklist/spacetoon.m3u8
+COCORO,https://aputra.xyz/aptv/hls-live/chunklist/cocoro.m3u8
+Niklodeon,https://aputra.xyz/aptv/hls-live/chunklist/nick.m3u8
 Oh!k,http://www.aptvid.online/aptv/hls-live/chunklist/streams_oh!k.m3u8
 iQiyi,http://www.aptvid.online/aptv/hls-live/chunklist/streams_iQiyi.m3u8
 New K-ID,https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-New K-MOVIES,https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-KBS WORLD,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+New K-Movies,https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
+KBS World,https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 One,http://www.aptvid.online/aptv/hls-live/chunklist/streams_one.m3u8
 LIFETIME,https://aputra.rootproject.pw/aptv/lifetime
 Dunia Lain,https://aputra.xyz/aptv/usee/m3u8-id=dunialain.m3u8
 Bioskop Indonesia,https://aputra.xyz/aptv/usee/m3u8-id=bioskopindo.m3u8
 Rock Extreme,https://aputra.xyz/iptv/hls-live/m3u8-id=rockextreme.m3u8
 Rock Entertainment,https://aputra.xyz/aptv/usee/m3u8-id=rockentertainment.m3u8
-TV5 Asiamonde,https://aputra.rootproject.pw/aptv/hls-live/tv5asiamonde
-Sony PIX,https://cdn.nowhdtime.com.bd/SonyPix/index.m3u8
-Zee Cinema,https://cdn.nowhdtime.com.bd/ZeeCinema/index.m3u8
+TV5 AsiaMonde,https://aputra.rootproject.pw/aptv/hls-live/tv5asiamonde
 Thrill,http://www.aptvid.online/aptv/hls-live/enter/thrill.m3u8
 Kix,https://iptvid.cgflix.xyz/Usee/movies/kix.m3u8
-Flik,https://iptvid.cgflix.xyz/Usee/movies/flik.m3u8
-&dFlixHD,https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-TLC,https://s.id/aputraXyz_iptv-hls-170
-AndPriveHD,https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+Flix,https://iptvid.cgflix.xyz/Usee/movies/flik.m3u8
 AXN,https://aputra.xyz/aptv/usee/m3u8-id=axn.m3u8
 Cinemax,http://www.aptvid.online/aptv/hls-live/hbo/cnmx.m3u8
 The Asylum,https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
 FOX,https://aputra.rootproject.pw/fox
-FOX ACTION MOVIES,https://aputra.rootproject.pw/aptv/hls-live/foxactionmovie
-FOX FAMILY MOVIES,https://aputra.rootproject.pw/aptv/hls-live/foxfammovies
-FOX MOVIES,https://aputra.rootproject.pw/aptv/hls-live/foxmovies
+Fox Action Movies,https://aputra.rootproject.pw/aptv/hls-live/foxactionmovie
+Fox Family Movies,https://aputra.rootproject.pw/aptv/hls-live/foxfammovies
+Fox Movies,https://aputra.rootproject.pw/aptv/hls-live/foxmovies
 HBO,http://www.aptvid.online/aptv/hls-live/hbo/hbo.m3u8
 HBO Family,http://www.aptvid.online/aptv/hls-live/hbo/hbofamily.m3u8
 HBO Signature,https://aputra.xyz/aptv/hls-live/hbo_id=hbosignaFHD.m3u8
 HBO Hits,https://aputra.xyz/aptv/hls-live/hbo_id=hbohitsFHD.m3u8
-Dubai ONE,https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-AMAZON Prime 4K,https://aputra.xyz/iptv/hls-live/m3u-id=amazoneprime
-Prime Video 1 4K,https://aputra.xyz/iptv/hls-live/m3u-id=amazone1
-Prime Video 2 4K,https://aputra.xyz/iptv/hls-live/m3u-id=amazone2
-Prime Video 3 4K,https://aputra.xyz/iptv/hls-live/m3u-id=amazone3
-Prime Video 4 4K,https://aputra.xyz/iptv/hls-live/m3u-id=amazone4
-NASA TV,https://aputra.rootproject.pw/aptv/hls-live/nasatv
+Dubai One,https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 Smithsonian,https://aputra.xyz/aptv/hls-live/chunklist/smithsonian.m3u8
 AFN,https://aputra.xyz/aptv/hls-live/chunklist/afn.m3u8
-LOVE NATURE Afrika 1080p,https://aputra.rootproject.pw/aptv/hls-live/lovenature
-NATGEO PEOPLE,https://aputra.xyz/aptv/hls-live-stream/id=natgeopeople
-NATGEO WILD,https://aputra.xyz/aptv/hls-live-stream/id=natgeowild
-NATIONAL GEOGRAPHIC,https://aputra.xyz/aptv/hls-live-stream/id=natgeographic
+Love Nature 4K,https://aputra.xyz/aptv/hls-live_id=lovenatur4k
+Love Nature,https://aputra.rootproject.pw/aptv/hls-live/lovenature
+Natgeo People,https://aputra.xyz/aptv/hls-live-stream/id=natgeopeople
+Natgeo Wild,https://aputra.xyz/aptv/hls-live-stream/id=natgeowild
+National Geographic,https://aputra.xyz/aptv/hls-live-stream/id=natgeographic
 Animal Planet,https://aputra.rootproject.pw/aptv/animalplanet
 HGTV,https://aputra.xyz/aptv/hls-lve/chunklist/hgtv.m3u8
 HISTORY,https://aputra.xyz/aptv/hls-live/chunklist_id=history
-Love Nature 4K,https://aputra.xyz/aptv/hls-live_id=lovenatur4k
 Astro Awani,https://aputra.xyz/aptv/hls-live/astrotv/streams_awani.m3u8
 Astro Ceria,https://aputra.xyz/aptv/hls-live/astrotv/streams_ceria.m3u8
 Astro Prima,https://aputra.xyz/aptv/hls-live/astrotv/streams_prima.m3u8
 Astro Citra,https://aputra.xyz/aptv/hls-live/astrotv/streams_citra.m3u8
 Astro Oasis,https://aputra.xyz/aptv/hls-live/astrotv/streams_oasis.m3u8
 Astro Naura,https://aputra.xyz/aptv/hls-live/astrotv/streams_naura.m3u8
-Boo,https://aputra.xyz/aptv/hls-live/astrotv/streams_boo.m3u8
+Astro Boo,https://aputra.xyz/aptv/hls-live/astrotv/streams_boo.m3u8
 TV1,https://aputra.xyz/aptv/hls-live/astrotv/streams_tv1.m3u8
 TV2,https://aputra.xyz/aptv/hls-live/astrotv/streams_tv2.m3u8
 TV3,https://aputra.xyz/aptv/hls-live/astrotv/streams_tv3.m3u8
 TV9,https://aputra.xyz/aptv/hls-live/astrotv/streams_tv9.m3u8
-Bernama TV,https://aputra.xyz/aptv/hls-live/astrotv/streams_bernama.m3u8
+Bernama,https://aputra.xyz/aptv/hls-live/astrotv/streams_bernama.m3u8
 Drama Sangat,https://aputra.xyz/aptv/hls-live/astrotv/streams_dramasangat.m3u8
-Astro Shop,https://aputra.xyz/aptv/hls-live/astrotv/asghosop.m3u8
+Astro GoShop,https://aputra.xyz/aptv/hls-live/astrotv/asghosop.m3u8
 Prambors,https://aputra.xyz/aptv/usee/m3u8-id=pramborstv.m3u8
-MALEO TV,https://aputra.xyz/aptv/hls-live/chunklist/maleotv.m3u8
-MTV,https://aputra.xyz/aptv/hls-live/chunklist/mtv.m3u8
+Maleo,https://aputra.xyz/aptv/hls-live/chunklist/maleotv.m3u8
+MTV,https://aputra.xyz/aptv/hls-live/chunklist/maleotv.m3u8
 Capital TV,https://aputra.xyz/aptv/hls-live/chunklist/capitalmusik.m3u8
-Kronehit TV FHD,https://aputra.xyz/aptv/hls-live/chunklist/kronehitmusic.m3u8
+Kornehit TV,https://aputra.xyz/aptv/hls-live/chunklist/kronehitmusic.m3u8
 M2,https://aputra.xyz/aptv/live-m2tv/hls3/360/stream.m3u8
 M2oTV,https://aputra.xyz/aptv/hls-live/chunklist/M2oTV.m3u8
-Channel [V],https://aputra.xyz/aptv/hls-live/chunklist/musicV.m3u8
 Vevo,https://aputra.xyz/aptv/hls-live/chunklist/vevomusic.m3u8
-TVRI Sport,https://aputra.xyz/aptv/hls-live/chunklist/tvrisport.m3u8
-beIN SPORTS 1,https://aputra.xyz/aptv/usee/m3u8-id=beinsport1.m3u8
-beIN SPORTS 2,https://aputra.xyz/aptv/usee/m3u8-id=beinsport2.m3u8
-USEE SPORT 1,https://aputra.xyz/aptv/usee/m3u8-id=useesport1.m3u8
-USEE SPORT 2,https://aputra.xyz/aptv/usee/m3u8-id=useesport2.m3u8
+TVRI SPORT,https://aputra.xyz/aptv/hls-live/chunklist/tvrisport.m3u8
+beIN Sports 1,https://aputra.xyz/aptv/usee/m3u8-id=beinsport1.m3u8
+beIN Sports 2,https://aputra.xyz/aptv/usee/m3u8-id=beinsport2.m3u8
+USEETV Sports1,https://aputra.xyz/aptv/usee/m3u8-id=useesport1.m3u8
+USEETV Sports2,https://aputra.xyz/aptv/usee/m3u8-id=useesport2.m3u8
+Champion TV1,https://aputra.xyz/vidio/live/6685-champions-tv1.m3u8
+Champion TV2,https://aputra.xyz/vidio/live/6686-champions-tv-2.m3u8
+Champion TV3,https://aputra.xyz/vidio/live/6687-champions-tv-3.
+FOX SPORTS,https://aputra.xyz/aptv/hls-live_id=foxsports.m3u8
 Dubai Racing,https://aputra.xyz/aptv/hls-live/chunklist/dubaisport.m3u8
 Stadium,https://aputra.xyz/aptv/hls-live/chunklis/stadium.m3u8
-Viasat,http://foreign-free.persik.tv:82/live/Ch247/playlist.m3u8?securehash=mCvYimLrdj4e6UdUP3HdzGILp5edl6bP5Kzw8zu1O6w%3D&secureendtime=1630689318&securestarttime=1630602918&secureuserid=287583&UserID=287583&device_code=playlist&r=%7B%22type%22:%22channel%22%2C%22id%22:%22135%22%7D
-RedBullTv,https://aputra.xyz/aptv/hls-live/chunklist/redbultv.m3u8
+Redbull TV,https://aputra.xyz/aptv/hls-live/chunklist/redbultv.m3u8
 NBA TV,https://aputra.xyz/aptv/hls-live/chunklist/nbaTV.m3u8
 Racing.com,https://aputra.xyz/aptv/hls-live/chunklist/racing.m3u8
+Sony SIX,https://aputra.xyz/aptv/hls-live/chunklist_id=sonysix.m3u8
+Sony Ten1,https://aputra.xyz/aptv/hls-live/chnklist_id=sonysix1.m3u8
+Sony Ten2,https://aputra.xyz/aptv/hls-live/cunklist_id=sonyteen2.m3u8
+Sony Ten3,https://aputra.xyz/aptv/hls-live/chunklist_id=sonyteen3.m3u8
+FOX SPORTS 1,https://aputra.xyz/aptv/usee/m3u8-id=foxs1.m3u8
+FOX SPORTS 2,https://aputra.xyz/aptv/usee/m3u8-id=foxs2.m3u8
+FOX SPORTS 3,https://aputra.xyz/aptv/usee/m3u8-id=foxs3.m3u8
+
 
 
 
