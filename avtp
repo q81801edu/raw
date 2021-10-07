@@ -1,136 +1,136 @@
 #EXTM3U
 #EXTINF:-1 , tvg-id="RCTI.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/RCTI.png" tvg-name="RCTI"  group-title="LOKAL NASIONAL",RCTI
-https://aputra.xyz/aptv/hls-live/streams/vidio-665
+https://aputra.000webhostapp.com/aptv/hls-live/chunklist/rcti.m3u8
 #EXTINF:-1 , tvg-id="MNCTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/MNCTV.png" tvg-name="MNC"  group-title="LOKAL NASIONAL",MNC
-https://aputra.xyz/iptv/hls-live.m3u8=mnc
+https://aputra.000webhostapp.com/aptv/hls-live/chunklist/mnc.m3u8
 #EXTINF:-1 , tvg-id="GTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/GTV.png" tvg-name="GTV"  group-title="LOKAL NASIONAL",GTV
 https://aputra.xyz/iptv/hls-live.m3u8-id=gtv.m3u8
 #EXTINF:-1 , tvg-id="Indosiar.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/INDOSIAR.png" tvg-name="INDOSIAR"  group-title="LOKAL NASIONAL",INDOSIAR
-https://aputra.xyz/iptv/hls-live.m3u8-id=indosiar.m3u8
+https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
 #EXTINF:-1 , tvg-id="SCTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/SCTV.png" tvg-name="SCTV"  group-title="LOKAL NASIONAL",SCTV
 https://aputra.xyz/iptv/hls-live.m3u8-id=sctv.m3u8
 #EXTINF:-1 , tvg-id="ANTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/ANTV.png" tvg-name="ANTV"  group-title="LOKAL NASIONAL",ANTV
 https://aputra.xyz/iptv/hls-live.m3u8-id=antv.m3u8
-#EXTINF:-1 , tvg-id="NET.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/NETHD.png" tvg-name="NET FHD"  group-title="LOKAL NASIONAL",NET FHD
-https://aputra.xyz/iptv/hls-live/m3u-id=netHD
-#EXTINF:-1 , tvg-id="TRANSTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/TRANSTV.png" tvg-name="TRANS TV"  group-title="LOKAL NASIONAL",TRANS TV
-https://aputra.xyz/iptv/hls-live/m3u-id=transtv
+#EXTINF:-1 , tvg-id="NET.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/NETHD.png" tvg-name="NET"  group-title="LOKAL NASIONAL",NET
+https://skuys.link/vidio/net.m3u8
+#EXTINF:-1 , tvg-id="TRANSTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/TRANSTV.png" tvg-name="TRANSTV"  group-title="LOKAL NASIONAL",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1902111068_b1044100_sleng.m3u8
 #EXTINF:-1 , tvg-id="TRANS7.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/TRANS7.png" tvg-name="TRANS7"  group-title="LOKAL NASIONAL",TRANS7
-https://aputra.xyz/iptv/hls-live/m3u-id=trans7
-#EXTINF:-1 , tvg-id="MetroTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/METROTV.png" tvg-name="METRO TV"  group-title="LOKAL NASIONAL",METRO TV
-https://aputra.xyz/iptv/hls-live/m3u-id=metrotv
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w128592944_b744100_sleng.m3u8
+#EXTINF:-1 , tvg-id="MetroTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/METROTV.png" tvg-name="METRO TV"  group-title="LOKAL NASIONAL",METRO TV
+https://aputra.000webhostapp.com/aptv/hls-live/chunklist/metrotv.m3u8
 #EXTINF:-1 , tvg-id="KompasTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/KOMPASTV.png" tvg-name="KOMPAS TV"  group-title="LOKAL NASIONAL",KOMPAS TV
-https://aputra.xyz/iptv/hls-live/m3u-id=kompastv
-#EXTINF:-1 , tvg-id="Inews.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/INEWS.png" tvg-name="Inews"  group-title="LOKAL NASIONAL",Inews
+https://skuys.link/vidio/kompastv.m3u8
+#EXTINF:-1 , tvg-id="Inews.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/INEWS.png" tvg-name="iNEWS"  group-title="LOKAL NASIONAL",iNEWS
 https://aputra.xyz/aptv/hls-live/chunklist/inews.m3u8
 #EXTINF:-1 , tvg-id="TVONE.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/TVONE.png" tvg-name="TVONE"  group-title="LOKAL NASIONAL",TVONE
 https://aputra.xyz/iptv/hls-live.m3u8-id=tvone.m3u8
 #EXTINF:-1 , tvg-id="TVRI.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/indo/TVRI.png" tvg-name="TVRI NASIONAL"  group-title="LOKAL NASIONAL",TVRI NASIONAL
 https://aputra.xyz/iptv/hls-live/m3u-id=tvri
-#EXTINF:-1 , tvg-id="AlQuran.id" tvg-logo="https://images.useetv.com/logo_alquran_big1.png?v=2.0.0.13" tvg-name="AlQuran"  group-title="USEETV",AlQuran
-https://aputra.xyz/aptv/usee/m3u8-id=alquran.m3u8
-#EXTINF:-1 , tvg-id="Arirang.id" tvg-logo="https://images.useetv.com/logo_arirang_big.png" tvg-name="Arirang"  group-title="USEETV",Arirang
-https://aputra.rootproject.pw/aptv/hls-live/arirangtv
-#EXTINF:-1 , tvg-id="CCT4.id" tvg-logo="https://images.useetv.com/logo_cctv4_big1.png?v=2.0.0.13" tvg-name="CCTV4"  group-title="USEETV",CCTV4
-https://aputra.xyz/aptv/usee/m3u8-id=cctv4.m3u8
-#EXTINF:-1 , tvg-id="CGTNDocumentary.id" tvg-logo="https://images.useetv.com/logo_cgtndocumentary_big1.png?v=2.0.0.13" tvg-name="CGTN Documentary"  group-title="USEETV",CGTN Documentary
-http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
-#EXTINF:-1 , tvg-id="ChineseDrama.id" tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13" tvg-name="Chinese Drama"  group-title="USEETV",Chinese Drama
-https://aputra.xyz/aptv/usee/m3u8-id=chinesedrama.m3u8
-#EXTINF:-1 , tvg-id="DWEnglish.id" tvg-logo="https://images.useetv.com/logo_dwtv_big.png?v=2.0.0.13" tvg-name="DW (English)"  group-title="USEETV",DW (English)
-https://aputra.xyz/aptv/usee/m3u8-id=dwtven.m3u8
-#EXTINF:-1 , tvg-id="Euronews.id" tvg-logo="https://images.useetv.com/logo_euronews_big1.png?v=2.0.0.13" tvg-name="Euronews"  group-title="USEETV",Euronews
-https://aputra.xyz/aptv/usee/m3u8-id=euronews.m3u8
-#EXTINF:-1 , tvg-id="France24.id" tvg-logo="https://images.useetv.com/logo_france24_big.png?v=2.0.0.13" tvg-name="France24"  group-title="USEETV",France24
-https://aputra.xyz/aptv/usee/m3u8-id=france24.m3u8
-#EXTINF:-1 , tvg-id="IDX.id" tvg-logo="https://images.useetv.com/logo_idx_big.png" tvg-name="IDX"  group-title="USEETV",IDX
-https://aputra.xyz/aptv/usee/m3u8-id=idx.m3u8
-#EXTINF:-1 , tvg-id="MQTV.id" tvg-logo="https://images.useetv.com/logo_mqtv_big1.png?v=2.0.0.13" tvg-name="MQTV"  group-title="USEETV",MQTV
-https://aputra.xyz/aptv/usee/m3u8-id=imqtv.m3u8
-#EXTINF:-1 , tvg-id="MTATV.id" tvg-logo="https://images.useetv.com/logo_mtatv_big1.png?v=2.0.0.13" tvg-name="MTATV"  group-title="USEETV",MTATV
-https://aputra.xyz/aptv/usee/m3u8-id=matv.m3u8
-#EXTINF:-1 , tvg-id="MuhammadiyahTv.id" tvg-logo="https://images.useetv.com/logo_muhammadiyahtv_big1.png?v=2.0.0.13" tvg-name="Muhammadiyah TV"  group-title="USEETV",Muhammadiyah TV
-https://aputra.xyz/aptv/usee/m3u8-id=muhtv.m3u8
-#EXTINF:-1 , tvg-id="MaduTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/MADUTV.png" tvg-name="Madu TV"  group-title="TV DAERAH",Madu TV
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="http://aptvid.online/vod/Music_video/cover/dilemabesar.jpg" tvg-name="NOAH Dilema Besar"  group-title="KLIP MUSIK",NOAH Dilema Besar
+http://aptvid.online/vod/Music_video/NOAH%20-%20Dilema%20Besar%20(Acoustic%20Version.mkv
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="http://aptvid.online/vod/Music_video/cover/wanitaku.jpg" tvg-name="NOAH Wanitaku"  group-title="KLIP MUSIK",NOAH Wanitaku
+http://aptvid.online/vod/Music_video/NOAH%20%e2%80%93%20Wanitaku.mp4
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="http://aptvid.online/vod/Music_video/cover/menunggumu.jpg" tvg-name="NOAH Menunggumu"  group-title="KLIP MUSIK",NOAH Menunggumu
+http://aptvid.online/vod/Music_video/NOAH%20-%20Menunggumu.mp4
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="http://aptvid.online/vod/Music_video/cover/mendekatilugu.jpg" tvg-name="NOAH Mendekati Lugu"  group-title="KLIP MUSIK",NOAH Mendekati Lugu
+https://aputra.000webhostapp.com/vod/Music_video/NOAH%20-%20Mendekati%20Lugu.mp4
+#EXTINF:-1 , tvg-id="AdiTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/ADITV.png" tvg-name="ADITV"  group-title="TV DAERAH",ADITV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+#EXTINF:-1 , tvg-id="MaduTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/MADUTV.png" tvg-name="MADU TV TULUNGAGUNG"  group-title="TV DAERAH",MADU TV TULUNGAGUNG
 https://v3.siar.us/madutv/live/playlist.m3u8
-#EXTINF:-1 , tvg-id="TegarTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TEGARTVJOGJA.png" tvg-name="Tegar TV Jogja"  group-title="TV DAERAH",Tegar TV Jogja
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TEGARTVJOGJA.png" tvg-name="TEGAR TV JOGJA"  group-title="TV DAERAH",TEGAR TV JOGJA
 http://wms.klikhost.com/tegartv/live/playlist.m3u8
-#EXTINF:-1 , tvg-id="TegarTvLampung.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TEGARTVJOGJA.png" tvg-name="Tegar TV Lampung"  group-title="TV DAERAH",Tegar TV Lampung
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TEGARTVJOGJA.png" tvg-name="TEGAR TV LAMPUNG"  group-title="TV DAERAH",TEGAR TV LAMPUNG
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
-#EXTINF:-1 , tvg-id="TVKU.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TVKU.png" tvg-name="TVKU"  group-title="TV DAERAH",TVKU
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TVKU.png" tvg-name="TVKU"  group-title="TV DAERAH",TVKU
 http://www.aptvid.online/aptv/hls-live/chunklist/tvku.m3u8
-#EXTINF:-1 , tvg-id="BandungTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/BANDUNGTV.png" tvg-name="Bandung TV"  group-title="TV DAERAH",Bandung TV
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/BANDUNGTV.png" tvg-name="BANDUNG TV"  group-title="TV DAERAH",BANDUNG TV
 http://www.aptvid.online/aptv/hls-live/chunklist/bandung_tv.m3u8
-#EXTINF:-1 , tvg-id="PadangTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/PADANGTV.png" tvg-name="PADANG TV"  group-title="TV DAERAH",PADANG TV
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/PADANGTV.png" tvg-name="PADANG TV"  group-title="TV DAERAH",PADANG TV
 https://aputra.rootproject.pw/aptv/hls-live/padangtv
-#EXTINF:-1 , tvg-id="BadarTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/BADARTV.png" tvg-name="Badar TV"  group-title="TV DAERAH",Badar TV
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/BADARTV.png" tvg-name="BADAR TV"  group-title="TV DAERAH",BADAR TV
 https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:-1 , tvg-id="BNTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/BN.png" tvg-name="BNTV Channel"  group-title="TV DAERAH",BNTV Channel
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/BN.png" tvg-name="BNTV Channel"  group-title="TV DAERAH",BNTV Channel
 https://andriant.net/andrian.m3u8?channel=bn-tv
-#EXTINF:-1 , tvg-id="DigdayaTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/DIGDAYATV.png" tvg-name="Digdaya TV"  group-title="TV DAERAH",Digdaya TV
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/DIGDAYATV.png" tvg-name="DIGDAYA TV"  group-title="TV DAERAH",DIGDAYA TV
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#EXTINF:-1 , tvg-id="SAKTITV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/SAKTITV.png" tvg-name="Sakti TV"  group-title="TV DAERAH",Sakti TV
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/SAKTITV.png" tvg-name="SAKTI TV"  group-title="TV DAERAH",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-#EXTINF:-1 , tvg-id="TATVSolo.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TATV.png" tvg-name="TATV SOLO"  group-title="TV DAERAH",TATV SOLO
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/TV_DAERAH/TATV.png" tvg-name="TATV SOLO"  group-title="TV DAERAH",TATV SOLO
 http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 , tvg-id="Animax.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/ANIMAX.png" tvg-name="ANIMAX"  group-title="KIDS",ANIMAX
-https://aputra.xyz/aptv/hls-live/chunklist/animax.m3u8
+#EXTINF:-1 , tvg-id="CNNIndonesia.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/CNNINDO.png" tvg-name="CNN INDONESIA"  group-title="TV BERITA",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
+#EXTINF:-1 , tvg-id="CNBCIndonesia.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/CNBCINDO.png" tvg-name="CNBC INDONESIA"  group-title="TV BERITA",CNBC INDONESIA
+https://aputra.rootproject.pw/aptv/hls-live/cnbcindonesia
+#EXTINF:-1 , tvg-id="IDX.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/IDXCHANNEL.png" tvg-name="IDX"  group-title="TV BERITA",IDX
+https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8
+#EXTINF:-1 , tvg-id="BeritaSatu.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/BERITASATUWORLD.png" tvg-name="BERITA SATU"  group-title="TV BERITA",BERITA SATU
+https://aputra.rootproject.pw/aptv/hls-live/beritasatu
+#EXTINF:-1 , tvg-id="JakartaGlobe.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/JAKARTAGLOBE.png" tvg-name="JAKARTA GLOBE"  group-title="TV BERITA",JAKARTA GLOBE
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/ARISENEWS.png" tvg-name="ARISE NEWS"  group-title="TV BERITA",ARISE NEWS
+http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/eroz_brebes.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/ATNNEWS.png" tvg-name="ATN NEWS"  group-title="TV BERITA",ATN NEWS
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/BERITA/BBCWORLDNEWS.png" tvg-name="BBC WORLD NEWS"  group-title="TV BERITA",BBC WORLD NEWS
+http://92.43.140.200/s24/03.m3u8
 #EXTINF:-1 , tvg-id="BiznetKids.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/BIZKIDSHD.png" tvg-name="BIZNET KIDS"  group-title="KIDS",BIZNET KIDS
 https://aputra.xyz/aptv/hls-live/chunklist/biznetkids.m3u8
-#EXTINF:-1 , tvg-id="DisneyChannel.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/DISNEYCH.png" tvg-name="DISNEY CHANNEL"  group-title="KIDS",DISNEY CHANNEL
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Animax"  group-title="KIDS",Animax
+http://93.190.139.35:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="&Prive HD"  group-title="LIKES MOVIES",&Prive HD
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="&Flix"  group-title="LIKES MOVIES",&Flix
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 , tvg-id="DisneyChannel.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/DISNEYCH.png" tvg-name="Disney Channel"  group-title="KIDS",Disney Channel
 https://aputra.xyz/aptv/hls-live/chunklist/disneychannel
-#EXTINF:-1 , tvg-id="DisneyJunior.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/DISNEYJR.png" tvg-name="DISNEY JUNIOR"  group-title="KIDS",DISNEY JUNIOR
+#EXTINF:-1 , tvg-id="DisneyJunior.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/DISNEYJR.png" tvg-name="Disney Junior"  group-title="KIDS",Disney Junior
 https://aputra.xyz/aptv/hls-live/chunklist/disneyjun.m3u8
-#EXTINF:-1 , tvg-id="SPACETOON.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/SPACETOON.png" tvg-name="SPACETOON"  group-title="KIDS",SPACETOON
+#EXTINF:-1 , tvg-id="Spacetoon.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/SPACETOON.png" tvg-name="Spacetoon"  group-title="KIDS",Spacetoon
 https://aputra.xyz/aptv/hls-live/chunklist/spacetoon.m3u8
-#EXTINF:-1 , tvg-id="Cocoro.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/COCORO.png" tvg-name="COCORO"  group-title="KIDS",COCORO
+#EXTINF:-1 , tvg-id="Cocoro.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/COCORO.png" tvg-name="Cocoro"  group-title="KIDS",Cocoro
 https://aputra.xyz/aptv/hls-live/chunklist/cocoro.m3u8
-#EXTINF:-1 , tvg-id="Niklodeon.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/NICKELODEON.png" tvg-name="Niklodeon"  group-title="KIDS",Niklodeon
+#EXTINF:-1 , tvg-id="Nicklodeon.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/NICKELODEON.png" tvg-name="Nicklodeon"  group-title="KIDS",Nicklodeon
 https://aputra.xyz/aptv/hls-live/chunklist/nick.m3u8
-#EXTINF:-1 , tvg-id="Oh!k.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/OHK.png" tvg-name="Oh!k"  group-title="KOREA",Oh!k
+#EXTINF:-1 , tvg-id="EBSKids.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/EBSKIDS.png" tvg-name="EBS Kids"  group-title="KIDS",EBS Kids
+https://aputra.xyz/aptv/hls-live/chunklist/ebskids.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/BIGBUCKBUNNY.png" tvg-name="Big Buck Bunny"  group-title="KIDS",Big Buck Bunny
+https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/KIDS/BRATTV.png" tvg-name="Brat TV"  group-title="KIDS",Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 , tvg-id="Oh!k.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/OHK.png" tvg-name="Oh!k"  group-title="KOREA TV",Oh!k
 http://www.aptvid.online/aptv/hls-live/chunklist/streams_oh!k.m3u8
-#EXTINF:-1 , tvg-id="Oh!k.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/IQIYI.png" tvg-name="iQiyi"  group-title="KOREA",iQiyi
+#EXTINF:-1 , tvg-id="iQiyi.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/IQIYI.png" tvg-name="iQiyi"  group-title="KOREA TV",iQiyi
 http://www.aptvid.online/aptv/hls-live/chunklist/streams_iQiyi.m3u8
-#EXTINF:-1 , tvg-id="NewK.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/NEWKID.png" tvg-name="New K-ID"  group-title="KOREA",New K-ID
+#EXTINF:-1 , tvg-id="NewKId.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/NEWKID.png" tvg-name="New K-ID"  group-title="KOREA TV",New K-ID
 https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1 , tvg-id="NewKmoives.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/NEWKMV.png" tvg-name="New K-Movies"  group-title="KOREA",New K-Movies
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/NEWKMV.png" tvg-name="New K-MOVIES"  group-title="KOREA TV",New K-MOVIES
 https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 , tvg-id="KbsWorld.ID" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/KBSWORLD.png" tvg-name="KBS World"  group-title="KOREA",KBS World
+#EXTINF:-1 , tvg-id="KbsWorld.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/KBSWORLD.png" tvg-name="KBS WORLD"  group-title="KOREA TV",KBS WORLD
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 , tvg-id="One.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/ONE.png" tvg-name="One"  group-title="KOREA",One
+#EXTINF:-1 , tvg-id="One.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/koreanTV/ONE.png" tvg-name="One"  group-title="KOREA TV",One
 http://www.aptvid.online/aptv/hls-live/chunklist/streams_one.m3u8
 #EXTINF:-1 , tvg-id="LifeTime.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/LIFETIME.png" tvg-name="LIFETIME"  group-title="ENTERTAINMENT",LIFETIME
 https://aputra.rootproject.pw/aptv/lifetime
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="CELESTIAL MOVIES"  group-title="ENTERTAINMENT",CELESTIAL MOVIES
+http://50.7.161.82:8278/streams/d/celestial2_pye/playlist.m3u8
 #EXTINF:-1 , tvg-id="DuniaLain.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/DUNIALAIN.png" tvg-name="Dunia Lain"  group-title="ENTERTAINMENT",Dunia Lain
 https://aputra.xyz/aptv/usee/m3u8-id=dunialain.m3u8
-#EXTINF:-1 , tvg-id="BiokopIndonesia.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/BIOSKOPIND.png" tvg-name="Bioskop Indonesia"  group-title="ENTERTAINMENT",Bioskop Indonesia
+#EXTINF:-1 , tvg-id="BioskopIndonesia.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/BIOSKOPIND.png" tvg-name="Bioskop Indonesia"  group-title="ENTERTAINMENT",Bioskop Indonesia
 https://aputra.xyz/aptv/usee/m3u8-id=bioskopindo.m3u8
 #EXTINF:-1 , tvg-id="RockExtreme.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/ROCKEXTREME.png" tvg-name="Rock Extreme"  group-title="ENTERTAINMENT",Rock Extreme
 https://aputra.xyz/iptv/hls-live/m3u8-id=rockextreme.m3u8
 #EXTINF:-1 , tvg-id="RockEntertainment.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/ROCKENT.png" tvg-name="Rock Entertainment"  group-title="ENTERTAINMENT",Rock Entertainment
 https://aputra.xyz/aptv/usee/m3u8-id=rockentertainment.m3u8
-#EXTINF:-1 , tvg-id="Tv5AsiaMonde.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/TV5MONDE.png" tvg-name="TV5 AsiaMonde"  group-title="ENTERTAINMENT",TV5 AsiaMonde
+#EXTINF:-1 , tvg-id="TV5ASIAMONDE.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/TV5MONDE.png" tvg-name="TV5 ASIAMONDE"  group-title="ENTERTAINMENT",TV5 ASIAMONDE
 https://aputra.rootproject.pw/aptv/hls-live/tv5asiamonde
-#EXTINF:-1 , tvg-id="Thirll.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/THRILL.png" tvg-name="Thrill"  group-title="ENTERTAINMENT",Thrill
-http://www.aptvid.online/aptv/hls-live/enter/thrill.m3u8
-#EXTINF:-1 , tvg-id="Kix.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/KIX.png" tvg-name="Kix"  group-title="ENTERTAINMENT",Kix
-https://iptvid.cgflix.xyz/Usee/movies/kix.m3u8
-#EXTINF:-1 , tvg-id="Flik.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Entertaiment/FLIK.png" tvg-name="Flix"  group-title="ENTERTAINMENT",Flix
-https://iptvid.cgflix.xyz/Usee/movies/flik.m3u8
 #EXTINF:-1 , tvg-id="Axn.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/AXN.png" tvg-name="AXN"  group-title="LIKES MOVIES",AXN
 https://aputra.xyz/aptv/usee/m3u8-id=axn.m3u8
 #EXTINF:-1 , tvg-id="Cinemax.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/CINEMAX.png" tvg-name="Cinemax"  group-title="LIKES MOVIES",Cinemax
 http://www.aptvid.online/aptv/hls-live/hbo/cnmx.m3u8
 #EXTINF:-1 , tvg-id="TheAsylum.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/ASYLUM.png" tvg-name="The Asylum"  group-title="LIKES MOVIES",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 , tvg-id="Fox.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/FOX.png" tvg-name="FOX"  group-title="LIKES MOVIES",FOX
-https://aputra.rootproject.pw/fox
-#EXTINF:-1 , tvg-id="FoxActionMovies.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/FOXACTIONMV.png" tvg-name="Fox Action Movies"  group-title="LIKES MOVIES",Fox Action Movies
-https://aputra.rootproject.pw/aptv/hls-live/foxactionmovie
-#EXTINF:-1 , tvg-id="FoxFamilyMovies.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/FOXFM.png" tvg-name="Fox Family Movies"  group-title="LIKES MOVIES",Fox Family Movies
-https://aputra.rootproject.pw/aptv/hls-live/foxfammovies
-#EXTINF:-1 , tvg-id="FoxMovies.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/FOXMV.png" tvg-name="Fox Movies"  group-title="LIKES MOVIES",Fox Movies
-https://aputra.rootproject.pw/aptv/hls-live/foxmovies
 #EXTINF:-1 , tvg-id="HBO.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/HBO.png" tvg-name="HBO"  group-title="LIKES MOVIES",HBO
 http://www.aptvid.online/aptv/hls-live/hbo/hbo.m3u8
 #EXTINF:-1 , tvg-id="HBOFamily.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/HBOFAM.png" tvg-name="HBO Family"  group-title="LIKES MOVIES",HBO Family
@@ -139,41 +139,47 @@ http://www.aptvid.online/aptv/hls-live/hbo/hbofamily.m3u8
 https://aputra.xyz/aptv/hls-live/hbo_id=hbosignaFHD.m3u8
 #EXTINF:-1 , tvg-id="HBOHits.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/HBOHITS.png" tvg-name="HBO Hits"  group-title="LIKES MOVIES",HBO Hits
 https://aputra.xyz/aptv/hls-live/hbo_id=hbohitsFHD.m3u8
-#EXTINF:-1 , tvg-id="DubaiOne.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/DUBAIONE.png" tvg-name="Dubai One"  group-title="LIKES MOVIES",Dubai One
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/Movie/DUBAIONE.png" tvg-name="Dubai One"  group-title="LIKES MOVIES",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 , tvg-id="Smithsonian.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/Smithsonian%20Channel.png" tvg-name="Smithsonian"  group-title="KNOWLEDGE",Smithsonian
 https://aputra.xyz/aptv/hls-live/chunklist/smithsonian.m3u8
+#EXTINF:-1 , tvg-id="FoodNetwork.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/staticupdates/c/FOODNETWORK.png" tvg-name="New Channel"  group-title="KNOWLEDGE",New Channel
+https://aputra.xyz/astrotv/foodnetwork.m3u8
 #EXTINF:-1 , tvg-id="AFN.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/AFN.png" tvg-name="AFN"  group-title="KNOWLEDGE",AFN
 https://aputra.xyz/aptv/hls-live/chunklist/afn.m3u8
-#EXTINF:-1 , tvg-id="LoveNature4k.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/Love%20Nature%204K.png" tvg-name="Love Nature 4K"  group-title="KNOWLEDGE",Love Nature 4K
-https://aputra.xyz/aptv/hls-live_id=lovenatur4k
-#EXTINF:-1 , tvg-id="LoveNautre.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/Love%20Nature.png" tvg-name="Love Nature"  group-title="KNOWLEDGE",Love Nature
+#EXTINF:-1 , tvg-id="LoveNautre.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/Love%20Nature%204K.png" tvg-name="Love Nature 4K"  group-title="KNOWLEDGE",Love Nature 4K
+https://aputra.xyz/aptv/hls-live_id=lovenatur4k.m3u8
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/Love%20Nature.png" tvg-name="Love Nature"  group-title="KNOWLEDGE",Love Nature
 https://aputra.rootproject.pw/aptv/hls-live/lovenature
-#EXTINF:-1 , tvg-id="NatgeoPeople.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/NatGeoPeople.png" tvg-name="Natgeo People"  group-title="KNOWLEDGE",Natgeo People
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="HISTORY"  group-title="KNOWLEDGE",HISTORY
+https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="OUTDOOR CHANNEL"  group-title="KNOWLEDGE",OUTDOOR CHANNEL
+https://feed.play.mv/live/1009/E6O26jTzFh/master.m3u8
+#EXTINF:-1 , tvg-id="NatgeoPeople.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/NatGeoPeople.png" tvg-name="NATGEO PEOPLE"  group-title="KNOWLEDGE",NATGEO PEOPLE
 https://aputra.xyz/aptv/hls-live-stream/id=natgeopeople
-#EXTINF:-1 , tvg-id="NatgeoWild.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/National%20Geographic%20Wild%20HD.png" tvg-name="Natgeo Wild"  group-title="KNOWLEDGE",Natgeo Wild
+#EXTINF:-1 , tvg-id="NatgeoWild.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/National%20Geographic%20Wild%20HD.png" tvg-name="NATGEO WILD"  group-title="KNOWLEDGE",NATGEO WILD
 https://aputra.xyz/aptv/hls-live-stream/id=natgeowild
-#EXTINF:-1 , tvg-id="NationalGeographic.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/National%20Geographic%20HD.png" tvg-name="National Geographic"  group-title="KNOWLEDGE",National Geographic
+#EXTINF:-1 , tvg-id="NationalGeographic.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/National%20Geographic%20HD.png" tvg-name="NATIONAL GEOGRAPHIC"  group-title="KNOWLEDGE",NATIONAL GEOGRAPHIC
 https://aputra.xyz/aptv/hls-live-stream/id=natgeographic
 #EXTINF:-1 , tvg-id="AnimalPlanet.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/Animal%20Planet.png" tvg-name="Animal Planet"  group-title="KNOWLEDGE",Animal Planet
 https://aputra.rootproject.pw/aptv/animalplanet
 #EXTINF:-1 , tvg-id="HGTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/HGTV.png" tvg-name="HGTV"  group-title="KNOWLEDGE",HGTV
 https://aputra.xyz/aptv/hls-lve/chunklist/hgtv.m3u8
-#EXTINF:-1 , tvg-id="History.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/know/HISTORY.png" tvg-name="HISTORY"  group-title="KNOWLEDGE",HISTORY
-https://aputra.xyz/aptv/hls-live/chunklist_id=history
-#EXTINF:-1 , tvg-id="AstroAwani.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROAWANI.png" tvg-name="Astro Awani"  group-title="ASTRO TV",Astro Awani
+#EXTINF:-1 , tvg-id="AstroAwani.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROAWANI.png" tvg-name="ASTRO AWANI"  group-title="ASTRO TV",ASTRO AWANI
 https://aputra.xyz/aptv/hls-live/astrotv/streams_awani.m3u8
-#EXTINF:-1 , tvg-id="AstroCeria.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROCERIA.png" tvg-name="Astro Ceria"  group-title="ASTRO TV",Astro Ceria
+#EXTINF:-1 , tvg-id="AstroCeria.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROCERIA.png" tvg-name="ASTRO CERIA"  group-title="ASTRO TV",ASTRO CERIA
 https://aputra.xyz/aptv/hls-live/astrotv/streams_ceria.m3u8
-#EXTINF:-1 , tvg-id="AstroPrima.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROPRIMA.png" tvg-name="Astro Prima"  group-title="ASTRO TV",Astro Prima
+#EXTINF:-1 , tvg-id="AstroPrima.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROPRIMA.png" tvg-name="ASTRO PRIMA"  group-title="ASTRO TV",ASTRO PRIMA
 https://aputra.xyz/aptv/hls-live/astrotv/streams_prima.m3u8
-#EXTINF:-1 , tvg-id="AstroCitra.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROCITRA.png" tvg-name="Astro Citra"  group-title="ASTRO TV",Astro Citra
+#EXTINF:-1 , tvg-id="AstroCitra.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROCITRA.png" tvg-name="ASTRO CITRA"  group-title="ASTRO TV",ASTRO CITRA
 https://aputra.xyz/aptv/hls-live/astrotv/streams_citra.m3u8
-#EXTINF:-1 , tvg-id="AstroOasis.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROOASIS.png" tvg-name="Astro Oasis"  group-title="ASTRO TV",Astro Oasis
+#EXTINF:-1 , tvg-id="AstroOasis.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTROOASIS.png" tvg-name="ASTRO OASIS"  group-title="ASTRO TV",ASTRO OASIS
 https://aputra.xyz/aptv/hls-live/astrotv/streams_oasis.m3u8
-#EXTINF:-1 , tvg-id="AstroNaura.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTRONAURA.png" tvg-name="Astro Naura"  group-title="ASTRO TV",Astro Naura
+#EXTINF:-1 , tvg-id="AstroNaura.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/ASTRONAURA.png" tvg-name="ASTRO NAURA"  group-title="ASTRO TV",ASTRO NAURA
 https://aputra.xyz/aptv/hls-live/astrotv/streams_naura.m3u8
-#EXTINF:-1 , tvg-id="AstroBoo.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/BOO.png" tvg-name="Astro Boo"  group-title="ASTRO TV",Astro Boo
+#EXTINF:-1 , tvg-id="AstroRania.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/staticupdates/c/ASTRORANIA.png" tvg-name="ASTRO RANIA"  group-title="ASTRO TV",ASTRO RANIA
+https://aputra.xyz/astrotv/rania.m3u8
+#EXTINF:-1 , tvg-id="AstroBoo.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/BOO.png" tvg-name="ASTRO BOO"  group-title="ASTRO TV",ASTRO BOO
 https://aputra.xyz/aptv/hls-live/astrotv/streams_boo.m3u8
 #EXTINF:-1 , tvg-id="TV1.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/TV1.png" tvg-name="TV1"  group-title="ASTRO TV",TV1
 https://aputra.xyz/aptv/hls-live/astrotv/streams_tv1.m3u8
@@ -181,77 +187,79 @@ https://aputra.xyz/aptv/hls-live/astrotv/streams_tv1.m3u8
 https://aputra.xyz/aptv/hls-live/astrotv/streams_tv2.m3u8
 #EXTINF:-1 , tvg-id="TV3.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/TV3.png" tvg-name="TV3"  group-title="ASTRO TV",TV3
 https://aputra.xyz/aptv/hls-live/astrotv/streams_tv3.m3u8
+#EXTINF:-1 , tvg-id="8TV.my" tvg-logo="https://aputra.xyz/astrotv/tv8.m3u8" tvg-name="TV8"  group-title="ASTRO TV",TV8
+https://aputra.xyz/astrotv/tv8.m3u8
 #EXTINF:-1 , tvg-id="TV9.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/TV9.png" tvg-name="TV9"  group-title="ASTRO TV",TV9
 https://aputra.xyz/aptv/hls-live/astrotv/streams_tv9.m3u8
-#EXTINF:-1 , tvg-id="Bernama.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/BERNAMA.png" tvg-name="Bernama"  group-title="ASTRO TV",Bernama
+#EXTINF:-1 , tvg-id="BernamaTV.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/BERNAMA.png" tvg-name="BERNAMA TV"  group-title="ASTRO TV",BERNAMA TV
 https://aputra.xyz/aptv/hls-live/astrotv/streams_bernama.m3u8
-#EXTINF:-1 , tvg-id="DramaSangat.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/DRAMASANGAT.png" tvg-name="Drama Sangat"  group-title="ASTRO TV",Drama Sangat
-https://aputra.xyz/aptv/hls-live/astrotv/streams_dramasangat.m3u8
-#EXTINF:-1 , tvg-id="AstroShop.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/GOSHOP.png" tvg-name="Astro GoShop"  group-title="ASTRO TV",Astro GoShop
+#EXTINF:-1 , tvg-id="AstroShop.my" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/ASTRO/GOSHOP.png" tvg-name="ASTRO GO SHOP"  group-title="ASTRO TV",ASTRO GO SHOP
 https://aputra.xyz/aptv/hls-live/astrotv/asghosop.m3u8
-#EXTINF:-1 , tvg-id="Prambors.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/PRAMBORS.png" tvg-name="Prambors"  group-title="MUSIC CHANNEL",Prambors
+#EXTINF:-1 , tvg-id="Prambors.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/PRAMBORS.png" tvg-name="Prambors"  group-title="MUSIK",Prambors
 https://aputra.xyz/aptv/usee/m3u8-id=pramborstv.m3u8
-#EXTINF:-1 , tvg-id="Maleo.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/MALEO.png" tvg-name="Maleo"  group-title="MUSIC CHANNEL",Maleo
+#EXTINF:-1 , tvg-id="MaleoTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/MALEO.png" tvg-name="Maleo TV"  group-title="MUSIK",Maleo TV
 https://aputra.xyz/aptv/hls-live/chunklist/maleotv.m3u8
-#EXTINF:-1 , tvg-id="MTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/MTV.png" tvg-name="MTV"  group-title="MUSIC CHANNEL",MTV
-https://aputra.xyz/aptv/hls-live/chunklist/maleotv.m3u8
-#EXTINF:-1 , tvg-id="CapitalTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/CAPITALTV.png" tvg-name="Capital TV"  group-title="MUSIC CHANNEL",Capital TV
+#EXTINF:-1 , tvg-id="MTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/MTV.png" tvg-name="MTV"  group-title="MUSIK",MTV
+https://aputra.xyz/aptv/hls-live/chunklist/mtv.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/CAPITALTV.png" tvg-name="Capital TV"  group-title="MUSIK",Capital TV
 https://aputra.xyz/aptv/hls-live/chunklist/capitalmusik.m3u8
-#EXTINF:-1 , tvg-id="KornehitTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/KRONEHIT.png" tvg-name="Kornehit TV"  group-title="MUSIC CHANNEL",Kornehit TV
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/KRONEHIT.png" tvg-name="Kronehit TV"  group-title="MUSIK",Kronehit TV
 https://aputra.xyz/aptv/hls-live/chunklist/kronehitmusic.m3u8
-#EXTINF:-1 , tvg-id="M2.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/M2.png" tvg-name="M2"  group-title="MUSIC CHANNEL",M2
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/M2.png" tvg-name="M2"  group-title="MUSIK",M2
 https://aputra.xyz/aptv/live-m2tv/hls3/360/stream.m3u8
-#EXTINF:-1 , tvg-id="M2oTV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/M2O.png" tvg-name="M2oTV"  group-title="MUSIC CHANNEL",M2oTV
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/M2O.png" tvg-name="M2OTV"  group-title="MUSIK",M2OTV
 https://aputra.xyz/aptv/hls-live/chunklist/M2oTV.m3u8
-#EXTINF:-1 , tvg-id="Vevo.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/VEVO.png" tvg-name="Vevo"  group-title="MUSIC CHANNEL",Vevo
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/MUSIK/VEVO.png" tvg-name="VEVO"  group-title="MUSIK",VEVO
 https://aputra.xyz/aptv/hls-live/chunklist/vevomusic.m3u8
-#EXTINF:-1 , tvg-id="TvriSport.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/TVRISport.png" tvg-name="TVRI SPORT"  group-title="SPORTS",TVRI SPORT
+#EXTINF:-1 , tvg-id="TVRISport.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/TVRISport.png" tvg-name="TVRI SPORT"  group-title="SPORTS",TVRI SPORT
 https://aputra.xyz/aptv/hls-live/chunklist/tvrisport.m3u8
-#EXTINF:-1 , tvg-id="BeinSports1.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/BeinSports1.png" tvg-name="beIN Sports 1"  group-title="SPORTS",beIN Sports 1
-https://aputra.xyz/aptv/usee/m3u8-id=beinsport1.m3u8
-#EXTINF:-1 , tvg-id="BeinSports2.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/BeinSports1.png" tvg-name="beIN Sports 2"  group-title="SPORTS",beIN Sports 2
-https://aputra.xyz/aptv/usee/m3u8-id=beinsport2.m3u8
-#EXTINF:-1 , tvg-id="UseeTvSports1.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/USEESPORT.png" tvg-name="USEETV Sports1"  group-title="SPORTS",USEETV Sports1
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SONY SIX"  group-title="SPORTS",SONY SIX
+https://aputra.xyz/aptv/hls-live/chunklist_id=sonysix.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SONY TEEN1"  group-title="SPORTS",SONY TEEN1
+https://aputra.xyz/aptv/hls-live/chnklist_id=sonysix1.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SONY TEEN2"  group-title="SPORTS",SONY TEEN2
+https://aputra.xyz/aptv/hls-live/cunklist_id=sonyteen2.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SONY TEEN3"  group-title="SPORTS",SONY TEEN3
+https://aputra.xyz/aptv/hls-live/chunklist_id=sonyteen3.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEINSPORT 1"  group-title="SPORTS",BEINSPORT 1
+https://cloudserver.server-cdn-streaming.com/live-player/2/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="BEINSPORT 2"  group-title="SPORTS",BEINSPORT 2
+https://cloudserver.server-cdn-streaming.com/live-player/6/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="GP ESENTIAL"  group-title="SPORTS",GP ESENTIAL
+https://cloudserver.server-cdn-streaming.com/live-player/12/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPORT1 HD"  group-title="SPORTS",SPORT1 HD
+https://cloudserver.server-cdn-streaming.com/live-player/3/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPORTTV1"  group-title="SPORTS",SPORTTV1
+https://cloudserver.server-cdn-streaming.com/live-player/19/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPORTTV2"  group-title="SPORTS",SPORTTV2
+https://cloudserver.server-cdn-streaming.com/live-player/20/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="SPORTTV3"  group-title="SPORTS",SPORTTV3
+https://cloudserver.server-cdn-streaming.com/live-player/21/live.m3u8
+#EXTINF:-1 , tvg-id="Spotv.id" tvg-logo="New Logo" tvg-name="SPOTV"  group-title="SPORTS",SPOTV
+https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
+#EXTINF:-1 , tvg-id="Spotv.id" tvg-logo="New Logo" tvg-name="SPOTV2"  group-title="SPORTS",SPOTV2
+https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRUESPORT HD"  group-title="SPORTS",TRUESPORT HD
+https://cloudserver.server-cdn-streaming.com/live-player/7/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRUESPORT HD1"  group-title="SPORTS",TRUESPORT HD1
+https://cloudserver.server-cdn-streaming.com/live-player/14/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRUESPORT HD2"  group-title="SPORTS",TRUESPORT HD2
+https://cloudserver.server-cdn-streaming.com/live-player/15/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRUESPORT HD2"  group-title="SPORTS",TRUESPORT HD2
+https://cloudserver.server-cdn-streaming.com/live-player/8/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRUESPORT HD3"  group-title="SPORTS",TRUESPORT HD3
+https://cloudserver.server-cdn-streaming.com/live-player/9/live.m3u8
+#EXTINF:-1 , tvg-id="New EPG" tvg-logo="New Logo" tvg-name="TRUESPORT HD4"  group-title="SPORTS",TRUESPORT HD4
+https://cloudserver.server-cdn-streaming.com/live-player/10/live.m3u8
+#EXTINF:-1 , tvg-id="UseeSport1.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/USEESPORT.png" tvg-name="USEE SPORTS 1"  group-title="SPORTS",USEE SPORTS 1
 https://aputra.xyz/aptv/usee/m3u8-id=useesport1.m3u8
-#EXTINF:-1 , tvg-id="UseeTvSports2.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/USEESPORT%202.png" tvg-name="USEETV Sports2"  group-title="SPORTS",USEETV Sports2
+#EXTINF:-1 , tvg-id="UseeSport2.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/USEESPORT%202.png" tvg-name="USEE SPORTS 2"  group-title="SPORTS",USEE SPORTS 2
 https://aputra.xyz/aptv/usee/m3u8-id=useesport2.m3u8
-#EXTINF:-1 , tvg-id="ChampionTv1.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/ChampionsTV1.png" tvg-name="Champion TV1"  group-title="SPORTS",Champion TV1
-https://aputra.xyz/vidio/live/6685-champions-tv1.m3u8
-#EXTINF:-1 , tvg-id="ChampionTv2.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/ChampionsTV2.png" tvg-name="Champion TV2"  group-title="SPORTS",Champion TV2
-https://aputra.xyz/vidio/live/6686-champions-tv-2.m3u8
-#EXTINF:-1 , tvg-id="ChampionTv3.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/ChampionsTV3.png" tvg-name="Champion TV3"  group-title="SPORTS",Champion TV3
-https://aputra.xyz/vidio/live/6687-champions-tv-3.
-#EXTINF:-1 , tvg-id="FoxSport.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/staticupdates/FOXSPORTS%20(1).png" tvg-name="FOX SPORTS"  group-title="SPORTS",FOX SPORTS
-https://aputra.xyz/aptv/hls-live_id=foxsports.m3u8
 #EXTINF:-1 , tvg-id="DubaiRacing.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/DUBAIRACING.png" tvg-name="Dubai Racing"  group-title="SPORTS",Dubai Racing
 https://aputra.xyz/aptv/hls-live/chunklist/dubaisport.m3u8
-#EXTINF:-1 , tvg-id="Stadium.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/STADIUM.png" tvg-name="Stadium"  group-title="SPORTS",Stadium
+#EXTINF:-1 , tvg-id="Stadium.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/STADIUM.png" tvg-name="STADIUM"  group-title="SPORTS",STADIUM
 https://aputra.xyz/aptv/hls-live/chunklis/stadium.m3u8
-#EXTINF:-1 , tvg-id="RedbullTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/REDBULLTV.png" tvg-name="Redbull TV"  group-title="SPORTS",Redbull TV
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/REDBULLTV.png" tvg-name="RedBull TV"  group-title="SPORTS",RedBull TV
 https://aputra.xyz/aptv/hls-live/chunklist/redbultv.m3u8
-#EXTINF:-1 , tvg-id="NBATV.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/NBATV.png" tvg-name="NBA TV"  group-title="SPORTS",NBA TV
+#EXTINF:-1 , tvg-id="EPG N/A" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/NBATV.png" tvg-name="NBA"  group-title="SPORTS",NBA
 https://aputra.xyz/aptv/hls-live/chunklist/nbaTV.m3u8
-#EXTINF:-1 , tvg-id="RacingTv.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/RACINGCOM.png" tvg-name="Racing.com"  group-title="SPORTS",Racing.com
-https://aputra.xyz/aptv/hls-live/chunklist/racing.m3u8
-#EXTINF:-1 , tvg-id="SonySix.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/staticupdates/SONYSIXHD.png" tvg-name="Sony SIX"  group-title="SPORTS",Sony SIX
-https://aputra.xyz/aptv/hls-live/chunklist_id=sonysix.m3u8
-#EXTINF:-1 , tvg-id="New EPG" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/staticupdates/SONYTEN1HD.png" tvg-name="Sony Ten1"  group-title="SPORTS",Sony Ten1
-https://aputra.xyz/aptv/hls-live/chnklist_id=sonysix1.m3u8
-#EXTINF:-1 , tvg-id="SonyTen2.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/staticupdates/SONYTEN2HD.png" tvg-name="Sony Ten2"  group-title="SPORTS",Sony Ten2
-https://aputra.xyz/aptv/hls-live/cunklist_id=sonyteen2.m3u8
-#EXTINF:-1 , tvg-id="SonyTen3.id" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/staticupdates/SONYTEN3HD.png" tvg-name="Sony Ten3"  group-title="SPORTS",Sony Ten3
-https://aputra.xyz/aptv/hls-live/chunklist_id=sonyteen3.m3u8
-#EXTINF:-1 , tvg-id="" tvg-logo="http://aptvid.online/vod/Music_video/cover/dilemabesar.jpg" tvg-name="NOAH Dilema Besar"  group-title="Special Musik",NOAH Dilema Besar
-http://aptvid.online/vod/Music_video/NOAH%20-%20Dilema%20Besar%20(Acoustic%20Version.mkv
-#EXTINF:-1 , tvg-id="" tvg-logo="http://aptvid.online/vod/Music_video/cover/wanitaku.jpg" tvg-name="NOAH Wanitaku"  group-title="Special Musik",NOAH Wanitaku
-http://aptvid.online/vod/Music_video/NOAH%20%e2%80%93%20Wanitaku.mp4
-#EXTINF:-1 , tvg-id="" tvg-logo="http://aptvid.online/vod/Music_video/cover/semuatentangkita.jpg" tvg-name="NOAH Semua Tentang Kita"  group-title="Series Musik",NOAH Semua Tentang Kita
-http://aptvid.online/vod/Music_video/NOAH%20&%20Shakira%20Jasmine%20-%20%ec%9a%b0%eb%a6%ac%ec%9d%98%20%ec%9d%b4%ec%95%bc%ea%b8%b0%20Urieui%20Iyagi%20(Semua%20Tentang%20Kita.mp4
-#EXTINF:-1 , tvg-id="" tvg-logo="http://aptvid.online/vod/Music_video/cover/menunggumu.jpg" tvg-name="NOAH Menunggumu"  group-title="Series Musik",NOAH Menunggumu
-http://aptvid.online/vod/Music_video/NOAH%20-%20Menunggumu.mp4
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/FS.png" tvg-name="FOX SPORTS 1" ,FOX SPORTS 1
-https://aputra.xyz/aptv/usee/m3u8-id=foxs1.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/FS2.png" tvg-name="FOX SPORTS 2" ,FOX SPORTS 2
-https://aputra.xyz/aptv/usee/m3u8-id=foxs2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://aputra.000webhostapp.com/aptvid/tvglogo/zevkens/sports/FS3.png" tvg-name="FOX SPORTS 3" ,FOX SPORTS 3
-https://aputra.xyz/aptv/usee/m3u8-id=foxs3.m3u8
