@@ -1,0 +1,467 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="101" group-title="" tvg-logo="https://i.imgur.com/mhtF1YB.png",MY: TV 1
+http://iptv-team.tk:2082/ryu/ryu/1
+#EXTINF:-1  tvg-id="101" group-title="" tvg-logo="https://i.imgur.com/mhtF1YB.png",MY: TV 1 FHD
+http://iptv-team.tk:2082/ryu/ryu/2
+#EXTINF:-1  tvg-id="102" group-title="" tvg-logo="https://i.imgur.com/oSvuqWT.png",MY: TV 2
+http://iptv-team.tk:2082/ryu/ryu/3
+#EXTINF:-1  tvg-id="102" group-title="" tvg-logo="https://i.imgur.com/oSvuqWT.png",MY: TV 2 FHD
+http://iptv-team.tk:2082/ryu/ryu/4
+#EXTINF:-1  tvg-id="103" group-title="" tvg-logo="https://i.imgur.com/fxTyFGi.png",MY: TV 3 [A]
+http://iptv-team.tk:2082/ryu/ryu/5
+#EXTINF:-1  tvg-id="103" group-title="" tvg-logo="https://i.imgur.com/fxTyFGi.png",MY: TV 3 [B]
+http://iptv-team.tk:2082/ryu/ryu/6
+#EXTINF:-1  tvg-id="107" group-title="" tvg-logo="https://i.imgur.com/GrgipMe.png",MY: NTV 7
+http://iptv-team.tk:2082/ryu/ryu/9
+#EXTINF:-1  tvg-id="108" group-title="" tvg-logo="https://i.imgur.com/Xb05KS5.png",MY: Tv 8 [A]
+http://iptv-team.tk:2082/ryu/ryu/10
+#EXTINF:-1  tvg-id="8TV" group-title="" tvg-logo="https://i.imgur.com/Xb05KS5.png",MY: Tv 8 [B]
+http://iptv-team.tk:2082/ryu/ryu/11
+#EXTINF:-1  tvg-id="109" group-title="" tvg-logo="https://i.imgur.com/nhCHyYn.png",MY: Tv 9 [A]
+http://iptv-team.tk:2082/ryu/ryu/12
+#EXTINF:-1  tvg-id="109" group-title="" tvg-logo="https://i.imgur.com/nhCHyYn.png",MY: Tv 9 [B]
+http://iptv-team.tk:2082/ryu/ryu/13
+#EXTINF:-1  tvg-id="110" group-title="" tvg-logo="https://i.imgur.com/umw1pPE.png",MY: Okey Tv
+http://iptv-team.tk:2082/ryu/ryu/14
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/RIEjEfQ.png",MY: Drama Sangat
+http://iptv-team.tk:2082/ryu/ryu/15
+#EXTINF:-1  tvg-id="112" group-title="" tvg-logo="https://i.imgur.com/Fy8MZv6.png",MY: Awesome TV
+http://iptv-team.tk:2082/ryu/ryu/16
+#EXTINF:-1  tvg-id="702" group-title="" tvg-logo="https://i.imgur.com/899MotE.png",MY: Hello TV
+http://iptv-team.tk:2082/ryu/ryu/17
+#EXTINF:-1  tvg-id="104" group-title="" tvg-logo="https://i.imgur.com/9u5PpN7.png",MY: Astro Ria [A]
+http://iptv-team.tk:2082/ryu/ryu/18
+#EXTINF:-1  tvg-id="104" group-title="" tvg-logo="https://i.imgur.com/9u5PpN7.png",MY: Astro Ria [B]
+http://iptv-team.tk:2082/ryu/ryu/19
+#EXTINF:-1  tvg-id="105" group-title="" tvg-logo="https://i.imgur.com/Lwa0NvY.png",MY: Astro Prima [A]
+http://iptv-team.tk:2082/ryu/ryu/20
+#EXTINF:-1  tvg-id="105" group-title="" tvg-logo="https://i.imgur.com/Lwa0NvY.png",MY: Astro Prima [B]
+http://iptv-team.tk:2082/ryu/ryu/21
+#EXTINF:-1  tvg-id="107" group-title="" tvg-logo="https://i.imgur.com/k0PwV53.png",MY: Astro Warna [A]
+http://iptv-team.tk:2082/ryu/ryu/22
+#EXTINF:-1  tvg-id="107" group-title="" tvg-logo="https://i.imgur.com/k0PwV53.png",MY: Astro Warna [B]
+http://iptv-team.tk:2082/ryu/ryu/24
+#EXTINF:-1  tvg-id="106" group-title="" tvg-logo="https://i.imgur.com/4Af3K1w.png",MY: Astro Oasis
+http://iptv-team.tk:2082/ryu/ryu/25
+#EXTINF:-1  tvg-id="108" group-title="" tvg-logo="https://i.imgur.com/5Gpf6OP.png",MY: Astro Citra [A]
+http://iptv-team.tk:2082/ryu/ryu/27
+#EXTINF:-1  tvg-id="108" group-title="" tvg-logo="https://i.imgur.com/5Gpf6OP.png",MY: Astro Citra [B]
+http://iptv-team.tk:2082/ryu/ryu/28
+#EXTINF:-1  tvg-id="112" group-title="" tvg-logo="https://i.imgur.com/FCDA0SF.png",MY: Astro Rania
+http://iptv-team.tk:2082/ryu/ryu/29
+#EXTINF:-1  tvg-id="113" group-title="" tvg-logo="https://i.imgur.com/jcYnFrq.png",MY: Astro Aura
+http://iptv-team.tk:2082/ryu/ryu/30
+#EXTINF:-1  tvg-id="404" group-title="" tvg-logo="https://i.imgur.com/e2jtYc4.png",MY: Astro BOO
+http://iptv-team.tk:2082/ryu/ryu/31
+#EXTINF:-1  tvg-id="122" group-title="" tvg-logo="https://i.imgur.com/l1rJjsK.png",MY: TVS
+http://iptv-team.tk:2082/ryu/ryu/32
+#EXTINF:-1  tvg-id="128" group-title="" tvg-logo="https://i.imgur.com/PAflc1d.png",MY: Dunia Sinema HD
+http://iptv-team.tk:2082/ryu/ryu/33
+#EXTINF:-1  tvg-id="118" group-title="" tvg-logo="https://i.imgur.com/SsZqSKR.png",MY: Hypp Inspirasi HD
+http://iptv-team.tk:2082/ryu/ryu/34
+#EXTINF:-1  tvg-id="408" group-title="" tvg-logo="https://i.imgur.com/v19uUDm.png",MY: Hypp Paramount HD
+http://iptv-team.tk:2082/ryu/ryu/35
+#EXTINF:-1  tvg-id="141" group-title="" tvg-logo="https://i.imgur.com/YZhw5HB.png",MY: Hypp Pesona HD
+http://iptv-team.tk:2082/ryu/ryu/36
+#EXTINF:-1  tvg-id="113" group-title="" tvg-logo="https://i.imgur.com/LJMnCK0.png",MY: Hypp Salam HD
+http://iptv-team.tk:2082/ryu/ryu/37
+#EXTINF:-1  tvg-id="116" group-title="" tvg-logo="https://i.imgur.com/BzO9qRM.png",MY: Hypp Sensasi HD
+http://iptv-team.tk:2082/ryu/ryu/38
+#EXTINF:-1  tvg-id="301" group-title="" tvg-logo="https://i.imgur.com/1iEPOQ3.png",MY: Hypp YUPP THIRAI
+http://iptv-team.tk:2082/ryu/ryu/39
+#EXTINF:-1  tvg-id="233" group-title="" tvg-logo="https://i.imgur.com/c08dVcT.png",MY: Now Jelly
+http://iptv-team.tk:2082/ryu/ryu/40
+#EXTINF:-1  tvg-id="120" group-title="" tvg-logo="https://i.imgur.com/3y9cxDd.png",MY: GO SHOP 120 Gaya
+http://iptv-team.tk:2082/ryu/ryu/45
+#EXTINF:-1  tvg-id="111" group-title="" tvg-logo="https://i.imgur.com/3y9cxDd.png",MY: GO SHOP HD
+http://iptv-team.tk:2082/ryu/ryu/46
+#EXTINF:-1  tvg-id="121" group-title="" tvg-logo="https://i.imgur.com/7YEzidO.png",MY: Bernama
+http://iptv-team.tk:2082/ryu/ryu/48
+#EXTINF:-1  tvg-id="633" group-title="" tvg-logo="https://i.imgur.com/MeSTwXV.png",MY: PARLIMEN RTM
+http://iptv-team.tk:2082/ryu/ryu/49
+#EXTINF:-1  tvg-id="707" group-title="" tvg-logo="https://i.imgur.com/V8z4UAb.png",MY:TLC
+http://iptv-team.tk:2082/ryu/ryu/50
+#EXTINF:-1  tvg-id="GOXUAN" group-title="" tvg-logo="https://i.imgur.com/nQCaWEA.png",MY:RTB GO
+http://iptv-team.tk:2082/ryu/ryu/51
+#EXTINF:-1  tvg-id="TVAlhijrah" group-title="" tvg-logo="https://i.imgur.com/7nXR71W.png",MY:IKIM
+http://iptv-team.tk:2082/ryu/ryu/52
+#EXTINF:-1  tvg-id="501" group-title="" tvg-logo="https://i.imgur.com/idq2D6N.png",MY: Astro Awani
+http://iptv-team.tk:2082/ryu/ryu/53
+#EXTINF:-1  tvg-id="114" group-title="" tvg-logo="https://i.imgur.com/z3PkuKh.png",MY: TV ALHIJRAH
+http://iptv-team.tk:2082/ryu/ryu/54
+#EXTINF:-1  tvg-id="109" group-title="" tvg-logo="https://i.imgur.com/9whyAHv.png",MY: Naura
+http://iptv-team.tk:2082/ryu/ryu/55
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/Wfer1te.png",SG: Channel 5
+http://iptv-team.tk:2082/ryu/ryu/91
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/tV0k3tJ.png",SG: Channel 8
+http://iptv-team.tk:2082/ryu/ryu/92
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/KlTTNrP.png",SG: Channel U
+http://iptv-team.tk:2082/ryu/ryu/93
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/NGemahN.png",SG: Suria
+http://iptv-team.tk:2082/ryu/ryu/94
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/UX5ep4v.png",SG: Vasantham
+http://iptv-team.tk:2082/ryu/ryu/95
+#EXTINF:-1  tvg-id="CHN" group-title="" tvg-logo="https://i.ibb.co/WKxk2zj/gj.png",SG: CNA
+http://iptv-team.tk:2082/ryu/ryu/96
+#EXTINF:-1  tvg-id="BollyOne HD" group-title="" tvg-logo="https://i.ibb.co/F0ftsHB/bollyone.png",MY: A Bollyone
+http://iptv-team.tk:2082/ryu/ryu/78
+#EXTINF:-1  tvg-id="201" group-title="" tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png",MY: Astro Vaanavil
+http://iptv-team.tk:2082/ryu/ryu/79
+#EXTINF:-1  tvg-id="Astro Vinmeen HD" group-title="" tvg-logo="https://i.ibb.co/V9YCG5H/vinmeen.png",MY: Astro Vinmeen
+http://iptv-team.tk:2082/ryu/ryu/80
+#EXTINF:-1  tvg-id="Adithya" group-title="" tvg-logo="https://i.imgur.com/m5nHY1j.png",MY: ADITHYA
+http://iptv-team.tk:2082/ryu/ryu/81
+#EXTINF:-1  tvg-id="ChuttiTV" group-title="" tvg-logo="https://i.imgur.com/9oHi5hL.png",MY: CHUTTI TV
+http://iptv-team.tk:2082/ryu/ryu/82
+#EXTINF:-1  tvg-id="341" group-title="" tvg-logo="https://i.imgur.com/QassGGk.png",MY: Colors HD
+http://iptv-team.tk:2082/ryu/ryu/83
+#EXTINF:-1  tvg-id="204" group-title="" tvg-logo="https://i.imgur.com/Dp7JCSV.png",MY: MAKKAL TV
+http://iptv-team.tk:2082/ryu/ryu/84
+#EXTINF:-1  tvg-id="313" group-title="" tvg-logo="https://i.imgur.com/agypR2W.png",MY: Jaya TV
+http://iptv-team.tk:2082/ryu/ryu/85
+#EXTINF:-1  tvg-id="221" group-title="" tvg-logo="https://i.imgur.com/4rB17Le.png",MY: Star Vijay
+http://iptv-team.tk:2082/ryu/ryu/86
+#EXTINF:-1  tvg-id="211" group-title="" tvg-logo="https://i.ibb.co/tLWCYVZ/SUN.png",MY: SUN TV HD
+http://iptv-team.tk:2082/ryu/ryu/87
+#EXTINF:-1  tvg-id="223" group-title="" tvg-logo="https://i.ibb.co/R3xzQJG/VBGSD.png",MY: Zee TV HD
+http://iptv-team.tk:2082/ryu/ryu/88
+#EXTINF:-1  tvg-id="ZeeTamilHD" group-title="" tvg-logo="https://i.imgur.com/o3P3OUz.png",MY: Zee Action HD
+http://iptv-team.tk:2082/ryu/ryu/89
+#EXTINF:-1  tvg-id="223" group-title="" tvg-logo="https://i.imgur.com/IE67HWC.png",MY: ZEE TAMIL
+http://iptv-team.tk:2082/ryu/ryu/90
+#EXTINF:-1  tvg-id="304" group-title="" tvg-logo="https://i.imgur.com/4dt4r0G.png",MY: Astro Xiao Tai Yang
+http://iptv-team.tk:2082/ryu/ryu/56
+#EXTINF:-1  tvg-id="306" group-title="" tvg-logo="https://i.ibb.co/hHr5H0c/aec.png",MY: Astro Aec
+http://iptv-team.tk:2082/ryu/ryu/57
+#EXTINF:-1  tvg-id="307" group-title="" tvg-logo="https://i.imgur.com/WwLelB4.png",MY: Astro Shuang Xing
+http://iptv-team.tk:2082/ryu/ryu/58
+#EXTINF:-1  tvg-id="308" group-title="" tvg-logo="https://i.ibb.co/nf47yDP/quan.png",MY: Astro Quanjia
+http://iptv-team.tk:2082/ryu/ryu/59
+#EXTINF:-1  tvg-id="333" group-title="" tvg-logo="https://i.ibb.co/JF5Xnb3/hua.png",MY: Astro Hua Hee Dai
+http://iptv-team.tk:2082/ryu/ryu/60
+#EXTINF:-1  tvg-id="311" group-title="" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png",MY: AOD 311
+http://iptv-team.tk:2082/ryu/ryu/61
+#EXTINF:-1  tvg-id="TVBSNews" group-title="" tvg-logo="https://i.imgur.com/xccHvL6.png",MY: TVBS News
+http://iptv-team.tk:2082/ryu/ryu/63
+#EXTINF:-1  tvg-id="CHN" group-title="" tvg-logo="https://i.imgur.com/mhpFolW.png",MY: TVBJ
+http://iptv-team.tk:2082/ryu/ryu/64
+#EXTINF:-1  tvg-id="TVBXingHe" group-title="" tvg-logo="https://i.imgur.com/Y95YlVg.png",MY: TVB XING HE
+http://iptv-team.tk:2082/ryu/ryu/65
+#EXTINF:-1  tvg-id="TVBClassic" group-title="" tvg-logo="https://i.imgur.com/3J8hFlu.png",MY: TVB CLASSIC
+http://iptv-team.tk:2082/ryu/ryu/66
+#EXTINF:-1  tvg-id="CCTV4" group-title="" tvg-logo="https://i.imgur.com/7Vb71mo.png",MY: CCTV 1
+http://iptv-team.tk:2082/ryu/ryu/69
+#EXTINF:-1  tvg-id="CCTV4" group-title="" tvg-logo="https://i.imgur.com/v7OwmpS.png",MY: CCTV 2
+http://iptv-team.tk:2082/ryu/ryu/70
+#EXTINF:-1  tvg-id="CCTV4" group-title="" tvg-logo="https://i.imgur.com/qW5LRaW.png",MY: CCTV 3
+http://iptv-team.tk:2082/ryu/ryu/71
+#EXTINF:-1  tvg-id="CCTV4" group-title="" tvg-logo="https://i.imgur.com/qEm1CXO.png",MY: CCTV4
+http://iptv-team.tk:2082/ryu/ryu/72
+#EXTINF:-1  tvg-id="CHN" group-title="" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png",MY: AOD 351
+http://iptv-team.tk:2082/ryu/ryu/73
+#EXTINF:-1  tvg-id="353" group-title="" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png",MY: AOD 353
+http://iptv-team.tk:2082/ryu/ryu/75
+#EXTINF:-1  tvg-id="354" group-title="" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png",MY: AOD 354
+http://iptv-team.tk:2082/ryu/ryu/76
+#EXTINF:-1  tvg-id="355" group-title="" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png",MY: AOD 355
+http://iptv-team.tk:2082/ryu/ryu/77
+#EXTINF:-1  tvg-id="352" group-title="" tvg-logo="https://i.ibb.co/0C0B6N1/ojp.png",MY: AOD 352
+http://iptv-team.tk:2082/ryu/ryu/74
+#EXTINF:-1  tvg-id="K-Plus" group-title="" tvg-logo="https://i.imgur.com/9tMsWzR.png",K+
+http://iptv-team.tk:2082/ryu/ryu/41
+#EXTINF:-1  tvg-id="warnertv.my" group-title="" tvg-logo="https://i.imgur.com/Vgr6q74.png",SONY ONE HD
+http://iptv-team.tk:2082/ryu/ryu/42
+#EXTINF:-1  tvg-id="IQIYI" group-title="" tvg-logo="https://i.imgur.com/C644NVc.png",iQIYI
+http://iptv-team.tk:2082/ryu/ryu/43
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/DZxbDFk.png",Oh!K
+http://iptv-team.tk:2082/ryu/ryu/44
+#EXTINF:-1  tvg-id="AXNHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/fvX7FOb.png",K-Drama
+http://iptv-team.tk:2082/ryu/ryu/143
+#EXTINF:-1  tvg-id="201" group-title="" tvg-logo="https://i.imgur.com/FzmUYcD.png",Tvn Movie
+http://iptv-team.tk:2082/ryu/ryu/146
+#EXTINF:-1  tvg-id="TVN.MACAN" group-title="" tvg-logo="https://i.imgur.com/Hds0hgV.png",Tvn HD
+http://iptv-team.tk:2082/ryu/ryu/147
+#EXTINF:-1  tvg-id="IMC.id" group-title="" tvg-logo="https://i.postimg.cc/HsLC8QfK/imc2.png",IMC FHD
+http://iptv-team.tk:2082/ryu/ryu/161
+#EXTINF:-1  tvg-id="HBOHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/PWMQYW8.png",HBO FHD
+http://iptv-team.tk:2082/ryu/ryu/854
+#EXTINF:-1  tvg-id="HBOHitsHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/1DliwFh.png",HBO HITS FHD
+http://iptv-team.tk:2082/ryu/ryu/855
+#EXTINF:-1  tvg-id="HBOFamilyHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/tlf4n1h.png",HBO FAMILY FHD
+http://iptv-team.tk:2082/ryu/ryu/856
+#EXTINF:-1  tvg-id="HBOSignatureHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/xvqfKhJ.png",HBO SIGNATURE FHD
+http://iptv-team.tk:2082/ryu/ryu/857
+#EXTINF:-1  tvg-id="CINEMAX.MACAN" group-title="" tvg-logo="https://i.imgur.com/avkIELd.png",CINEMAX FHD
+http://iptv-team.tk:2082/ryu/ryu/858
+#EXTINF:-1  tvg-id="WarnerTV.MACAN" group-title="" tvg-logo="https://i.imgur.com/SUfEmo9.png",WARNER TV FHD
+http://iptv-team.tk:2082/ryu/ryu/859
+#EXTINF:-1  tvg-id="TVN.MACAN" group-title="" tvg-logo="https://i.imgur.com/JH9lj7Q.png",GALAXY FHD
+http://iptv-team.tk:2082/ryu/ryu/860
+#EXTINF:-1  tvg-id="TVNMovies.MACAN" group-title="" tvg-logo="https://i.imgur.com/nJZvCD8.png",GALAXY PREMIUM FHD
+http://iptv-team.tk:2082/ryu/ryu/861
+#EXTINF:-1  tvg-id="Galaxy.id" group-title="" tvg-logo="https://i.imgur.com/Hds0hgV.png",TVN FHD
+http://iptv-team.tk:2082/ryu/ryu/862
+#EXTINF:-1  tvg-id="GalaxyPremium.id" group-title="" tvg-logo="https://i.imgur.com/FzmUYcD.png",TVN MOVIES FHD
+http://iptv-team.tk:2082/ryu/ryu/863
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.postimg.cc/kG3z1S4Q/axn2.png",AXN FHD
+http://iptv-team.tk:2082/ryu/ryu/864
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.ibb.co/r45KLr2/VZXDZD.png",LIFE TIME FHD
+http://iptv-team.tk:2082/ryu/ryu/867
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/9tMsWzR.png",K PLUS
+http://iptv-team.tk:2082/ryu/ryu/869
+#EXTINF:-1  tvg-id="Zee.MACAN" group-title="" tvg-logo="https://i.ibb.co/R3xzQJG/VBGSD.png",ZEE TV FHD
+http://iptv-team.tk:2082/ryu/ryu/874
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/ppnh8Uu.png",SONY ENTERTAINMENT FHD
+http://iptv-team.tk:2082/ryu/ryu/875
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.ibb.co/0JR3kXX/max.png",SONY MAX FHD
+http://iptv-team.tk:2082/ryu/ryu/876
+#EXTINF:-1  tvg-id="SONY PIX" group-title="" tvg-logo="https://i.imgur.com/rUaCDef.png",SONY PIX FHD
+http://iptv-team.tk:2082/ryu/ryu/877
+#EXTINF:-1  tvg-id="ColorsHD" group-title="" tvg-logo="https://i.imgur.com/QassGGk.png",COLORS FHD
+http://iptv-team.tk:2082/ryu/ryu/878
+#EXTINF:-1  tvg-id="333" group-title="" tvg-logo="https://i.imgur.com/njpbDFC.png",CINEPLEX FHD
+http://iptv-team.tk:2082/ryu/ryu/879
+#EXTINF:-1  tvg-id="Animax.MACAN" group-title="" tvg-logo="https://i.imgur.com/PpYwJr6.png",ANIMAX FHD
+http://iptv-team.tk:2082/ryu/ryu/880
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/0sb70A3.png",MARVEL HQ FHD
+http://iptv-team.tk:2082/ryu/ryu/881
+#EXTINF:-1  tvg-id="DisneyChannel.MACAN" group-title="" tvg-logo="https://i.imgur.com/NedV9wE.png",DISNEY CHANNEL FHD
+http://iptv-team.tk:2082/ryu/ryu/882
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/LV6b7Nq.png",DISNEY INTERNATIONAL FHD
+http://iptv-team.tk:2082/ryu/ryu/883
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.ibb.co/KNyzdhK/fhf.png",SONY BBC EARTH FHD
+http://iptv-team.tk:2082/ryu/ryu/886
+#EXTINF:-1  tvg-id="CHN" group-title="" tvg-logo="https://i.imgur.com/lPit4gz.png",HISTORY FHD
+http://iptv-team.tk:2082/ryu/ryu/889
+#EXTINF:-1  tvg-id="History" group-title="" tvg-logo="https://i.imgur.com/VA17ECm.png",HISTORY 2 FHD
+http://iptv-team.tk:2082/ryu/ryu/890
+#EXTINF:-1  tvg-id="482" group-title="" tvg-logo="https://i.imgur.com/qQgxcKb.png",Astro First
+http://iptv-team.tk:2082/ryu/ryu/132
+#EXTINF:-1  tvg-id="241" group-title="" tvg-logo="https://i.imgur.com/gecwjwq.png",Astro Box Office
+http://iptv-team.tk:2082/ryu/ryu/133
+#EXTINF:-1  tvg-id="HBOHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/PWMQYW8.png",HBO
+http://iptv-team.tk:2082/ryu/ryu/136
+#EXTINF:-1  tvg-id="HBOHitsHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/1DliwFh.png",HBO Hits
+http://iptv-team.tk:2082/ryu/ryu/137
+#EXTINF:-1  tvg-id="HBOSignatureHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/xvqfKhJ.png",HBO Signature
+http://iptv-team.tk:2082/ryu/ryu/138
+#EXTINF:-1  tvg-id="HBOFamilyHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/tlf4n1h.png",HBO Family
+http://iptv-team.tk:2082/ryu/ryu/139
+#EXTINF:-1  tvg-id="CINEMAX.MACAN" group-title="" tvg-logo="https://i.imgur.com/avkIELd.png",CINEMAX HD
+http://iptv-team.tk:2082/ryu/ryu/140
+#EXTINF:-1  tvg-id="401" group-title="" tvg-logo="https://i.imgur.com/RYJOZoa.png",HITS Movies
+http://iptv-team.tk:2082/ryu/ryu/142
+#EXTINF:-1  tvg-id="411" group-title="" tvg-logo="https://i.imgur.com/LzYKjaY.png",Cinema world
+http://iptv-team.tk:2082/ryu/ryu/144
+#EXTINF:-1  tvg-id="Thrill.id" group-title="" tvg-logo="https://i.imgur.com/X5xC7G2.png",Thrill
+http://iptv-team.tk:2082/ryu/ryu/145
+#EXTINF:-1  tvg-id="CCM.MACAN" group-title="" tvg-logo="https://i.imgur.com/i36SmYp.png",CCM
+http://iptv-team.tk:2082/ryu/ryu/149
+#EXTINF:-1  tvg-id="CelestialMovies.MACAN" group-title="" tvg-logo="https://i.imgur.com/7l71Iqa.png",Celestial Movies
+http://iptv-team.tk:2082/ryu/ryu/150
+#EXTINF:-1  tvg-id="BioskopIndonesia.MACAN" group-title="" tvg-logo="https://i.imgur.com/bSiPpJz.png",Bioskop Indonesia
+http://iptv-team.tk:2082/ryu/ryu/152
+#EXTINF:-1  tvg-id="&Flix HD" group-title="" tvg-logo="https://i.imgur.com/Rg89Aiq.png",FLIK
+http://iptv-team.tk:2082/ryu/ryu/153
+#EXTINF:-1  tvg-id="704" group-title="" tvg-logo="https://i.imgur.com/9tOaSH6.png",PRIMEtime
+http://iptv-team.tk:2082/ryu/ryu/155
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/UZQYqvF.png",Wau
+http://iptv-team.tk:2082/ryu/ryu/156
+#EXTINF:-1  tvg-id="STAR Movies HD" group-title="" tvg-logo="https://i.imgur.com/nGrv43M.png",Star Movies
+http://iptv-team.tk:2082/ryu/ryu/788
+#EXTINF:-1  tvg-id="413" group-title="" tvg-logo="https://i.imgur.com/xAOlGVi.png",Showcase Movies
+http://iptv-team.tk:2082/ryu/ryu/931
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/NVBydKg.png",Movie Now
+http://iptv-team.tk:2082/ryu/ryu/968
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/SQHgxX9.png",Hollywood Movies
+http://iptv-team.tk:2082/ryu/ryu/1008
+#EXTINF:-1  tvg-id="STAR Movies Select HD" group-title="" tvg-logo="https://i.imgur.com/XXndKaE.png",Star Movies Select
+http://iptv-team.tk:2082/ryu/ryu/891
+#EXTINF:-1  tvg-id="RTM Sports" group-title="" tvg-logo="https://i.imgur.com/EWaPCNt.png",MY: RTM Sport FHD
+http://iptv-team.tk:2082/ryu/ryu/165
+#EXTINF:-1  tvg-id="824" group-title="" tvg-logo="https://i.imgur.com/VcWrYPg.png",MY: Astro Cricket
+http://iptv-team.tk:2082/ryu/ryu/166
+#EXTINF:-1  tvg-id="801" group-title="" tvg-logo="https://i.imgur.com/4KjPsmy.png",MY: Astro Arena[A]
+http://iptv-team.tk:2082/ryu/ryu/167
+#EXTINF:-1  tvg-id="Arena" group-title="" tvg-logo="https://i.imgur.com/4KjPsmy.png",MY: Astro Arena[B]
+http://iptv-team.tk:2082/ryu/ryu/168
+#EXTINF:-1  tvg-id="802" group-title="" tvg-logo="https://i.imgur.com/SiBlOlR.png",MY: Arena 2
+http://iptv-team.tk:2082/ryu/ryu/169
+#EXTINF:-1  tvg-id="FOXSports2.MACAN" group-title="" tvg-logo="https://i.imgur.com/2CJMvG3.png",Spotv
+http://iptv-team.tk:2082/ryu/ryu/175
+#EXTINF:-1  tvg-id="821" group-title="" tvg-logo="https://i.imgur.com/Zp1sGxu.png",MY:  WWE
+http://iptv-team.tk:2082/ryu/ryu/179
+#EXTINF:-1  tvg-id="EUROSPORT" group-title="" tvg-logo="https://i.imgur.com/D9U27vq.png",Euro Sport
+http://iptv-team.tk:2082/ryu/ryu/195
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/X4UNJD7.png",RedBull Tv
+http://iptv-team.tk:2082/ryu/ryu/196
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/K4cVyR0.png",ESPN
+http://iptv-team.tk:2082/ryu/ryu/199
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/eiH6tqn.png",TrueSports HD 1
+http://iptv-team.tk:2082/ryu/ryu/206
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/SgC2ju0.png",TrueSports HD 2
+http://iptv-team.tk:2082/ryu/ryu/207
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/46kQZpL.png",TrueSports HD 3
+http://iptv-team.tk:2082/ryu/ryu/208
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/1qZIFF4.png",TVRI SPORTS
+http://iptv-team.tk:2082/ryu/ryu/215
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/VeNIjfe.png",BT Sport
+http://iptv-team.tk:2082/ryu/ryu/216
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/qYUonzb.png",Eleven Sports 1
+http://iptv-team.tk:2082/ryu/ryu/219
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/jfZgBVN.png",Eleven Sports 2
+http://iptv-team.tk:2082/ryu/ryu/220
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/LAu5Ni7.png",True Premier 1
+http://iptv-team.tk:2082/ryu/ryu/221
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/hIZpNmH.png",True Premier 2
+http://iptv-team.tk:2082/ryu/ryu/222
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/wQSlADp.png",True Premier 3
+http://iptv-team.tk:2082/ryu/ryu/226
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/rsSTqQJ.png",SONY SIX FHD
+http://iptv-team.tk:2082/ryu/ryu/231
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/McCJ5BD.png",SONY TEN 2 FHD
+http://iptv-team.tk:2082/ryu/ryu/232
+#EXTINF:-1  tvg-id="701" group-title="" tvg-logo="https://i.imgur.com/FssvQgG.png",MY: Unifi Sport 1
+http://iptv-team.tk:2082/ryu/ryu/795
+#EXTINF:-1  tvg-id="702" group-title="" tvg-logo="https://i.imgur.com/FssvQgG.png",MY: Unifi Sport 2
+http://iptv-team.tk:2082/ryu/ryu/796
+#EXTINF:-1  tvg-id="703" group-title="" tvg-logo="https://i.imgur.com/FssvQgG.png",MY: Unifi Sport 3
+http://iptv-team.tk:2082/ryu/ryu/797
+#EXTINF:-1  tvg-id="704" group-title="" tvg-logo="https://i.imgur.com/FssvQgG.png",MY: Unifi Sport 4
+http://iptv-team.tk:2082/ryu/ryu/798
+#EXTINF:-1  tvg-id="705" group-title="" tvg-logo="https://i.imgur.com/FssvQgG.png",MY: Unifi Sport 5
+http://iptv-team.tk:2082/ryu/ryu/799
+#EXTINF:-1  tvg-id="beINSports1.MACAN" group-title="" tvg-logo="https://i.imgur.com/DQa0J6d.png",ID: beIN Sports 1
+http://iptv-team.tk:2082/ryu/ryu/892
+#EXTINF:-1  tvg-id="beINSports2.MACAN" group-title="" tvg-logo="https://i.imgur.com/ybUNVQf.png",ID: beIN Sports 2
+http://iptv-team.tk:2082/ryu/ryu/893
+#EXTINF:-1  tvg-id="819" group-title="" tvg-logo="https://i.imgur.com/imokfBL.png",MY: beIN Sports MAX
+http://iptv-team.tk:2082/ryu/ryu/896
+#EXTINF:-1  tvg-id="CHN" group-title="" tvg-logo="https://i.imgur.com/DloQD8T.png",MY:Bein Sports
+http://iptv-team.tk:2082/ryu/ryu/930
+#EXTINF:-1  tvg-id="822" group-title="" tvg-logo="https://i.imgur.com/UI13fvN.png",Golf Channel
+http://iptv-team.tk:2082/ryu/ryu/977
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/FoKUD0x.png",NBA
+http://iptv-team.tk:2082/ryu/ryu/1003
+#EXTINF:-1  tvg-id="eGG.MACAN" group-title="" tvg-logo="https://i.imgur.com/GsfCElV.png",eGG Network
+http://iptv-team.tk:2082/ryu/ryu/1011
+#EXTINF:-1  tvg-id="ASSP1.my" group-title="" tvg-logo="https://i.imgur.com/cBBGb0N.png",MY: Astro Super Sport 1
+http://iptv-team.tk:2082/ryu/ryu/170
+#EXTINF:-1  tvg-id="ASSP2.my" group-title="" tvg-logo="https://i.imgur.com/Jf5NgUY.png",MY: Astro Super Sport 2
+http://iptv-team.tk:2082/ryu/ryu/171
+#EXTINF:-1  tvg-id="ASSP3.my" group-title="" tvg-logo="https://i.imgur.com/TTS2stU.png",MY: Astro Super Sport 3
+http://iptv-team.tk:2082/ryu/ryu/172
+#EXTINF:-1  tvg-id="ASSP4.my" group-title="" tvg-logo="https://i.imgur.com/nrcG4CH.png",MY: Astro Super Sport 4
+http://iptv-team.tk:2082/ryu/ryu/173
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/sVmUvri.png",Bein Sport Xtra
+http://iptv-team.tk:2082/ryu/ryu/190
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/pZWAzoa.png",Sport TV 1
+http://iptv-team.tk:2082/ryu/ryu/210
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/pZWAzoa.png",Sport TV 2
+http://iptv-team.tk:2082/ryu/ryu/211
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/pZWAzoa.png",Sport TV 3
+http://iptv-team.tk:2082/ryu/ryu/212
+#EXTINF:-1  tvg-id="818" group-title="" tvg-logo="https://i.imgur.com/DloQD8T.png",MY: beIN Sports
+http://iptv-team.tk:2082/ryu/ryu/927
+#EXTINF:-1  tvg-id="ASSP1.my" group-title="" tvg-logo="https://i.imgur.com/cBBGb0N.png",MY: Astro Super Sport 1(B)
+http://iptv-team.tk:2082/ryu/ryu/937
+#EXTINF:-1  tvg-id="ASSP2.my" group-title="" tvg-logo="https://i.imgur.com/Jf5NgUY.png",MY: Astro Super Sport 2(B)
+http://iptv-team.tk:2082/ryu/ryu/938
+#EXTINF:-1  tvg-id="ASSP3.my" group-title="" tvg-logo="https://i.imgur.com/TTS2stU.png",MY: Astro Super Sport 3(B)
+http://iptv-team.tk:2082/ryu/ryu/939
+#EXTINF:-1  tvg-id="ASSP4.my" group-title="" tvg-logo="https://i.imgur.com/nrcG4CH.png",MY: Astro Super Sport 4(B)
+http://iptv-team.tk:2082/ryu/ryu/940
+#EXTINF:-1  tvg-id="815" group-title="" tvg-logo="https://i.imgur.com/ZSzQb42.png",MY: Astro Super Sport 5
+http://iptv-team.tk:2082/ryu/ryu/978
+#EXTINF:-1  tvg-id="AstroCeria.my" group-title="" tvg-logo="https://i.imgur.com/aEWiJC8.png",Astro Ceria
+http://iptv-team.tk:2082/ryu/ryu/423
+#EXTINF:-1  tvg-id="Animax.MACAN" group-title="" tvg-logo="https://i.imgur.com/PpYwJr6.png",Animax
+http://iptv-team.tk:2082/ryu/ryu/425
+#EXTINF:-1  tvg-id="ANIPlus.id" group-title="" tvg-logo="https://i.imgur.com/Ndmxz69.png",Aniplus FHD
+http://iptv-team.tk:2082/ryu/ryu/426
+#EXTINF:-1  tvg-id="Boomerang.MACAN" group-title="" tvg-logo="https://i.imgur.com/bz3u45V.png",Boomerang
+http://iptv-team.tk:2082/ryu/ryu/427
+#EXTINF:-1  tvg-id="CartoonNetwork.MACAN" group-title="" tvg-logo="https://i.imgur.com/w9JvmZb.png",Cartoon Network
+http://iptv-team.tk:2082/ryu/ryu/428
+#EXTINF:-1  tvg-id="Nickelodeon.MACAN" group-title="" tvg-logo="https://i.imgur.com/NaOSrid.png",Nickelodeon
+http://iptv-team.tk:2082/ryu/ryu/429
+#EXTINF:-1  tvg-id="NickelodeonJr.MACAN" group-title="" tvg-logo="https://i.imgur.com/dFSV8sm.png",Nick Jr
+http://iptv-team.tk:2082/ryu/ryu/430
+#EXTINF:-1  tvg-id="DisneyChannel.MACAN" group-title="" tvg-logo="https://i.imgur.com/NedV9wE.png",Disney Channel
+http://iptv-team.tk:2082/ryu/ryu/431
+#EXTINF:-1  tvg-id="DisneyJunior.MACAN" group-title="" tvg-logo="https://i.imgur.com/rqUB3rO.png",Disney Jr
+http://iptv-team.tk:2082/ryu/ryu/432
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/qcYOpXC.png",Disney XD
+http://iptv-team.tk:2082/ryu/ryu/434
+#EXTINF:-1  tvg-id="Horee.id" group-title="" tvg-logo="https://i.imgur.com/6BbQTRo.png",Horee
+http://iptv-team.tk:2082/ryu/ryu/435
+#EXTINF:-1  tvg-id="550" group-title="" tvg-logo="https://i.imgur.com/fJn9KXK.png",Dreamwork
+http://iptv-team.tk:2082/ryu/ryu/438
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/nv2eup2.png",Anime
+http://iptv-team.tk:2082/ryu/ryu/440
+#EXTINF:-1  tvg-id="CHN" group-title="" tvg-logo="https://i.imgur.com/ktj7Lwr.png",TA-DAA!
+http://iptv-team.tk:2082/ryu/ryu/976
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/hYdtHG4.png",KIDS CENTRE
+http://iptv-team.tk:2082/ryu/ryu/1002
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/IYf9Rg8.png",Spacetoon
+http://iptv-team.tk:2082/ryu/ryu/1007
+#EXTINF:-1  tvg-id="618" group-title="" tvg-logo="https://i.imgur.com/kdI2BV6.png",Baby Tv
+http://iptv-team.tk:2082/ryu/ryu/1009
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Naruto TV
+http://iptv-team.tk:2082/ryu/ryu/1014
+#EXTINF:-1  tvg-id="706" group-title="" tvg-logo="https://i.imgur.com/gAs14nR.png",HITS
+http://iptv-team.tk:2082/ryu/ryu/141
+#EXTINF:-1  tvg-id="451" group-title="" tvg-logo="https://i.imgur.com/SUfEmo9.png",Warner TV
+http://iptv-team.tk:2082/ryu/ryu/148
+#EXTINF:-1  tvg-id="KIX.MACAN" group-title="" tvg-logo="https://i.imgur.com/csa049r.png",KIX
+http://iptv-team.tk:2082/ryu/ryu/151
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/00TKeSu.png",Blue Ant Extreme
+http://iptv-team.tk:2082/ryu/ryu/158
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/b3haNYj.png",Blue Ant Entertaiment
+http://iptv-team.tk:2082/ryu/ryu/159
+#EXTINF:-1  tvg-id="AXNHD.MACAN" group-title="" tvg-logo="https://i.imgur.com/oqMh5Vj.png",AXN
+http://iptv-team.tk:2082/ryu/ryu/972
+#EXTINF:-1  tvg-id="AsianFoodChannel.id" group-title="" tvg-logo="https://i.imgur.com/ZuP3s7N.png",Food Network
+http://iptv-team.tk:2082/ryu/ryu/1010
+#EXTINF:-1  tvg-id="AnimalPlanet.MACAN" group-title="" tvg-logo="https://i.imgur.com/1SJnJ3L.png",Animal Planet
+http://iptv-team.tk:2082/ryu/ryu/447
+#EXTINF:-1  tvg-id="NationalGeographicChannel.MACAN" group-title="" tvg-logo="https://i.imgur.com/NGhLWUv.png",National Geographic
+http://iptv-team.tk:2082/ryu/ryu/448
+#EXTINF:-1  tvg-id="NationalGeographicPeople.MACAN" group-title="" tvg-logo="https://i.imgur.com/tHjFcIb.png",Nat Geo People
+http://iptv-team.tk:2082/ryu/ryu/449
+#EXTINF:-1  tvg-id="NationalGeographicWild.MACAN" group-title="" tvg-logo="https://i.imgur.com/8hWyRwF.png",Nat Geo Wild
+http://iptv-team.tk:2082/ryu/ryu/450
+#EXTINF:-1  tvg-id="HistoryChannel.id" group-title="" tvg-logo="https://i.imgur.com/lPit4gz.png",History
+http://iptv-team.tk:2082/ryu/ryu/451
+#EXTINF:-1  tvg-id="HGTV.MACAN" group-title="" tvg-logo="https://i.imgur.com/VmKicOu.png",HGTV
+http://iptv-team.tk:2082/ryu/ryu/452
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/tKwI7G9.png",AFN HD
+http://iptv-team.tk:2082/ryu/ryu/453
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/RdsWRng.png",CGTN
+http://iptv-team.tk:2082/ryu/ryu/456
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/1Pr7Tct.png",CGTN Documentary
+http://iptv-team.tk:2082/ryu/ryu/457
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://image.winudf.com/v2/image/Y29tLnR2LmxpdmUua2FiYmFfc2NyZWVuXzBfMTUxOTA3NDYxOV8wMzk/screen-0.jpg?fakeurl=1&type=.jpg",MAKKAH LIVE
+http://iptv-team.tk:2082/ryu/ryu/971
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/zmVCXIK.png",Medina
+http://iptv-team.tk:2082/ryu/ryu/1004
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/KwRSy8dYYJ.png",Arena FM
+http://iptv-team.tk:2082/ryu/ryu/443
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/aYVbJaEnPR.jpg",Gegar FM
+http://iptv-team.tk:2082/ryu/ryu/442
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i1.sndcdn.com/avatars-000112508049-ln7yzp-t240x240.jpg",Hitz FM
+http://iptv-team.tk:2082/ryu/ryu/441
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://seeklogo.com/images/S/suria-fm-malaysia-logo-6F716276EC-seeklogo.com.gif",Suria FM
+http://iptv-team.tk:2082/ryu/ryu/388
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/6WpzDY2yrH.jpg",Sinar FM
+http://iptv-team.tk:2082/ryu/ryu/387
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i1.sndcdn.com/avatars-000299244559-qwnhw2-t500x500.jpg",Kool FM
+http://iptv-team.tk:2082/ryu/ryu/386
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/75trt8g59dby.png",Melody FM
+http://iptv-team.tk:2082/ryu/ryu/385
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.radio.net/images/broadcasts/a5/b0/121321/1/c300.png",Mix FM
+http://iptv-team.tk:2082/ryu/ryu/235
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://static-media.streema.com/media/cache/6b/5f/6b5f95a180604ada7170799d82f75ef5.jpg",Hot FM
+http://iptv-team.tk:2082/ryu/ryu/234
+#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mWpNZLKVNR.jpg",Era FM
+http://iptv-team.tk:2082/ryu/ryu/233
