@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/26.jpg",EGG HD
+http://rr.dens.tv/h/h22/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg",ANIPLUS HD
+http://rr1.dens.tv/h/h02/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/97.jpg",ANIMAX HD
+http://rr1.dens.tv/h/h144/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/96.jpg",MY KIDZ HD
+http://rr.dens.tv/h/h191/index.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/101.jpg",HITS HD
+http://rr1.dens.tv/h/h37/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/93.jpg",AXN HD
+http://rr1.dens.tv/h/h141/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/39.jpg",ROCK ENTERTAINMENT HD
+http://rr1.dens.tv/h/h16/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/44.jpg",ROCK EXTREME HD
+http://rr1.dens.tv/h/h15/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/49.jpg",KIX HD
+http://rr1.dens.tv/h/h07/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/5.jpg",GEM HD
+http://rr.dens.tv/h/h19/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/100.jpg",K-PLUS HD
+http://rr.dens.tv/h/h08/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/89.jpg",ONE HD
+http://rr.dens.tv/h/h143/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/59.jpg",TVN HD
+http://rr1.dens.tv/h/h20/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/58.jpg",TVN MOVIES HD
+http://rr1.dens.tv/h/h21/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/99.jpg",CELESTIAL MOVIES
+http://rr2.dens.tv/s/s33/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/110.jpg",CCM (CELESTIAL CLASSIC MV)
+http://rr2.dens.tv/s/s31/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg",MY CINEMA ASIA
+http://rr.dens.tv/h/h193/index.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/103.jpg",ZEE BIOSKOP
+http://rr2.dens.tv/s/s32/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/55.jpg",THRILL
+http://rr2.dens.tv/s/s34/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/87.jpg",CINEMAWORLD HD
+http://rr1.dens.tv/h/h04/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg",MY CINEMA HD
+http://rr.dens.tv/h/h192/index.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/92.jpg",MY CINEMA EUROPE HD
+http://rr.dens.tv/h/h18/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/37.jpg",TV5MONDE STYLE HD
+http://rr1.dens.tv/h/h01/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/60.jpg",FIGHT SPORTS HD
+http://rr1.dens.tv/h/h05/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",MOTORVISION TV HD
+http://rr.dens.tv/h/h09/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",GOLF CHANNEL HD
+http://rr1.dens.tv/h/h10/01.m3u8
+#EXTINF:-1 group-title="DS Premium Channel" tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg",BLOOMBERG TELEVISION HD
+http://rr1.dens.tv/h/h03/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg",LIVE STREAMING 1
+http://rr3.dens.tv/s/s100/live.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/75.jpg",LIVE STREAMING 2
+http://rr.dens.tv/h/h998/live.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/107.jpg",DENSPLAY
+http://rr3.dens.tv/s/s101/live.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/42.jpg",DENS LIFE & STYLE
+http://rr1.dens.tv/h/h28/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg",DENS LEARNING & KNOWLEDGE
+http://rr3.dens.tv/s/s36/S4/mnf.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg",DENS SNOWBIZ
+http://rr3.dens.tv/s/s35/S4/mnf.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg",METRO TV
+http://rr.dens.tv/h/h12/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",TVONE
+http://rr2.dens.tv/s/s105/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/14.jpg",KOMPAS TV
+http://rr2.dens.tv/s/s104/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg",BERITASATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg",SCTV
+http://rr2.dens.tv/s/s03/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg",INDOSIAR
+http://rr2.dens.tv/s/s04/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg",TRANS TV
+http://rr2.dens.tv/s/s05/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg",TRANS7
+http://rr.dens.tv/h/h11/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg",ANTV
+http://rr2.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg",NET.
+http://rr2.dens.tv/s/s08/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg",RTV
+http://rr2.dens.tv/s/s12/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/94.jpg",ELSHINTA TV
+http://rr2.dens.tv/s/s10/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/105.jpg",MYTV
+http://rr3.dens.tv/s/s88/S4/mnf.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/17.jpg",TVRI
+http://rr2.dens.tv/s/s11/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg",TVRI SPORT HD
+http://rr2.dens.tv/s/s107/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg",RODJATV
+http://rr2.dens.tv/s/s14/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg",DAAI TV
+http://rr2.dens.tv/s/s13/01.m3u8
+#EXTINF:-1 group-title="DS Local Channel" tvg-logo="http://www.dens.tv/images/channel-logo/76.jpg",U-CHANNEL
+http://rr2.dens.tv/s/s41/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/61.jpg",CNA
+http://rr.dens.tv/h/h29/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/77.jpg",NHK WORLD-JAPAN
+http://rr.dens.tv/h/h23/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/56.jpg",AL JAZEERA ENGLISH
+http://rr2.dens.tv/s/s17/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/41.jpg",TRT WORLD
+http://rr.dens.tv/h/h156/S4/mnf.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/79.jpg",WION
+http://rr.dens.tv/h/h91/S4/mnf.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/104.jpg",UA|TV
+http://rr.dens.tv/h/h101/S4/mnf.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/27.jpg",AL JAZEERA ARABIC
+http://rr2.dens.tv/s/s16/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/85.jpg",CCTV-4
+http://rr2.dens.tv/s/s19/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/69.jpg",FRANCE 24
+http://rr2.dens.tv/s/s22/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/90.jpg",TV5MONDE ASIE
+http://rr1.dens.tv/s/s24/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/81.jpg",DW-TV
+http://rr2.dens.tv/s/s26/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/78.jpg",TBN
+http://rr2.dens.tv/s/s39/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/16.jpg",CGTN DOCUMENTARY
+http://rr2.dens.tv/s/s20/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/82.jpg",QURAN TV
+http://rr2.dens.tv/s/s28/01.m3u8
+#EXTINF:-1 group-title="DS International Channel" tvg-logo="http://www.dens.tv/images/channel-logo/88.jpg",SUNNA TV
+http://rr2.dens.tv/s/s27/01.m3u8
