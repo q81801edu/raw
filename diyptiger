@@ -627,8 +627,10 @@ RT English,http://gcs2.xyz:2052/anh/123/1109835
 
 
 SPORTS,#genre#
+SPOTV,https://master.server-cdn-streaming.com/api/live-player/37/live.m3u8
 SPOTV,https://cloudserver.server-cdn-streaming.com/live-player/11/live.m3u8
 SPOTV,http://211.203.0.244:9981/stream/channelid/32768418
+SPOTV2,https://master.server-cdn-streaming.com/api/live-player/39/live.m3u8
 SPOTV2,https://cloudserver.server-cdn-streaming.com/live-player/13/live.m3u8
 SPOTV2,http://211.203.0.244:9981/stream/channelid/784633781
 SK SPORT 1 HD,http://31.220.41.86:8081/live/klub1.stream/chunks.m3u8
@@ -646,18 +648,10 @@ BeIN Sport 1 ID,http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein1
 BeIN Sport 1 ID,https://nonton.site:8443/papa123/papa123/728
 BeIN Sport 2 ID,http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=bein2
 BeIN Sport 2 ID,https://nonton.site:8443/papa123/papa123/729
-Fox Sports 1,http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport1
-Fox Sports 1,https://nonton.site:8443/papa123/papa123/51
-Fox Sports 1,https://nonton.site:8443/papa123/papa123/37429
-Fox Sports 1,http://gcs2.xyz:2052/anh/123/1109737
-Fox Sports 2,http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport2
-Fox Sports 2,https://nonton.site:8443/papa123/papa123/102
-Fox Sports 2,https://nonton.site:8443/papa123/papa123/37430
-Fox Sports 2,http://gcs2.xyz:2052/anh/123/1109732
-Fox Sports 3,http://dituduhmaling.xyz/US33T4/MPD/master.m3u8?id=foxsport3
-Fox Sports 3,https://nonton.site:8443/papa123/papa123/101
-Fox Sports 3,https://nonton.site:8443/papa123/papa123/37431
-Fox Sports 3,http://gcs2.xyz:2052/anh/123/1109698
+Fox Sports,http://38.131.11.9:1080/play/a02k
+Fox Sports 1,http://38.131.11.9:1080/play/a00c
+Fox Sports 2,http://38.131.11.9:1080/play/a033
+Fox Sports 3,http://38.131.11.9:1080/play/a034
 ASTRO ARENA,https://nonton.site:8443/papa123/papa123/37422
 Box Nation,https://nonton.site:8443/papa123/papa123/499
 MNC Sports,http://gcs2.xyz:2052/anh/123/1109825
@@ -3772,7 +3766,6 @@ SBTN,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2586292
 
 
 
-
 测试,#genre#
 BBCWORLDNEWS,http://93.190.139.35:8278/streams/d/bbcworldnews_antik/playlist.m3u8
 
@@ -5938,7 +5931,6 @@ CHC高清电影 8M1080[1920*1080],http://117.71.37.17/live.aishang.ctlcdn.com/00
 
 
 
-
 捐款一_711211,#genre#
 潘多拉完美,#mitv://fccsovh.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f.ts#mitv://fccseuro.pvbox.live:18912/5c7249b6000641f7f22447de5605ea5f.ts
 潘多拉粉红,#mitv://fccseuro.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615.ts#mitv://fccsovh.pvbox.live:18912/5c7249ba0008b3211d5786b3068b4615.ts
@@ -6684,6 +6676,7 @@ ny Hosts of Hell,http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/33110
 207:Anya Krey,http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/60740
 208:iFlixMilf TV,http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/60741
 209:Fucking The Help,http://mvu03.wanicelife.com:8880/SY14B790/RHC6547A/60742
+
 
 
 
