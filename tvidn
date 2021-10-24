@@ -1,78 +1,78 @@
-#EXTM3U tvg-url="http://bit.ly/3itZsSm",  refresh="3600"
+#EXTM3U tvg-url="https://macan.tv/xmltv.php?username=epg&password=epg",  refresh="3600"
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml",  refresh="3600"
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="RCTI.id" tvg-logo="http://choos.wap.sh/images/rcti.png" , RCTI (vision)
+#EXTINF:-1 group-title="" tvg-id="RCTI.id" tvg-logo="http://choos.wap.sh/images/rcti.png" , RCTI (vision)
 https://liveanevia.mncnow.id/live/eds/RCTI-Indonesia/sa_dash/RCTI-Indonesia.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="GTV.id" tvg-logo="http://choos.wap.sh/images/gtv.png" , GTV (vision)
+#EXTINF:-1 group-title="" tvg-id="GTV.id" tvg-logo="http://choos.wap.sh/images/gtv.png" , GTV (vision)
 https://liveanevia.mncnow.id/live/eds/GTV-Perjuangan/sa_dash/GTV-Perjuangan.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="MNCTV.id" tvg-logo="http://choos.wap.sh/images/mnctv.png" , MNCTV (vision)
+#EXTINF:-1 group-title="" tvg-id="MNCTV.id" tvg-logo="http://choos.wap.sh/images/mnctv.png" , MNCTV (vision)
 https://liveanevia.mncnow.id/live/eds/MNCTV-Merdeka/sa_dash/MNCTV-Merdeka.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="INews.id" tvg-logo="http://choos.wap.sh/images/inews.png" , I-News (vision)
+#EXTINF:-1 group-title="" tvg-id="INews.id" tvg-logo="http://choos.wap.sh/images/inews.png" , I-News (vision)
 https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_dash/InewsTV-Agustus.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="Trans7.id" tvg-logo="https://www.dropbox.com/s/hgcpgp736in8ax4/trans7.jpg?dl=1", Trans7 (vision)
+#EXTINF:-1 group-title="" tvg-id="Trans7.id" tvg-logo="https://www.dropbox.com/s/hgcpgp736in8ax4/trans7.jpg?dl=1", Trans7 (vision)
 https://liveanevia.mncnow.id/live/eds/TRANS7-transformer/sa_dash/TRANS7-transformer.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="TransTV.id" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", TransTV (vision)
+#EXTINF:-1 group-title="" tvg-id="TransTV.id" tvg-logo="https://www.dropbox.com/s/d5dya0vx2mnsk1u/download.png?dl=1", TransTV (vision)
 https://liveanevia.mncnow.id/live/eds/TRANSTV-autobot/sa_dash/TRANSTV-autobot.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="NET.id" tvg-logo="https://www.dropbox.com/s/mjnocr5v8q98cvi/net-tv.jpg?dl=1", Net TV (vision)
+#EXTINF:-1 group-title="" tvg-id="NET.id" tvg-logo="https://www.dropbox.com/s/mjnocr5v8q98cvi/net-tv.jpg?dl=1", Net TV (vision)
 https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_dash/NetTV-M1.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA" tvg-id="SCTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU", SCTV (vision)
+#EXTINF:-1 group-title="" tvg-id="SCTV.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJEMEnr38t93lBLsJyx8LXbxyO6uhGy3gmQ&usqp=CAU", SCTV (vision)
 https://liveanevia.mncnow.id/live/eds/SCTV-intel/sa_dash/SCTV-intel.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA"  tvg-id="ANTV.id" tvg-logo="https://www.dropbox.com/s/l3oy0j9z7b7st6b/antv.png?dl=1", ANTV (vision)
+#EXTINF:-1 group-title=""  tvg-id="ANTV.id" tvg-logo="https://www.dropbox.com/s/l3oy0j9z7b7st6b/antv.png?dl=1", ANTV (vision)
 https://liveanevia.mncnow.id/live/eds/ANTV-radeon/sa_dash/ANTV-radeon.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA"  tvg-id="TVOne.id" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TV One (vision)
+#EXTINF:-1 group-title=""  tvg-id="TVOne.id" tvg-logo="http://images.useetv.com/logo_tvone_big1.png", TV One (vision)
 https://liveanevia.mncnow.id/live/eds/TVONE-Decepticon/sa_dash/TVONE-Decepticon.mpd
 
-#EXTINF:-1 group-title="LOKAL FTA"  tvg-id="Indosiar.id" tvg-logo="https://www.dropbox.com/s/qefmcuctb7b33xn/INDOSIAR_Logo.png?dl=1", Indosiar (vision)
+#EXTINF:-1 group-title=""  tvg-id="Indosiar.id" tvg-logo="https://www.dropbox.com/s/qefmcuctb7b33xn/INDOSIAR_Logo.png?dl=1", Indosiar (vision)
 https://liveanevia.mncnow.id/live/eds/INDOSIAR-ryzen/sa_dash/INDOSIAR-ryzen.mpd
 
-#EXTINF:-1 tvg-id="metrotv"  tvg-id="MetroTV.MACAN" tvg-logo="https://www.dropbox.com/s/aqfqymhhbc2smtp/metro tv.png?dl=1" group-title="LOKAL FTA", METRO TV (vision)
+#EXTINF:-1 tvg-id="metrotv"  tvg-id="MetroTV.MACAN" tvg-logo="https://www.dropbox.com/s/aqfqymhhbc2smtp/metro tv.png?dl=1" group-title="", METRO TV (vision)
 https://liveanevia.mncnow.id/live/eds/MetroTV-RTX/sa_dash/MetroTV-RTX.mpd
 
-#EXTINF:-1 tvg-id="JTV.MACAN" group-title="LOKAL FTA", JTV
+#EXTINF:-1 tvg-id="JTV.MACAN" group-title="", JTV
 https://liveanevia.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 
-#EXTINF:-1 tvg-id="BaliTV.MACAN" group-title="LOKAL FTA", Bali TV
+#EXTINF:-1 tvg-id="BaliTV.MACAN" group-title="", Bali TV
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="Nasional",RCTI
+#EXTINF:0 tvg-id="ext" group-title="",RCTI
 https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",SCTV
+#EXTINF:0 tvg-id="ext" group-title="",SCTV
 https://visionplus-stream.visionplus.id/live/eds/SCTV-intel/sa_hls/SCTV-intel.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",MNC TV
+#EXTINF:0 tvg-id="ext" group-title="",MNC TV
 https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",antv
+#EXTINF:0 tvg-id="ext" group-title="",antv
 https://visionplus-stream.visionplus.id/live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",Indosiar
+#EXTINF:0 tvg-id="ext" group-title="",Indosiar
 https://visionplus-stream.visionplus.id/live/eds/INDOSIAR-ryzen/sa_hls/INDOSIAR-ryzen.m3u8
-#EXTINF:0 tvg-id="Metro.pl" group-title="Nasional",Metro TV
+#EXTINF:0 tvg-id="Metro.pl" group-title="",Metro TV
 https://visionplus-stream.visionplus.id/live/eds/MetroTV-RTX/sa_hls/MetroTV-RTX.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",Trans 7
+#EXTINF:0 tvg-id="ext" group-title="",Trans 7
 https://visionplus-stream.visionplus.id/live/eds/TRANS7-transformer/sa_hls/TRANS7-transformer.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",Trans TV
+#EXTINF:0 tvg-id="ext" group-title="",Trans TV
 https://visionplus-stream.visionplus.id/live/eds/TRANSTV-autobot/sa_hls/TRANSTV-autobot.m3u8
-#EXTINF:0 tvg-id="gtv.il" group-title="Nasional",GTV
+#EXTINF:0 tvg-id="gtv.il" group-title="",GTV
 https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:0 tvg-id="NetTV.hr" group-title="Nasional",NET.
+#EXTINF:0 tvg-id="NetTV.hr" group-title="",NET.
 https://liveanevia.mncnow.id/live/eds/NetTV-M1/sa_hls/NetTV-M1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",tvOne
+#EXTINF:0 tvg-id="ext" group-title="",tvOne
 https://visionplus-stream.visionplus.id/live/eds/TVONE-Decepticon/sa_hls/TVONE-Decepticon.m3u8
-#EXTINF:0 tvg-id="rtvint" group-title="Nasional",rtv
+#EXTINF:0 tvg-id="rtvint" group-title="",rtv
 https://cdn4.mbahnunungonline.net/m3u8/id/590642f0a31efa3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",Kompas TV
+#EXTINF:0 tvg-id="ext" group-title="",Kompas TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",iNews
+#EXTINF:0 tvg-id="ext" group-title="",iNews
 https://visionplus-stream.visionplus.id/live/eds/InewsTV-Agustus/sa_hls/InewsTV-Agustus.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",CNN Indonesia
+#EXTINF:0 tvg-id="ext" group-title="",CNN Indonesia
 https://dl.dropbox.com/s/oxlj7mwpf13ucok/d12f0b99ed1f070.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Nasional",Berita Satu News
+#EXTINF:0 tvg-id="ext" group-title="",Berita Satu News
 https://dl.dropbox.com/s/echuwg82ufszf2l/270f72deeb5843f.m3u8
