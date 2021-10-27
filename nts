@@ -1,625 +1,625 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Antara TV
+#EXTINF:-1 group-title="NTS Lokal" ,Antara TV
 https://nonton.site:8443/papa123/papa123/32586
-#EXTINF:-1  tvg-id="ANTV.id" group-title="" tvg-logo="https://images.useetv.com/logo_antv_big1.png",ANTV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="ANTV.id" tvg-logo="https://images.useetv.com/logo_antv_big1.png" ,ANTV
 https://nonton.site:8443/papa123/papa123/31
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png",Bali TV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="ANTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" ,Bali TV
 https://nonton.site:8443/papa123/papa123/889
-#EXTINF:-1  tvg-id="AandE.us" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png",DAAI TV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="AandE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" ,DAAI TV
 https://nonton.site:8443/papa123/papa123/21
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png",Dunia Lain
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="AandE.us" tvg-logo="https://www.transvision.co.id/img/channel/dunia_lain.png" ,Dunia Lain
 https://nonton.site:8443/papa123/papa123/910
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png",Hope Channel
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="AandE.us" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b2/Hope_Channel.png/320px-Hope_Channel.png" ,Hope Channel
 https://nonton.site:8443/papa123/papa123/30183
-#EXTINF:-1  tvg-id="Indosiar.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png",Indosiar
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="Indosiar.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" ,Indosiar
 https://nonton.site:8443/papa123/papa123/1845
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png",Jak TV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="Indosiar.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" ,Jak TV
 https://nonton.site:8443/papa123/papa123/1210
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png",JTV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="Indosiar.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" ,JTV
 https://nonton.site:8443/papa123/papa123/135
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png",Life
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="Indosiar.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_91.png" ,Life
 https://nonton.site:8443/papa123/papa123/1772
-#EXTINF:-1  tvg-id="NetTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png",NET TV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="NetTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" ,NET TV
 https://nonton.site:8443/papa123/papa123/24
-#EXTINF:-1  tvg-id="NetTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png",NET TV FHD
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="NetTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" ,NET TV FHD
 https://nonton.site:8443/papa123/papa123/78
-#EXTINF:-1  tvg-id="ABC.au" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png",Rajawali TV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="ABC.au" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" ,Rajawali TV
 https://nonton.site:8443/papa123/papa123/37
-#EXTINF:-1  tvg-id="SCTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png",SCTV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="SCTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" ,SCTV
 https://nonton.site:8443/papa123/papa123/32
-#EXTINF:-1  tvg-id="SCTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png",SCTV HD
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="SCTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" ,SCTV HD
 https://nonton.site:8443/papa123/papa123/931
-#EXTINF:-1  tvg-id="Trans7.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans 7
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="Trans7.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" ,Trans 7
 https://nonton.site:8443/papa123/papa123/35
-#EXTINF:-1  tvg-id="Trans7.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png",Trans 7 FHD
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="Trans7.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" ,Trans 7 FHD
 https://nonton.site:8443/papa123/papa123/930
-#EXTINF:-1  tvg-id="TransTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",Trans TV
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="TransTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" ,Trans TV
 https://nonton.site:8443/papa123/papa123/34
-#EXTINF:-1  tvg-id="TransTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png",Trans TV FHD
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="TransTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" ,Trans TV FHD
 https://nonton.site:8443/papa123/papa123/929
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png",U Channel
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="TransTV.id" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" ,U Channel
 https://nonton.site:8443/papa123/papa123/1208
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Kontes Nyanyi
+#EXTINF:-1 group-title="NTS Lokal" tvg-id="TransTV.id" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" ,Kontes Nyanyi
 https://nonton.site:8443/papa123/papa123/36958
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png",Aljazeera EN
+#EXTINF:-1 group-title="NTS News" tvg-id="TransTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/aljazeera.png" ,Aljazeera EN
 https://nonton.site:8443/papa123/papa123/89
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png",BBC World News HD
+#EXTINF:-1 group-title="NTS News" tvg-id="TransTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" ,BBC World News HD
 https://nonton.site:8443/papa123/papa123/789
-#EXTINF:-1  tvg-id="BeritaSatu.id" group-title="" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png",Berita Satu News
+#EXTINF:-1 group-title="NTS News" tvg-id="BeritaSatu.id" tvg-logo="https://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" ,Berita Satu News
 https://nonton.site:8443/papa123/papa123/136
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png",Bloomberg
+#EXTINF:-1 group-title="NTS News" tvg-id="BeritaSatu.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png" ,Bloomberg
 https://nonton.site:8443/papa123/papa123/788
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png",CGTN News
+#EXTINF:-1 group-title="NTS News" tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/CGTN.png/220px-CGTN.png" ,CGTN News
 https://nonton.site:8443/papa123/papa123/15070
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png",Channel News Asia
+#EXTINF:-1 group-title="NTS News" tvg-id="BeritaSatu.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png" ,Channel News Asia
 https://nonton.site:8443/papa123/papa123/1191
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png",CNBC Indonesia
+#EXTINF:-1 group-title="NTS News" tvg-id="BeritaSatu.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/220px-CNBC_Indonesia.png" ,CNBC Indonesia
 https://nonton.site:8443/papa123/papa123/1512
-#EXTINF:-1  tvg-id="CNNIndonesia.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png",CNN Indonesia
+#EXTINF:-1 group-title="NTS News" tvg-id="CNNIndonesia.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" ,CNN Indonesia
 https://nonton.site:8443/papa123/papa123/44
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png",CNN Int
+#EXTINF:-1 group-title="NTS News" tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" ,CNN Int
 https://nonton.site:8443/papa123/papa123/1200
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png",DW TV Asia
+#EXTINF:-1 group-title="NTS News" tvg-id="CNNIndonesia.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" ,DW TV Asia
 https://nonton.site:8443/papa123/papa123/205
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png",France 24
+#EXTINF:-1 group-title="NTS News" tvg-id="CNNIndonesia.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" ,France 24
 https://nonton.site:8443/papa123/papa123/787
-#EXTINF:-1  tvg-id="KompasTv.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png",Kompas TV
+#EXTINF:-1 group-title="NTS News" tvg-id="KompasTv.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" ,Kompas TV
 https://nonton.site:8443/papa123/papa123/30
-#EXTINF:-1  tvg-id="MetroTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png",Metro TV
+#EXTINF:-1 group-title="NTS News" tvg-id="MetroTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" ,Metro TV
 https://nonton.site:8443/papa123/papa123/52
-#EXTINF:-1  tvg-id="MetroTV.id" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png",Metro TV HD
+#EXTINF:-1 group-title="NTS News" tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" ,Metro TV HD
 https://nonton.site:8443/papa123/papa123/1697
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png",Russia Today
+#EXTINF:-1 group-title="NTS News" tvg-id="MetroTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" ,Russia Today
 https://nonton.site:8443/papa123/papa123/36765
-#EXTINF:-1  tvg-id="TVOne.id" group-title="" tvg-logo="https://images.useetv.com/logo_tvone_big1.png",TV ONE
+#EXTINF:-1 group-title="NTS News" tvg-id="TVOne.id" tvg-logo="https://images.useetv.com/logo_tvone_big1.png" ,TV ONE
 https://nonton.site:8443/papa123/papa123/29
-#EXTINF:-1  tvg-id="TVRI.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png",TVRI
+#EXTINF:-1 group-title="NTS News" tvg-id="TVRI.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" ,TVRI
 https://nonton.site:8443/papa123/papa123/36
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png",ATV
+#EXTINF:-1 group-title="NTS Movie" tvg-id="TVRI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Azad_Azerbaycan_TV_logosu.png/220px-Azad_Azerbaycan_TV_logosu.png" ,ATV
 https://nonton.site:8443/papa123/papa123/29899
-#EXTINF:-1  tvg-id="AXN.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png",AXN
+#EXTINF:-1 group-title="NTS Movie" tvg-id="AXN.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" ,AXN
 https://nonton.site:8443/papa123/papa123/9
-#EXTINF:-1  tvg-id="BioskopIndonesia.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png",Bioskop Indonesia
+#EXTINF:-1 group-title="NTS Movie" tvg-id="BioskopIndonesia.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" ,Bioskop Indonesia
 https://nonton.site:8443/papa123/papa123/908
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png",Blue Ant Extreme HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="BioskopIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" ,Blue Ant Extreme HD
 https://nonton.site:8443/papa123/papa123/811
-#EXTINF:-1  tvg-id="CelestialMovies.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png",Celestial Movies
+#EXTINF:-1 group-title="NTS Movie" tvg-id="CelestialMovies.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" ,Celestial Movies
 https://nonton.site:8443/papa123/papa123/5
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png",Cinemax FHD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="CelestialMovies.id" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" ,Cinemax FHD
 https://nonton.site:8443/papa123/papa123/30185
-#EXTINF:-1  tvg-id="CineMax.id" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png",Cinemax ID
+#EXTINF:-1 group-title="NTS Movie" tvg-id="CineMax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,Cinemax ID
 https://nonton.site:8443/papa123/papa123/2156
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png",FLIK HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="CineMax.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" ,FLIK HD
 https://nonton.site:8443/papa123/papa123/29592
-#EXTINF:-1  tvg-id="FOXActionMovies.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png",Hits Movies
+#EXTINF:-1 group-title="NTS Movie" tvg-id="FOXActionMovies.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" ,Hits Movies
 https://nonton.site:8443/papa123/papa123/1478
-#EXTINF:-1  tvg-id="FOXActionMovies.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png",Hits Movies HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="FOXActionMovies.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" ,Hits Movies HD
 https://nonton.site:8443/papa123/papa123/99
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png",My Family Channel
+#EXTINF:-1 group-title="NTS Movie" tvg-id="FOXActionMovies.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" ,My Family Channel
 https://nonton.site:8443/papa123/papa123/14994
-#EXTINF:-1  tvg-id="FOX.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png",FOX HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="FOX.id" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" ,FOX HD
 https://nonton.site:8443/papa123/papa123/95
-#EXTINF:-1  tvg-id="FoxLife.id" group-title="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png",Discovery
+#EXTINF:-1 group-title="NTS Movie" tvg-id="FoxLife.id" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" ,HITS
 https://nonton.site:8443/papa123/papa123/94
-#EXTINF:-1  tvg-id="BabyTV.uk" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png",Paramount Network
+#EXTINF:-1 group-title="NTS Movie" tvg-id="BabyTV.uk" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" ,Paramount Network
 https://nonton.site:8443/papa123/papa123/98
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png",Galaxy Premium SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="BabyTV.uk" tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" ,Galaxy Premium SD
 https://nonton.site:8443/papa123/papa123/29603
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png",Galaxy SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="BabyTV.uk" tvg-logo="https://2.bp.blogspot.com/-1zfZ3rEhu5s/V9OB0jOkU7I/AAAAAAAAfUQ/A9F_Fl1q51k_ONOLTVDyIT8sU3WS2nxhACLcB/s1600/galaxy-channel-tv-logo.png" ,Galaxy SD
 https://nonton.site:8443/papa123/papa123/29604
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family FHD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="BabyTV.uk" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" ,HBO Family FHD
 https://nonton.site:8443/papa123/papa123/30184
-#EXTINF:-1  tvg-id="HBOFamily.id" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO Family HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOFamily.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" ,HBO Family HD
 https://nonton.site:8443/papa123/papa123/592
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Family SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOFamily.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" ,HBO Family SD
 https://nonton.site:8443/papa123/papa123/26598
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",HBO FHD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOFamily.id" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" ,HBO FHD
 https://nonton.site:8443/papa123/papa123/1496
-#EXTINF:-1  tvg-id="HBO.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBO.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" ,HBO HD
 https://nonton.site:8443/papa123/papa123/210
-#EXTINF:-1  tvg-id="HBOHits.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png",HBO Hits FHD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOHits.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" ,HBO Hits FHD
 https://nonton.site:8443/papa123/papa123/11492
-#EXTINF:-1  tvg-id="HBOHits.id" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOHits.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO Hits HD
 https://nonton.site:8443/papa123/papa123/591
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png",HBO Hits SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOHits.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" ,HBO Hits SD
 https://nonton.site:8443/papa123/papa123/26596
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOHits.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" ,HBO SD
 https://nonton.site:8443/papa123/papa123/26595
-#EXTINF:-1  tvg-id="HBOSignature.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature FHD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOSignature.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" ,HBO Signature FHD
 https://nonton.site:8443/papa123/papa123/1498
-#EXTINF:-1  tvg-id="HBOSignature.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOSignature.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" ,HBO Signature HD
 https://nonton.site:8443/papa123/papa123/873
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HBOSignature.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" ,HBO Signature SD
 https://nonton.site:8443/papa123/papa123/26597
-#EXTINF:-1  tvg-id="HITS.id" group-title="" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png",HITS HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HITS.id" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png" ,HITS HD
 https://nonton.site:8443/papa123/papa123/1195
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png",Hits Movie SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HITS.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" ,Hits Movie SD
 https://nonton.site:8443/papa123/papa123/957
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",IMC SD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HITS.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" ,IMC SD
 https://nonton.site:8443/papa123/papa123/35484
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",& Picture
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HITS.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" ,IN: & Picture
 https://nonton.site:8443/papa123/papa123/31875
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",&TV HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="HITS.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_169.png" ,IN: &TV HD
 https://nonton.site:8443/papa123/papa123/31876
-#EXTINF:-1  tvg-id="KIX.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png",KIX HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="KIX.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" ,KIX HD
 https://nonton.site:8443/papa123/papa123/8
-#EXTINF:-1  tvg-id="Lifetime.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png",LifeTime HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="Lifetime.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" ,LifeTime HD
 https://nonton.site:8443/papa123/papa123/866
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png",Star Chinese Movies HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="Lifetime.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" ,Star Chinese Movies HD
 https://nonton.site:8443/papa123/papa123/780
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png",Star Chinese Movies Legend
+#EXTINF:-1 group-title="NTS Movie" tvg-id="Lifetime.id" tvg-logo="https://www.infotelevisi.com/asset/images/tv/star_chinese_movies_legend.png" ,Star Chinese Movies Legend
 https://nonton.site:8443/papa123/papa123/1859
-#EXTINF:-1  tvg-id="StarWorld.in" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png",Star World
+#EXTINF:-1 group-title="NTS Movie" tvg-id="StarWorld.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Star_World_2016_logo.png/200px-Star_World_2016_logo.png" ,Star World
 https://nonton.site:8443/papa123/papa123/381
-#EXTINF:-1  tvg-id="Thrill.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png",Thrill
+#EXTINF:-1 group-title="NTS Movie" tvg-id="Thrill.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" ,Thrill
 https://nonton.site:8443/papa123/papa123/4
-#EXTINF:-1  tvg-id="WarnerTV.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png",Warner TV ID HD
+#EXTINF:-1 group-title="NTS Movie" tvg-id="WarnerTV.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" ,Warner TV ID HD
 https://nonton.site:8443/papa123/papa123/1533
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png",Animal Planet HD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="AnimalPlanet.id" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" ,Animal Planet HD
 https://nonton.site:8443/papa123/papa123/358
-#EXTINF:-1  tvg-id="CrimeInvestigation.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png",Crime Investigation
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="CrimeInvestigation.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" ,Crime Investigation
 https://nonton.site:8443/papa123/papa123/332
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Da Vinci Learning
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="CrimeInvestigation.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" ,Da Vinci Learning
 https://nonton.site:8443/papa123/papa123/36729
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png",Discovery Asia
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="CrimeInvestigation.id" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" ,Discovery Asia
 https://nonton.site:8443/papa123/papa123/779
-#EXTINF:-1  tvg-id="DiscoveryAsia.my" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png",Discovery Channel HD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="DiscoveryAsia.my" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" ,Discovery Channel HD
 https://nonton.site:8443/papa123/papa123/165
-#EXTINF:-1  tvg-id="DiscoveryShed.uk" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png",Discovery Shed
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="DiscoveryShed.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Discovery_Shed.png/150px-Discovery_Shed.png" ,Discovery Shed
 https://nonton.site:8443/papa123/papa123/333
-#EXTINF:-1  tvg-id="DiscoveryTurbo.uk" group-title="" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png",Discovery Turbo
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="DiscoveryTurbo.uk" tvg-logo="https://raw.githubusercontent.com/abrahamcarvalhoo/playtv/master/logos/discovery_turbo.png" ,Discovery Turbo
 https://nonton.site:8443/papa123/papa123/462
-#EXTINF:-1  tvg-id="ABC.au" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History FHD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="ABC.au" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" ,History FHD
 https://nonton.site:8443/papa123/papa123/8131
-#EXTINF:-1  tvg-id="ABC.au" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png",History HD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="ABC.au" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" ,History HD
 https://nonton.site:8443/papa123/papa123/718
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png",Lingua Channel
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="ABC.au" tvg-logo="https://www.klikwarta.com/sites/default/files/inline-images/image003.png" ,Lingua Channel
 https://nonton.site:8443/papa123/papa123/14944
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png",Love Nature 4K
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="ABC.au" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" ,Love Nature 4K
 https://nonton.site:8443/papa123/papa123/36767
-#EXTINF:-1  tvg-id="nationalgeographicchannelhd.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png",Nat Geo HD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="nationalgeographicchannelhd.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" ,Nat Geo HD
 https://nonton.site:8443/papa123/papa123/96
-#EXTINF:-1  tvg-id="NatGeoPeople.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png",Nat Geo People HD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="NatGeoPeople.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" ,Nat Geo People HD
 https://nonton.site:8443/papa123/papa123/455
-#EXTINF:-1  tvg-id="NatGeoWild.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png",Nat Geo Wild HD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="NatGeoWild.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" ,Nat Geo Wild HD
 https://nonton.site:8443/papa123/papa123/97
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Ruang Terampil
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="NatGeoWild.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" ,Ruang Terampil
 https://nonton.site:8443/papa123/papa123/36731
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png",Smithsonian Channel
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="NatGeoWild.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" ,Smithsonian Channel
 https://nonton.site:8443/papa123/papa123/35998
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TV Edukasi
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="NatGeoWild.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" ,TV Edukasi
 https://nonton.site:8443/papa123/papa123/36732
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Discovery Science HD
+#EXTINF:-1 group-title="NTS Knowledge" tvg-id="NatGeoWild.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Smithsonian_Channel.png/220px-Smithsonian_Channel.png" ,Discovery Science HD
 https://nonton.site:8443/papa123/papa123/37392
-#EXTINF:-1  tvg-id="Animax.id" group-title="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png",Animax
+#EXTINF:-1 group-title="NTS Kids" tvg-id="Animax.id" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" ,Animax
 https://nonton.site:8443/papa123/papa123/3
-#EXTINF:-1  tvg-id="ANIPlus.id" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
+#EXTINF:-1 group-title="NTS Kids" tvg-id="ANIPlus.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" ,Aniplus
 https://nonton.site:8443/papa123/papa123/2
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png",Baby First
+#EXTINF:-1 group-title="NTS Kids" tvg-id="ANIPlus.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" ,Baby First
 https://nonton.site:8443/papa123/papa123/1204
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png",Boomerang ID
+#EXTINF:-1 group-title="NTS Kids" tvg-id="ANIPlus.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" ,Boomerang ID
 https://nonton.site:8443/papa123/papa123/305
-#EXTINF:-1  tvg-id="cartoonnetwork.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network ID HD
+#EXTINF:-1 group-title="NTS Kids" tvg-id="cartoonnetwork.id" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" ,Cartoon Network ID HD
 https://nonton.site:8443/papa123/papa123/680
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png",CBeebies
+#EXTINF:-1 group-title="NTS Kids" tvg-id="cartoonnetwork.id" tvg-logo="https://static.filmon.com/assets/channels/3191/extra_big_logo.png" ,CBeebies
 https://nonton.site:8443/papa123/papa123/491
-#EXTINF:-1  tvg-id="DisneyChannel.id" group-title="" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png",Indi Kids
+#EXTINF:-1 group-title="NTS Kids" tvg-id="DisneyChannel.id" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" ,Indi Kids
 https://nonton.site:8443/papa123/papa123/3479
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png",My Kidz
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" ,My Kidz
 https://nonton.site:8443/papa123/papa123/213
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png",Disney UK
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/320px-Disney%2B_logo.svg.png" ,Disney UK
 https://nonton.site:8443/papa123/papa123/2336
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png",Disney XD
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" ,Disney XD
 https://nonton.site:8443/papa123/papa123/104
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Dream Works HD
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/320px-Disney_XD_-_2015.svg.png" ,Dream Works HD
 https://nonton.site:8443/papa123/papa123/32529
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png",Duck TV
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" ,Duck TV
 https://nonton.site:8443/papa123/papa123/1854
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png",Dunia Anak
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" ,Dunia Anak
 https://nonton.site:8443/papa123/papa123/907
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png",Horee
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" ,Horee
 https://nonton.site:8443/papa123/papa123/14106
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",My Kidz
+#EXTINF:-1 group-title="NTS Kids" tvg-id="AnimalPlanet.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" ,My Kidz
 https://nonton.site:8443/papa123/papa123/1483
-#EXTINF:-1  tvg-id="NickJrToo.uk" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png",Nick Jr 2
+#EXTINF:-1 group-title="NTS Kids" tvg-id="NickJrToo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" ,Nick Jr 2
 https://nonton.site:8443/papa123/papa123/341
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png",Nick Jr ID
+#EXTINF:-1 group-title="NTS Kids" tvg-id="NickJrToo.uk" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" ,Nick Jr ID
 https://nonton.site:8443/papa123/papa123/522
-#EXTINF:-1  tvg-id="Nicktoons.uk" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png",Nick Toons
+#EXTINF:-1 group-title="NTS Kids" tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/320px-Nicktoons_Network_logo_2009.svg.png" ,Nick Toons
 https://nonton.site:8443/papa123/papa123/335
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon ID
+#EXTINF:-1 group-title="NTS Kids" tvg-id="Nicktoons.uk" tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" ,Nickelodeon ID
 https://nonton.site:8443/papa123/papa123/962
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png",Toonmax
+#EXTINF:-1 group-title="NTS Kids" tvg-id="Nicktoons.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" ,Toonmax
 https://nonton.site:8443/papa123/papa123/1116
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",XingXong
+#EXTINF:-1 group-title="NTS Kids" tvg-id="Nicktoons.uk" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" ,XingXong
 https://nonton.site:8443/papa123/papa123/36764
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png",Zoo Moo HD
+#EXTINF:-1 group-title="NTS Kids" tvg-id="Nicktoons.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/286px-ZooMoo_logo.svg.png" ,Zoo Moo HD
 https://nonton.site:8443/papa123/papa123/14104
-#EXTINF:-1  tvg-id="beINSports1.id" group-title="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg",BeIN Sport 1 ID
+#EXTINF:-1 group-title="NTS Sports" tvg-id="beINSports1.id" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" ,BeIN Sport 1 ID
 https://nonton.site:8443/papa123/papa123/728
-#EXTINF:-1  tvg-id="beINSports2.id" group-title="" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg",BeIN Sport 2 ID
+#EXTINF:-1 group-title="NTS Sports" tvg-id="beINSports2.id" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" ,BeIN Sport 2 ID
 https://nonton.site:8443/papa123/papa123/729
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="http://www.media15.tv/wp-content/uploads/2015/07/square-box-nation.jpg",Box Nation
+#EXTINF:-1 group-title="NTS Sports" tvg-id="AnimalPlanet.id" tvg-logo="https://www.media15.tv/wp-content/uploads/2015/07/square-box-nation.jpg" ,Box Nation
 https://nonton.site:8443/papa123/papa123/499
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd",FIGHT BOX
+#EXTINF:-1 group-title="NTS Sports" tvg-id="AnimalPlanet.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" ,FIGHT BOX
 https://nonton.site:8443/papa123/papa123/501
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png",Fight Sports
+#EXTINF:-1 group-title="NTS Sports" tvg-id="AnimalPlanet.id" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" ,Fight Sports
 https://nonton.site:8443/papa123/papa123/784
-#EXTINF:-1  tvg-id="ABC.au" group-title="" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png",Fox Sports 1 HD
+#EXTINF:-1 group-title="NTS Sports" tvg-id="ABC.au" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" ,Fox Sports 1 HD
 https://nonton.site:8443/papa123/papa123/51
-#EXTINF:-1  tvg-id="ABC.au" group-title="" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png",Fox Sports 2 HD
+#EXTINF:-1 group-title="NTS Sports" tvg-id="ABC.au" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" ,Fox Sports 2 HD
 https://nonton.site:8443/papa123/papa123/102
-#EXTINF:-1  tvg-id="FOXSports3.my" group-title="" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png",Fox Sports 3 HD
+#EXTINF:-1 group-title="NTS Sports" tvg-id="FOXSports3.my" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" ,Fox Sports 3 HD
 https://nonton.site:8443/papa123/papa123/101
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png",Golf Channel FHD
+#EXTINF:-1 group-title="NTS Sports" tvg-id="FOXSports3.my" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" ,Golf Channel FHD
 https://nonton.site:8443/papa123/papa123/561
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png",NBA TV HD
+#EXTINF:-1 group-title="NTS Sports" tvg-id="FOXSports3.my" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" ,NBA TV HD
 https://nonton.site:8443/papa123/papa123/3099
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w",NBA TV HD US
+#EXTINF:-1 group-title="NTS Sports" tvg-id="FOXSports3.my" tvg-logo="https://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" ,NBA TV HD US
 https://nonton.site:8443/papa123/papa123/243
-#EXTINF:-1  tvg-id="US: AE" group-title="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png",WWE Network
+#EXTINF:-1 group-title="NTS Sports" tvg-id="US: AE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" ,WWE Network
 https://nonton.site:8443/papa123/papa123/299
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",.idku
+#EXTINF:-1 group-title="NTS Variety" tvg-id="US: AE" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" ,.idku
 https://nonton.site:8443/papa123/papa123/36730
-#EXTINF:-1  tvg-id="AsianFoodNetwork.my" group-title="" tvg-logo="N/A",AFN HD
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51EVQDiJh1L.png" ,AFN HD
 https://nonton.site:8443/papa123/papa123/807
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png",BBC Lifestyle HD
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://www.bbcasia.com/brand/assets/images/channel-assets/bbc-lifestyle/about-logo-bbc-lifestyle.png" ,BBC Lifestyle HD
 https://nonton.site:8443/papa123/papa123/36766
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png",Blue Ant Entertainment HD
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" ,Blue Ant Entertainment HD
 https://nonton.site:8443/papa123/papa123/1506
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Citra Drama
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" ,Citra Drama
 https://nonton.site:8443/papa123/papa123/905
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx",DMAX
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" ,DMAX
 https://nonton.site:8443/papa123/papa123/483
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Eat & Go
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" ,Eat & Go
 https://nonton.site:8443/papa123/papa123/26979
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Every Good Game
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk6inbOH58fazeEgCQdAtua7ejGdoLdJWbPO_hHLNuO2qYZ4sx" ,Every Good Game
 https://nonton.site:8443/papa123/papa123/921
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif",Fashion TV
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://www.licenseindia.com/wp-content/uploads/2015/05/fashion-tv.gif" ,Fashion TV
 https://nonton.site:8443/papa123/papa123/280
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="http://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png",HGTV
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://www.orcacommunications.com/wp-content/uploads/2018/01/hgtv.png" ,HGTV
 https://nonton.site:8443/papa123/papa123/537
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.transvision.co.id/img/channel/insert.png",Insert
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" ,Insert
 https://nonton.site:8443/papa123/papa123/1763
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",NHK World Japan
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" ,NHK World Japan
 https://nonton.site:8443/papa123/papa123/785
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.imgur.com/VuFFsjk.png",TLC English
+#EXTINF:-1 group-title="NTS Variety" tvg-id="AsianFoodNetwork.my" tvg-logo="https://i.imgur.com/VuFFsjk.png" ,TLC English
 https://nonton.site:8443/papa123/papa123/351
-#EXTINF:-1  tvg-id="ABC.au" group-title="" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg",TLC HD
+#EXTINF:-1 group-title="NTS Variety" tvg-id="ABC.au" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" ,TLC HD
 https://nonton.site:8443/papa123/papa123/352
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TV 5 Monde Asie
+#EXTINF:-1 group-title="NTS Variety" tvg-id="ABC.au" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/tlc-hd-world-large.jpg" ,TV 5 Monde Asie
 https://nonton.site:8443/papa123/papa123/786
-#EXTINF:-1  tvg-id="WakuWakuJapan.id" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png",Waku Waku Japan HD
+#EXTINF:-1 group-title="NTS Variety" tvg-id="WakuWakuJapan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" ,Waku Waku Japan HD
 https://nonton.site:8443/papa123/papa123/717
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",K Drama
+#EXTINF:-1 group-title="NTS Korea TV" tvg-id="WakuWakuJapan.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" ,K Drama
 https://nonton.site:8443/papa123/papa123/35769
-#EXTINF:-1  tvg-id="Kplus.id" group-title="" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0",K Plus
+#EXTINF:-1 group-title="NTS Korea TV" tvg-id="Kplus.id" tvg-logo="https://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" ,K Plus
 https://nonton.site:8443/papa123/papa123/18
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",KBS World HD
+#EXTINF:-1 group-title="NTS Korea TV" tvg-id="Kplus.id" tvg-logo="https://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" ,KBS World HD
 https://nonton.site:8443/papa123/papa123/15057
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s",S GEM HD
+#EXTINF:-1 group-title="NTS Korea TV" tvg-id="AnimalPlanet.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpM4ePgskZ0MwYEYal1_C-4H9NYHSwFl5ZHbhvWuoTzdDKYM0s" ,S GEM HD
 https://nonton.site:8443/papa123/papa123/770
-#EXTINF:-1  tvg-id="SonyOne.id" group-title="" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0",Sony ONE
+#EXTINF:-1 group-title="NTS Korea TV" tvg-id="SonyOne.id" tvg-logo="https://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" ,Sony ONE
 https://nonton.site:8443/papa123/papa123/19
-#EXTINF:-1  tvg-id="ABC.au" group-title="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png",TVN ID
+#EXTINF:-1 group-title="NTS Korea TV" tvg-id="ABC.au" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/395_300.png" ,TVN ID
 https://nonton.site:8443/papa123/papa123/767
-#EXTINF:-1  tvg-id="TVNMovies.id" group-title="" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg",tVN Movies HD
+#EXTINF:-1 group-title="NTS Korea TV" tvg-id="TVNMovies.id" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" ,tVN Movies HD
 https://nonton.site:8443/papa123/papa123/927
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="N/A",Channel V HD
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" ,Channel V HD
 https://nonton.site:8443/papa123/papa123/766
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Citra Dangdut
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" ,Citra Dangdut
 https://nonton.site:8443/papa123/papa123/2207
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",i konser
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" ,i konser
 https://nonton.site:8443/papa123/papa123/29594
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png",MTV LIVE HD
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" ,MTV LIVE HD
 https://nonton.site:8443/papa123/papa123/9110
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png",MTV Music
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://2.bp.blogspot.com/-bqsxJ-eLvss/VxU5ap-tOwI/AAAAAAAABcM/hlkUmYXTa-4Y3IA_-fx0uuGHIwJrs0ekQCLcB/s1600/U35f_aGI.png" ,MTV Music
 https://nonton.site:8443/papa123/papa123/286
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="http://online-red.tv/uploads/posts/2018-06/1529241449_nrj-hits-tv-1.png",NRJ Hits TV
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://online-red.tv/uploads/posts/2018-06/1529241449_nrj-hits-tv-1.png" ,NRJ Hits TV
 https://nonton.site:8443/papa123/papa123/29836
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Oneafricasmall.png",ONE African TV
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Oneafricasmall.png" ,ONE African TV
 https://nonton.site:8443/papa123/papa123/1731
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Prambors TV
+#EXTINF:-1 group-title="NTS Music" tvg-id="AnimalPlanet.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Oneafricasmall.png" ,Prambors TV
 https://nonton.site:8443/papa123/papa123/1157
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.tvislamonline.com/images/logo/ahsan.png",Ahsan TV
+#EXTINF:-1 group-title="NTS Religi" tvg-id="AnimalPlanet.id" tvg-logo="https://www.tvislamonline.com/images/logo/ahsan.png" ,Ahsan TV
 https://nonton.site:8443/papa123/papa123/26630
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="http://live.artvisi.or.id/logo/alimantv.png",Al-Iman TV
+#EXTINF:-1 group-title="NTS Religi" tvg-id="AnimalPlanet.id" tvg-logo="https://live.artvisi.or.id/logo/alimantv.png" ,Al-Iman TV
 https://nonton.site:8443/papa123/papa123/26631
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Madina TV
+#EXTINF:-1 group-title="NTS Religi" tvg-id="AnimalPlanet.id" tvg-logo="https://live.artvisi.or.id/logo/alimantv.png" ,Madina TV
 https://nonton.site:8443/papa123/papa123/912
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://lh3.googleusercontent.com/Z7OKkgpN2zx_3bGJU7_soaVAJhtJXYE26UVhb9yomFLPjfhVIZ7K0L-6b1f7kcGH5KI-=h355",Makkah TV
+#EXTINF:-1 group-title="NTS Religi" tvg-id="AnimalPlanet.id" tvg-logo="https://lh3.googleusercontent.com/Z7OKkgpN2zx_3bGJU7_soaVAJhtJXYE26UVhb9yomFLPjfhVIZ7K0L-6b1f7kcGH5KI-=h355" ,Makkah TV
 https://nonton.site:8443/papa123/papa123/297
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://reformed21.tv/images/logo.png",Reformed 21
+#EXTINF:-1 group-title="NTS Religi" tvg-id="AnimalPlanet.id" tvg-logo="https://reformed21.tv/images/logo.png" ,Reformed 21
 https://nonton.site:8443/papa123/papa123/26632
-#EXTINF:-1  tvg-id="AnimalPlanet.id" group-title="" tvg-logo="N/A",Rodja TV
+#EXTINF:-1 group-title="NTS Religi" tvg-id="AnimalPlanet.id" tvg-logo="https://reformed21.tv/images/logo.png" ,Rodja TV
 https://nonton.site:8443/papa123/papa123/843
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg",TV Mu
+#EXTINF:-1 group-title="NTS Religi" tvg-id="AnimalPlanet.id" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg" ,TV Mu
 https://nonton.site:8443/papa123/papa123/1726
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AR: Nile Culture
+#EXTINF:-1 group-title="NTS Arab" tvg-id="AnimalPlanet.id" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg" ,AR: Nile Culture
 https://nonton.site:8443/papa123/papa123/2582
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",& Picture HD
+#EXTINF:-1 group-title="NTS India" tvg-id="AnimalPlanet.id" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg" ,IN: & Picture HD
 https://nonton.site:8443/papa123/papa123/2553
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",B4U Movies
+#EXTINF:-1 group-title="NTS India" tvg-id="AnimalPlanet.id" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg" ,IN: B4U Movies
 https://nonton.site:8443/papa123/papa123/2557
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Colors HD
+#EXTINF:-1 group-title="NTS India" tvg-id="AnimalPlanet.id" tvg-logo="https://i.ibb.co/4ZRL8HW/tvmu.jpg" ,IN: Colors HD
 https://nonton.site:8443/papa123/papa123/2548
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251",Sony Max HD
+#EXTINF:-1 group-title="NTS India" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,IN: Sony Max HD
 https://nonton.site:8443/papa123/papa123/180
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",SUN Music
+#EXTINF:-1 group-title="NTS India" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,IN: SUN Music
 https://nonton.site:8443/papa123/papa123/2555
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Zing TV
+#EXTINF:-1 group-title="NTS India" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,IN: Zing TV
 https://nonton.site:8443/papa123/papa123/813
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO RIA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO RIA HD
 https://nonton.site:8443/papa123/papa123/37332
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO PRIMA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO PRIMA HD
 https://nonton.site:8443/papa123/papa123/37333
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO OASIS HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO OASIS HD
 https://nonton.site:8443/papa123/papa123/37334
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO WARNA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO WARNA HD
 https://nonton.site:8443/papa123/papa123/37335
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO NAURA
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO NAURA
 https://nonton.site:8443/papa123/papa123/37336
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TV ALHIJRAH
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TV ALHIJRAH
 https://nonton.site:8443/papa123/papa123/37337
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",GO SHOP RUUMA
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - GO SHOP RUUMA
 https://nonton.site:8443/papa123/papa123/37338
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",GO SHOP GAAYA
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - GO SHOP GAAYA
 https://nonton.site:8443/papa123/papa123/37339
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",SUN MUSIC
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - SUN MUSIC
 https://nonton.site:8443/papa123/papa123/37340
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CHUTTI TV
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CHUTTI TV
 https://nonton.site:8443/papa123/papa123/37341
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ADITHYA
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ADITHYA
 https://nonton.site:8443/papa123/papa123/37342
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ZEE Tamil HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ZEE Tamil HD
 https://nonton.site:8443/papa123/papa123/37343
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",VINMEEN HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - VINMEEN HD
 https://nonton.site:8443/papa123/papa123/37344
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",STAR VIJAY HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - STAR VIJAY HD
 https://nonton.site:8443/papa123/papa123/37345
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",COLORS TAMIL
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - COLORS TAMIL
 https://nonton.site:8443/papa123/papa123/37346
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",SUN TV HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - SUN TV HD
 https://nonton.site:8443/papa123/papa123/37347
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",BOLLYONE HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - BOLLYONE HD
 https://nonton.site:8443/papa123/papa123/37348
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",iQIYI HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - iQIYI HD
 https://nonton.site:8443/papa123/papa123/37349
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",GO SHOP 2
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - GO SHOP 2
 https://nonton.site:8443/papa123/papa123/37350
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",XIAO TAI YANG HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - XIAO TAI YANG HD
 https://nonton.site:8443/papa123/papa123/37351
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AEC HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AEC HD
 https://nonton.site:8443/papa123/papa123/37352
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",SHUANG XING HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - SHUANG XING HD
 https://nonton.site:8443/papa123/papa123/37353
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",QUAN JIA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - QUAN JIA HD
 https://nonton.site:8443/papa123/papa123/37354
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CELESTIAL HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CELESTIAL HD
 https://nonton.site:8443/papa123/papa123/37355
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TVB JADE
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TVB JADE
 https://nonton.site:8443/papa123/papa123/37356
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AOD 351 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AOD 351 HD
 https://nonton.site:8443/papa123/papa123/37357
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CTI ASIA
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CTI ASIA
 https://nonton.site:8443/papa123/papa123/37358
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TVB E-NEWS
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TVB E-NEWS
 https://nonton.site:8443/papa123/papa123/37359
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TVB XING HE HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TVB XING HE HD
 https://nonton.site:8443/papa123/papa123/37360
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TVBS ASIA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TVBS ASIA HD
 https://nonton.site:8443/papa123/papa123/37361
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CCM
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CCM
 https://nonton.site:8443/papa123/papa123/37362
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",HUA HEE DAI HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - HUA HEE DAI HD
 https://nonton.site:8443/papa123/papa123/37363
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CCTV4 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CCTV4 HD
 https://nonton.site:8443/papa123/papa123/37364
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AOD 352 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AOD 352 HD
 https://nonton.site:8443/papa123/papa123/37365
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AOD 353 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AOD 353 HD
 https://nonton.site:8443/papa123/papa123/37366
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AOD 354 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AOD 354 HD
 https://nonton.site:8443/papa123/papa123/37367
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AOD 355 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AOD 355 HD
 https://nonton.site:8443/papa123/papa123/37368
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",KBS World HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - KBS World HD
 https://nonton.site:8443/papa123/papa123/37369
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ONE HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ONE HD
 https://nonton.site:8443/papa123/papa123/37370
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Oh!K HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Oh!K HD
 https://nonton.site:8443/papa123/papa123/37371
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",tvN HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - tvN HD
 https://nonton.site:8443/papa123/papa123/37372
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",HITS MOVIES HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - HITS MOVIES HD
 https://nonton.site:8443/papa123/papa123/37373
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",HBO HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - HBO HD
 https://nonton.site:8443/papa123/papa123/37374
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CINEMAX HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CINEMAX HD
 https://nonton.site:8443/papa123/papa123/37375
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",tvN Movies
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - tvN Movies
 https://nonton.site:8443/papa123/papa123/37376
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO AWANI
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO AWANI
 https://nonton.site:8443/papa123/papa123/37377
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",BNC
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - BNC
 https://nonton.site:8443/papa123/papa123/37378
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CGTN
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CGTN
 https://nonton.site:8443/papa123/papa123/37379
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CNN HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CNN HD
 https://nonton.site:8443/papa123/papa123/37380
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",BBC News HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - BBC News HD
 https://nonton.site:8443/papa123/papa123/37381
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AL JAZEERA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AL JAZEERA HD
 https://nonton.site:8443/papa123/papa123/37382
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",SKY NEWS HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - SKY NEWS HD
 https://nonton.site:8443/papa123/papa123/37383
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CNA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CNA HD
 https://nonton.site:8443/papa123/papa123/37384
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CNBC
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CNBC
 https://nonton.site:8443/papa123/papa123/37385
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",BLOOMBERG TV
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - BLOOMBERG TV
 https://nonton.site:8443/papa123/papa123/37386
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ABC AUSTRALIA
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ABC AUSTRALIA
 https://nonton.site:8443/papa123/papa123/37387
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",NGW HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - NGW HD
 https://nonton.site:8443/papa123/papa123/37388
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",NAT GEO HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - NAT GEO HD
 https://nonton.site:8443/papa123/papa123/37389
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",DISCOVERY HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - DISCOVERY HD
 https://nonton.site:8443/papa123/papa123/37390
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",DISCOVERY ASIA
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - DISCOVERY ASIA
 https://nonton.site:8443/papa123/papa123/37391
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",HISTORY HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - HISTORY HD
 https://nonton.site:8443/papa123/papa123/37393
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ANIMAL PLANET HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ANIMAL PLANET HD
 https://nonton.site:8443/papa123/papa123/37394
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TUTOR TV UPSR
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TUTOR TV UPSR
 https://nonton.site:8443/papa123/papa123/37395
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TUTOR TV PT3
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TUTOR TV PT3
 https://nonton.site:8443/papa123/papa123/37396
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TUTOR TV SPM
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TUTOR TV SPM
 https://nonton.site:8443/papa123/papa123/37397
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TVIQ
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TVIQ
 https://nonton.site:8443/papa123/papa123/37398
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO CERIA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO CERIA HD
 https://nonton.site:8443/papa123/papa123/37399
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",DISNEY XD HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - DISNEY XD HD
 https://nonton.site:8443/papa123/papa123/37400
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",DISNEY JUNIOR
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - DISNEY JUNIOR
 https://nonton.site:8443/papa123/papa123/37401
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",DISNEY CHANNEL HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - DISNEY CHANNEL HD
 https://nonton.site:8443/papa123/papa123/37402
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CARTOON NTWK HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - CARTOON NTWK HD
 https://nonton.site:8443/papa123/papa123/37403
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",NICKELODEON HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - NICKELODEON HD
 https://nonton.site:8443/papa123/papa123/37404
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",NICK JR
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - NICK JR
 https://nonton.site:8443/papa123/papa123/37405
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AXN HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AXN HD
 https://nonton.site:8443/papa123/papa123/37406
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO HELLO
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO HELLO
 https://nonton.site:8443/papa123/papa123/37407
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",KIX HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - KIX HD
 https://nonton.site:8443/papa123/papa123/37408
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",HITS HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - HITS HD
 https://nonton.site:8443/papa123/papa123/37409
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TLC HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TLC HD
 https://nonton.site:8443/papa123/papa123/37410
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOOD NTWK HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOOD NTWK HD
 https://nonton.site:8443/papa123/papa123/37411
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",AFN HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - AFN HD
 https://nonton.site:8443/papa123/papa123/37412
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",NATGEO PEOPLE
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - NATGEO PEOPLE
 https://nonton.site:8443/papa123/papa123/37413
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",WARNER TV
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - WARNER TV
 https://nonton.site:8443/papa123/papa123/37414
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",C&I HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - C&I HD
 https://nonton.site:8443/papa123/papa123/37415
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",HGTV HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - HGTV HD
 https://nonton.site:8443/papa123/papa123/37416
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",DMAX HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - DMAX HD
 https://nonton.site:8443/papa123/papa123/37417
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",MTV
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - MTV
 https://nonton.site:8443/papa123/papa123/37419
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ANIMAX
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ANIMAX
 https://nonton.site:8443/papa123/papa123/37420
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",eGG Network
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - eGG Network
 https://nonton.site:8443/papa123/papa123/37421
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO ARENA HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO ARENA HD
 https://nonton.site:8443/papa123/papa123/37422
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",COLORS HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - COLORS HD
 https://nonton.site:8443/papa123/papa123/37427
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",VAANAVIL
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - VAANAVIL
 https://nonton.site:8443/papa123/papa123/37428
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX SPORTS HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX SPORTS HD
 https://nonton.site:8443/papa123/papa123/37429
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX SPORTS 2 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX SPORTS 2 HD
 https://nonton.site:8443/papa123/papa123/37430
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX SPORTS 3 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX SPORTS 3 HD
 https://nonton.site:8443/papa123/papa123/37431
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",beIN SPORTS
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - beIN SPORTS
 https://nonton.site:8443/papa123/papa123/37432
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",bEIN MAX
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - bEIN MAX
 https://nonton.site:8443/papa123/papa123/37433
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",EUROSPORT HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - EUROSPORT HD
 https://nonton.site:8443/papa123/papa123/37434
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",WWE NETWORK
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - WWE NETWORK
 https://nonton.site:8443/papa123/papa123/37435
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",GOLF CHANNEL HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - GOLF CHANNEL HD
 https://nonton.site:8443/papa123/papa123/37436
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO RUGBY PASS TV
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO RUGBY PASS TV
 https://nonton.site:8443/papa123/papa123/37437
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO CRICKET
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ASTRO CRICKET
 https://nonton.site:8443/papa123/papa123/37438
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ANIPLUS HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - ANIPLUS HD
 https://nonton.site:8443/papa123/papa123/37439
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",KPLUS HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - KPLUS HD
 https://nonton.site:8443/papa123/papa123/37440
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",DW HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - DW HD
 https://nonton.site:8443/papa123/papa123/37441
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FRANCE24 HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FRANCE24 HD
 https://nonton.site:8443/papa123/papa123/37442
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX Action Movies
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX Action Movies
 https://nonton.site:8443/papa123/papa123/37443
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX HD
 https://nonton.site:8443/papa123/papa123/37444
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX Family Movies
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX Family Movies
 https://nonton.site:8443/papa123/papa123/37445
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TV1
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TV1
 https://nonton.site:8443/papa123/papa123/37446
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TV2
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - TV2
 https://nonton.site:8443/papa123/papa123/37447
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",BBC Earth HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - BBC Earth HD
 https://nonton.site:8443/papa123/papa123/37449
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",BBC Lifestyle
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - BBC Lifestyle
 https://nonton.site:8443/papa123/papa123/37450
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Blue Ant Entertainment
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Blue Ant Entertainment
 https://nonton.site:8443/papa123/papa123/37451
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Blue Ant Extreme
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Blue Ant Extreme
 https://nonton.site:8443/papa123/papa123/37452
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Boomerang HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Boomerang HD
 https://nonton.site:8443/papa123/papa123/37453
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Cinema World HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Cinema World HD
 https://nonton.site:8443/papa123/papa123/37454
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Colors Cineplex
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Colors Cineplex
 https://nonton.site:8443/papa123/papa123/37455
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Dreamworks HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Dreamworks HD
 https://nonton.site:8443/papa123/papa123/37456
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX Life HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX Life HD
 https://nonton.site:8443/papa123/papa123/37457
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",FOX Movies HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - FOX Movies HD
 https://nonton.site:8443/papa123/papa123/37458
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Jaya Max
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Jaya Max
 https://nonton.site:8443/papa123/papa123/37459
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",MTV Asia
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - MTV Asia
 https://nonton.site:8443/papa123/papa123/37460
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Paramount Channel
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Paramount Channel
 https://nonton.site:8443/papa123/papa123/37462
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Sony SAB
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Sony SAB
 https://nonton.site:8443/papa123/papa123/37463
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Sony SetMAX
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Sony SetMAX
 https://nonton.site:8443/papa123/papa123/37464
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Sony TV
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Sony TV
 https://nonton.site:8443/papa123/papa123/37465
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Travel Channel HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Travel Channel HD
 https://nonton.site:8443/papa123/papa123/37466
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Astro Rania HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Astro Rania HD
 https://nonton.site:8443/papa123/papa123/37467
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Astro Aura HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY - Astro Aura HD
 https://nonton.site:8443/papa123/papa123/37468
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",ASTRO VINMEEN HD
+#EXTINF:-1 group-title="NTS Astro" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,MY_ASTRO VINMEEN_HD
 https://nonton.site:8443/papa123/papa123/38806
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Chinese Drama
+#EXTINF:-1 group-title="NTS China" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,Chinese Drama
 https://nonton.site:8443/papa123/papa123/36733
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",CTI Asia
+#EXTINF:-1 group-title="NTS China" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,CTI Asia
 https://nonton.site:8443/papa123/papa123/29602
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Formosa
+#EXTINF:-1 group-title="NTS China" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,Formosa
 https://nonton.site:8443/papa123/papa123/29601
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",Kungfu TV
+#EXTINF:-1 group-title="NTS China" tvg-id="AnimalPlanet.id" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/96/Sony-max-hd-logo.jpg/revision/latest?cb=20160524184251" ,Kungfu TV
 https://nonton.site:8443/papa123/papa123/29598
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg",Reserved.
+#EXTINF:-1 group-title="NTS China" tvg-id="AnimalPlanet.id" tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" ,Reserved.
 https://nonton.site:8443/papa123/papa123/29596
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="N/A",TVBS News
+#EXTINF:-1 group-title="NTS China" tvg-id="AnimalPlanet.id" tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" ,TVBS News
 https://nonton.site:8443/papa123/papa123/29600
-#EXTINF:-1  tvg-id="N/A" group-title="" tvg-logo="https://www.tvchinese.net/uploads/tv/zjgj.jpg",Zhejiang International
+#EXTINF:-1 group-title="NTS China" tvg-id="AnimalPlanet.id" tvg-logo="https://www.tvchinese.net/uploads/tv/zjgj.jpg" ,Zhejiang International
 https://nonton.site:8443/papa123/papa123/29595
